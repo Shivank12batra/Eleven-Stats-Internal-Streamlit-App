@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import streamlit as st
 
 st.markdown("<h1 style='text-align: center'>Eleven Stats Player Attribute System</h1>", unsafe_allow_html=True)
