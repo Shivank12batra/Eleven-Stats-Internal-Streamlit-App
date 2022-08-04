@@ -1,620 +1,620 @@
-player,player_id,team_id,league_id,season_id,position_1,position_2,position_3,Aerial Duels Score,Ball Carrying Score,Ball Retention Score,Ball Winning Score,Box Defending Score,Box Movement Score,Buildup Passing Score,Creativity Score,Crossing Score,Dribbling Score,Finishing Score,Forward Linkup Play Score,Foul Winning Ability Score,Goalkeeper Aggressiveness Score,Goalkeeper Passing Ability Score,Goalkeeper Shot Stopping Score
-Sebastiano Desplanches,591035,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Andreas Kristoffer Jungdal,519666,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Zlatan Ibrahimovi?,20420,3157,524,187528,Striker,NaN,NaN,86.0,40.0,26.0,18.0,47.0,97.0,27.0,65.0,,20.0,90.0,98.0,31.0,,,
-Simon Thorup Kjær,20433,3157,524,187528,Right Centre Back,NaN,NaN,71.0,8.0,73.0,79.0,100.0,,79.0,13.0,,,,,26.0,,,
-Ante Rebi?,69616,3157,524,187528,Striker,Left Attacking Midfielder,NaN,28.0,80.0,26.0,15.0,32.0,65.0,24.0,100.0,84.0,97.0,61.0,91.0,26.0,,,
-Anton Ciprian T?t?ru?anu,83574,3157,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Samuel  Castillejo Azuaga,134174,3157,524,187528,Right Attacking Midfielder,Right Winger,NaN,,,,,,,,,,,,,,,,
-Alessio Romagnoli,146588,3157,524,187528,Left Centre Back,NaN,NaN,96.0,13.0,87.0,47.0,90.0,34.0,87.0,8.0,,,33.0,,44.0,,,
-Rade Kruni?,254493,3157,524,187528,Attacking Midfielder,Left Defensive Midfielder,Left Attacking Midfielder,58.0,34.0,62.0,70.0,53.0,,32.0,57.0,,48.0,,43.0,80.0,,,
-Davide Calabria,257028,3157,524,187528,Right Back,NaN,NaN,17.0,51.0,59.0,83.0,63.0,51.0,77.0,40.0,75.0,34.0,29.0,,55.0,,,
-Franck Yannick Kessié,285109,3157,524,187528,Left Defensive Midfielder,Attacking Midfielder,NaN,49.0,43.0,75.0,78.0,67.0,53.0,71.0,45.0,17.0,42.0,58.0,14.0,57.0,,,
-Fikayo Tomori,291591,3157,524,187528,Left Centre Back,Right Centre Back,NaN,66.0,21.0,68.0,78.0,90.0,,76.0,3.0,,17.0,,3.0,6.0,,,
-Ismael Bennacer,328702,3157,524,187528,Right Defensive Midfielder,Left Defensive Midfielder,NaN,25.0,47.0,75.0,95.0,56.0,12.0,93.0,72.0,55.0,68.0,56.0,7.0,92.0,,,
-Theo Hernández,344132,3157,524,187528,Left Back,NaN,NaN,56.0,97.0,63.0,82.0,53.0,27.0,66.0,81.0,68.0,68.0,61.0,,94.0,,,
-Rafael Alexandre Conceição Leão,399654,3157,524,187528,Left Attacking Midfielder,NaN,NaN,43.0,99.0,56.0,23.0,34.0,81.0,28.0,89.0,72.0,83.0,84.0,88.0,63.0,,,
-Brahim Abdelkader Diaz,404397,3157,524,187528,Attacking Midfielder,NaN,NaN,1.0,87.0,50.0,61.0,26.0,76.0,38.0,72.0,56.0,42.0,40.0,31.0,65.0,,,
-Matteo Gabbia,405603,3157,524,187528,Left Centre Back,Right Centre Back,NaN,,,,,,,,,,,,,,,,
-Alexis Saelemaekers,475011,3157,524,187528,Right Attacking Midfielder,NaN,NaN,24.0,80.0,44.0,32.0,31.0,42.0,37.0,80.0,76.0,83.0,18.0,74.0,76.0,,,
-Sandro Tonali,518231,3157,524,187528,Right Defensive Midfielder,Left Defensive Midfielder,NaN,29.0,44.0,77.0,63.0,60.0,48.0,78.0,73.0,75.0,65.0,68.0,,84.0,,,
-Daniel Maldini,558720,3157,524,187528,Attacking Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Pierre Kalulu Kyatengwa,582906,3157,524,187528,Right Centre Back,Right Back,NaN,37.0,38.0,63.0,91.0,84.0,,71.0,18.0,48.0,4.0,,,3.0,,,
-Antonio Mirante,20483,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Andrea Conti,134419,3157,524,187528,Right Back (5 at the back),Right Back,Right Winger,,,,,,,,,,,,,,,,
-Tiemoué Bakayoko,28291,3157,524,187528,Left Defensive Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Junior Walter Messias,518166,3157,524,187528,Right Attacking Midfielder,Right Winger,NaN,57.0,88.0,33.0,56.0,45.0,72.0,34.0,64.0,40.0,69.0,80.0,62.0,62.0,,,
-Alessandro Plizzari,423148,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Fodé  Ballo-Touré,286917,3157,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,
-Pietro Pellegri,481329,3157,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Alessandro  Florenzi,22566,3157,524,187528,Right Back,Right Attacking Midfielder,Left Back,44.0,55.0,59.0,61.0,63.0,21.0,87.0,56.0,94.0,39.0,62.0,23.0,25.0,,,
-Mike Maignan,134496,3157,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,30.0,80.0,92.0
-Olivier Giroud,26010,3157,524,187528,Striker,NaN,NaN,85.0,4.0,8.0,38.0,56.0,97.0,2.0,53.0,,40.0,70.0,81.0,47.0,,,
-Cristian Volpato,669931,3158,524,187528,Attacking Midfielder,Right Attacking Midfielder,NaN,,,,,,,,,,,,,,,,
-Filippo Missori,624184,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Chris Smalling,7922,3158,524,187528,Centre Back,Right Centre Back,NaN,87.0,1.0,76.0,81.0,86.0,,48.0,7.0,,18.0,,,34.0,,,
-Bryan Cristante,20404,3158,524,187528,Right Centre Midfielder,Right Defensive Midfielder,Defensive Midfielder,89.0,25.0,50.0,89.0,60.0,34.0,93.0,28.0,48.0,43.0,32.0,,12.0,,,
-Stephan El Shaarawy,20418,3158,524,187528,Left Wingback,Left Attacking Midfielder,Left Winger,59.0,98.0,73.0,21.0,43.0,70.0,52.0,97.0,57.0,63.0,67.0,67.0,44.0,,,
-Jordan Veretout,25541,3158,524,187528,Left Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,41.0,64.0,77.0,54.0,37.0,48.0,81.0,65.0,15.0,24.0,47.0,7.0,47.0,,,
-Henrikh Mkhitaryan,105338,3158,524,187528,Attacking Midfielder,Left Centre Midfielder,Left Attacking Midfielder,34.0,81.0,76.0,54.0,41.0,47.0,56.0,81.0,36.0,58.0,64.0,41.0,80.0,,,
-Rick Karsdorp,289122,3158,524,187528,Right Wingback,Right Back,NaN,9.0,38.0,34.0,51.0,44.0,,77.0,79.0,88.0,11.0,,,16.0,,,
-Lorenzo Pellegrini,328333,3158,524,187528,Attacking Midfielder,Striker,NaN,50.0,75.0,28.0,13.0,35.0,61.0,53.0,91.0,43.0,45.0,74.0,60.0,83.0,,,
-Carles Pérez Sayol,344053,3158,524,187528,Right Centre Midfielder,Right Attacking Midfielder,Right Wing Forward,,,,,,,,,,,,,,,,
-Borja Mayoral Moya,344120,3158,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Gianluca Mancini,346913,3158,524,187528,Right Centre Back (3 at the back),Right Centre Back,NaN,85.0,37.0,63.0,85.0,69.0,42.0,83.0,18.0,33.0,34.0,0.0,,15.0,,,
-Gonzalo Villar del Fraile,357981,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Amadou Diawara,374013,3158,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Marash Kumbulla,404693,3158,524,187528,Left Centre Back (3 at the back),Centre Back,Left Centre Back,70.0,31.0,66.0,92.0,74.0,,55.0,3.0,,18.0,,,41.0,,,
-Nicolò Zaniolo,487020,3158,524,187528,Striker,Right Attacking Midfielder,NaN,42.0,96.0,32.0,22.0,21.0,57.0,15.0,77.0,21.0,62.0,29.0,75.0,90.0,,,
-Roger Ibañez da Silva,492664,3158,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,84.0,48.0,67.0,79.0,69.0,37.0,65.0,16.0,,33.0,50.0,,68.0,,,
-Bryan Reynolds,494536,3158,524,187528,Right Back,NaN,NaN,,,,,,,,,,,,,,,,
-Daniel Cerantola Fuzato,518225,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Riccardo Calafiori,542200,3158,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,
-Eldor Shomurodov,332892,3158,524,187528,Striker,Left Attacking Midfielder,NaN,50.0,75.0,22.0,13.0,27.0,97.0,11.0,86.0,44.0,52.0,55.0,76.0,18.0,,,
-Nicola Zalewski,563315,3158,524,187528,Left Wingback,Left Back,NaN,3.0,96.0,40.0,86.0,43.0,,54.0,56.0,35.0,84.0,,15.0,86.0,,,
-Pietro Boer,594331,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Ebrima  Darboe,600085,3158,524,187528,Left Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Edoardo Bove,601304,3158,524,187528,Right Centre Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Filippo Tripi,601310,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Maissa Ndiaye Codou,644838,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Tammy Abraham,343951,3158,524,187528,Striker,NaN,NaN,53.0,36.0,25.0,26.0,46.0,98.0,6.0,63.0,9.0,44.0,62.0,72.0,62.0,,,
-Rui Pedro dos Santos Patrício,70134,3158,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,3.0,54.0,32.0
-Matías Nicolás Viña Susperreguy,487006,3158,524,187528,Left Back,Left Wingback,Left Back (5 at the back),41.0,71.0,30.0,58.0,65.0,10.0,51.0,50.0,40.0,38.0,10.0,,50.0,,,
-Felix Ohene Afena-Gyan,736016,3158,524,187528,Striker,Left Attacking Midfielder,Left Wing Forward,,,,,,,,,,,,,,,,
-Koni De Winter,549480,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Matías Soulé Malvano,590733,3159,524,187528,Right Winger,NaN,NaN,,,,,,,,,,,,,,,,
-Fabio Miretti,609117,3159,524,187528,Right Centre Midfielder,Right Winger,NaN,,,,,,,,,,,,,,,,
-Cristiano Ronaldo dos Santos Aveiro,3322,3159,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Álvaro Borja Morata Martín,3324,3159,524,187528,Striker,NaN,NaN,57.0,81.0,31.0,23.0,37.0,90.0,13.0,76.0,61.0,66.0,68.0,89.0,98.0,,,
-Wojciech  Szcz?sny,7849,3159,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,49.0,63.0,54.0
-Aaron Ramsey,7870,3159,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Leonardo Bonucci,20459,3159,524,187528,Right Centre Back,Centre Back,Left Centre Back,74.0,2.0,74.0,51.0,88.0,58.0,91.0,22.0,,9.0,30.0,,10.0,,,
-Giorgio Chiellini,20461,3159,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,88.0,66.0,77.0,65.0,99.0,,94.0,18.0,,11.0,,,72.0,,,
-Juan Guillermo Cuadrado Bello,20751,3159,524,187528,Right Back,Right Winger,NaN,56.0,85.0,84.0,62.0,52.0,24.0,91.0,84.0,95.0,69.0,64.0,32.0,84.0,,,
-Carlo Pinsoglio,21128,3159,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Danilo Luiz da Silva,70083,3159,524,187528,Right Back,NaN,NaN,86.0,19.0,70.0,75.0,84.0,24.0,92.0,53.0,42.0,37.0,27.0,,22.0,,,
-Alex Sandro Lobo Silva,70084,3159,524,187528,Left Back,Left Wingback,NaN,78.0,84.0,78.0,67.0,72.0,,71.0,47.0,76.0,54.0,,,78.0,,,
-Paulo Bruno Exequiel Dybala,89186,3159,524,187528,Striker,Attacking Midfielder,Right Wing Forward,13.0,81.0,68.0,21.0,24.0,66.0,52.0,82.0,67.0,57.0,88.0,82.0,91.0,,,
-Adrien Rabiot,209117,3159,524,187528,Left Winger,Left Centre Midfielder,NaN,80.0,69.0,42.0,82.0,74.0,30.0,41.0,46.0,53.0,58.0,2.0,17.0,43.0,,,
-Federico Bernardeschi,246061,3159,524,187528,Right Winger,Left Winger,Left Attacking Midfielder,31.0,85.0,52.0,33.0,54.0,29.0,32.0,76.0,42.0,63.0,31.0,43.0,74.0,,,
-Arthur Henrique Ramos de Oliveira Melo,255256,3159,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,17.0,24.0,90.0,56.0,47.0,,80.0,23.0,,63.0,,,97.0,,,
-Rodrigo Bentancur Colmán,361807,3159,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,72.0,45.0,55.0,87.0,73.0,,77.0,32.0,,33.0,,,20.0,,,
-Matthijs de Ligt,365443,3159,524,187528,Right Centre Back,Left Centre Back,NaN,92.0,8.0,70.0,80.0,83.0,38.0,72.0,16.0,,26.0,52.0,,18.0,,,
-Federico Chiesa,447804,3159,524,187528,Right Winger,Left Winger,Striker,6.0,89.0,50.0,55.0,33.0,70.0,21.0,77.0,79.0,61.0,60.0,48.0,77.0,,,
-Weston  McKennie,471348,3159,524,187528,Right Centre Midfielder,Left Winger,NaN,61.0,52.0,36.0,44.0,67.0,61.0,26.0,39.0,68.0,20.0,66.0,36.0,4.0,,,
-Dejan Kulusevski,472363,3159,524,187528,Right Winger,Striker,Right Attacking Midfielder,38.0,86.0,43.0,31.0,31.0,73.0,15.0,71.0,46.0,53.0,36.0,75.0,40.0,,,
-Nicolò Fagioli,532465,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Daniele Rugani,134427,3159,524,187528,Left Centre Back,Right Centre Back,NaN,66.0,18.0,60.0,65.0,85.0,,64.0,0.0,,,,,0.0,,,
-Mattia Perin,21468,3159,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Luca Pellegrini,397239,3159,524,187528,Left Back,NaN,NaN,40.0,58.0,38.0,79.0,58.0,,59.0,65.0,69.0,67.0,,,76.0,,,
-Manuel Locatelli,286226,3159,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,57.0,16.0,86.0,60.0,80.0,35.0,93.0,53.0,27.0,38.0,59.0,,46.0,,,
-Franco Israel Wibmer,493039,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Filippo Ranocchia,530940,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Mattia De Sciglio,20395,3159,524,187528,Left Back,Right Back,NaN,55.0,55.0,63.0,47.0,58.0,,70.0,85.0,100.0,71.0,,,16.0,,,
-Moise Bioty Kean,410031,3159,524,187528,Striker,Left Wing Forward,NaN,68.0,66.0,20.0,19.0,30.0,94.0,2.0,14.0,22.0,38.0,77.0,69.0,50.0,,,
-Kaio Jorge Pinto Ramos,547507,3159,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Mattia  Zanotti,633795,3161,524,187528,Right Wingback,NaN,NaN,,,,,,,,,,,,,,,,
-Martin Adrian Satriano Costa,595134,3161,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Fabio Cortinovis,613231,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Mattia Sangalli,613292,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Franco Ezequiel Carboni,634043,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Hakan Çalhano?lu,15524,3161,524,187528,Left Centre Midfielder,NaN,NaN,23.0,58.0,69.0,35.0,37.0,39.0,88.0,94.0,72.0,45.0,56.0,19.0,48.0,,,
-Edin Deko,8327,3161,524,187528,Striker,NaN,NaN,86.0,50.0,29.0,27.0,46.0,98.0,26.0,77.0,40.0,40.0,76.0,94.0,62.0,,,
-Stefan de Vrij,130,3161,524,187528,Centre Back,NaN,NaN,83.0,35.0,93.0,79.0,67.0,43.0,63.0,4.0,,36.0,1.0,,1.0,,,
-Alexis Alejandro Sánchez Sánchez,3361,3161,524,187528,Striker,Attacking Midfielder,NaN,44.0,45.0,62.0,29.0,,94.0,51.0,92.0,73.0,100.0,81.0,100.0,84.0,,,
-Aleksandar Kolarov,8306,3161,524,187528,Left Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,
-Ivan Perii?,14812,3161,524,187528,Left Wingback,NaN,NaN,74.0,86.0,40.0,36.0,62.0,48.0,55.0,87.0,98.0,91.0,79.0,40.0,2.0,,,
-Arturo Erasmo Vidal Pardo,20475,3161,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,69.0,38.0,85.0,68.0,65.0,84.0,84.0,93.0,,55.0,33.0,,49.0,,,
-Andrea Ranocchia,20519,3161,524,187528,Centre Back,NaN,NaN,,,,,,,,,,,,,,,,
-Samir Handanovi?,20571,3161,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,0.0,100.0,73.0
-Danilo D'Ambrosio,21094,3161,524,187528,Right Centre Back (3 at the back),NaN,NaN,77.0,31.0,75.0,73.0,78.0,66.0,76.0,29.0,,42.0,29.0,,11.0,,,
-Matteo Darmian,21095,3161,524,187528,Right Wingback,NaN,NaN,47.0,15.0,57.0,60.0,37.0,,30.0,64.0,89.0,68.0,,,54.0,,,
-Marcelo Brozovi?,69968,3161,524,187528,Defensive Midfielder,NaN,NaN,7.0,58.0,82.0,64.0,61.0,9.0,100.0,55.0,70.0,53.0,39.0,,47.0,,,
-Matías Vecino Falero,116349,3161,524,187528,Right Centre Midfielder,Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Milan kriniar,138408,3161,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,58.0,36.0,90.0,77.0,76.0,43.0,63.0,19.0,,41.0,41.0,,30.0,,,
-Roberto Gagliardini,241676,3161,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Stefano Sensi,246063,3161,524,187528,Attacking Midfielder,Striker,Left Centre Midfielder,22.0,50.0,64.0,45.0,34.0,62.0,67.0,58.0,,70.0,36.0,33.0,97.0,,,
-Nicolò Barella,286223,3161,524,187528,Right Centre Midfielder,NaN,NaN,29.0,94.0,63.0,47.0,32.0,59.0,84.0,98.0,73.0,62.0,30.0,16.0,78.0,,,
-Lautaro Javier Martínez,372255,3161,524,187528,Striker,NaN,NaN,36.0,43.0,40.0,21.0,27.0,100.0,5.0,67.0,24.0,51.0,82.0,87.0,83.0,,,
-Ionu? Andrei Radu,380900,3161,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Alessandro Bastoni,405597,3161,524,187528,Left Centre Back (3 at the back),NaN,NaN,76.0,53.0,85.0,82.0,80.0,,92.0,47.0,22.0,21.0,,,47.0,,,
-Carlos Joaquín Correa,207001,3161,524,187528,Striker,NaN,NaN,46.0,84.0,70.0,9.0,25.0,95.0,19.0,87.0,,68.0,85.0,100.0,62.0,,,
-Federico Dimarco,239291,3161,524,187528,Left Centre Back (3 at the back),Left Wingback,NaN,32.0,72.0,74.0,41.0,43.0,57.0,89.0,89.0,76.0,49.0,43.0,,45.0,,,
-Alex Cordaz,21494,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Lucien Agoume,589805,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Denzel Dumfries,330003,3161,524,187528,Right Wingback,NaN,NaN,87.0,67.0,51.0,57.0,49.0,80.0,21.0,71.0,77.0,47.0,61.0,34.0,66.0,,,
-Felipe  Anderson Pereira Gomes,40806,3162,524,187528,Right Wing Forward,Right Winger,NaN,30.0,94.0,39.0,40.0,39.0,61.0,44.0,94.0,66.0,54.0,68.0,89.0,44.0,,,
-Romano Floriani,631726,3162,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Pedro Eliezer Rodríguez Ledesma,3360,3162,524,187528,Left Wing Forward,Right Wing Forward,Right Winger,4.0,95.0,69.0,21.0,24.0,73.0,37.0,74.0,21.0,80.0,93.0,85.0,81.0,,,
-Luis Alberto Romero Alconchel,3484,3162,524,187528,Left Centre Midfielder,NaN,NaN,15.0,91.0,76.0,27.0,27.0,52.0,93.0,96.0,31.0,55.0,69.0,,46.0,,,
-Patricio Gabarrón Gil,4792,3162,524,187528,Right Centre Back,Left Centre Back,NaN,47.0,5.0,86.0,37.0,71.0,,66.0,23.0,,27.0,,,12.0,,,
-José Manuel  Reina Páez,7949,3162,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,20.0,63.0,0.0
-Lucas  Pezzini Leiva,7965,3162,524,187528,Defensive Midfielder,NaN,NaN,45.0,9.0,92.0,71.0,73.0,,86.0,5.0,,11.0,,,36.0,,,
-?tefan Daniel Radu,20550,3162,524,187528,Left Back,Left Centre Back,NaN,,,,,,,,,,,,,,,,
-Francesco Acerbi,20635,3162,524,187528,Left Centre Back,NaN,NaN,84.0,48.0,96.0,57.0,81.0,49.0,90.0,9.0,,26.0,64.0,,23.0,,,
-Ciro Immobile,21384,3162,524,187528,Striker,NaN,NaN,24.0,67.0,48.0,8.0,23.0,96.0,12.0,59.0,36.0,54.0,99.0,97.0,63.0,,,
-Jean-Daniel Akpa Akpro,25792,3162,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Thomas Strakosha,166534,3162,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,32.0,57.0,46.0
-Gonzalo Escalante,212644,3162,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Manuel Lazzari,226200,3162,524,187528,Right Back,NaN,NaN,18.0,96.0,56.0,55.0,41.0,16.0,40.0,69.0,49.0,70.0,66.0,,95.0,,,
-Adam Marui?,228928,3162,524,187528,Left Back,Right Back,NaN,70.0,38.0,66.0,26.0,61.0,,69.0,20.0,23.0,33.0,,,16.0,,,
-Vedat Muriqi,251447,3162,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Danilo Cataldi,256478,3162,524,187528,Defensive Midfielder,NaN,NaN,32.0,9.0,87.0,35.0,57.0,6.0,95.0,61.0,,48.0,37.0,,55.0,,,
-Sergej Milinkovi?-Savi?,265865,3162,524,187528,Right Centre Midfielder,NaN,NaN,81.0,53.0,47.0,48.0,49.0,53.0,81.0,81.0,41.0,23.0,88.0,17.0,52.0,,,
-Luiz Felipe Ramos Marchi,376362,3162,524,187528,Right Centre Back,NaN,NaN,65.0,23.0,84.0,61.0,85.0,,79.0,8.0,,,,,23.0,,,
-Elseid Hysaj,21001,3162,524,187528,Left Back,Right Back,NaN,36.0,22.0,65.0,50.0,50.0,,71.0,31.0,59.0,19.0,,,39.0,,,
-Marius Adamonis,286197,3162,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-André Anderson Pomilio Lima da Silva,412405,3162,524,187528,Right Centre Midfielder,Left Winger,Right Winger,,,,,,,,,,,,,,,,
-Alessio Furlanetto,556078,3162,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Raúl Moro Prescoli,605385,3162,524,187528,Left Wing Forward,NaN,NaN,,,,,,,,,,,,,,,,
-Toma Bai?,337392,3162,524,187528,Left Centre Midfielder,NaN,NaN,50.0,44.0,50.0,38.0,56.0,57.0,27.0,28.0,0.0,31.0,5.0,,12.0,,,
-Luka Romero Bezzana,644114,3162,524,187528,Right Wing Forward,Right Winger,Left Wing Forward,,,,,,,,,,,,,,,,
-Denis Vavro,262121,3162,524,187528,Right Centre Back,NaN,NaN,,,,,,,,,,,,,,,,
-Patricio Nehuén Pérez,494337,3163,524,187528,Left Centre Back (3 at the back),Right Back,Right Centre Back (3 at the back),41.0,34.0,43.0,68.0,65.0,,43.0,10.0,,4.0,,,11.0,,,
-Norberto Bercique Gomes Betuncal,580990,3163,524,187528,Striker,NaN,NaN,54.0,59.0,20.0,13.0,24.0,96.0,0.0,31.0,,30.0,74.0,54.0,29.0,,,
-Daniele Padelli,20572,3163,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Bram Nuytinck,394,3163,524,187528,Centre Back,Left Centre Back (3 at the back),Left Centre Back,69.0,2.0,54.0,69.0,79.0,,43.0,3.0,,,,,2.0,,,
-Gerard Deulofeu Lázaro,3348,3163,524,187528,Striker,Left Winger,NaN,0.0,98.0,37.0,3.0,13.0,65.0,37.0,94.0,28.0,59.0,94.0,84.0,46.0,,,
-Tolgay Ali Arslan,14894,3163,524,187528,Right Centre Midfielder,NaN,NaN,13.0,68.0,69.0,67.0,44.0,16.0,53.0,26.0,20.0,53.0,31.0,,90.0,,,
-Mato Jajalo,15280,3163,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Stefano Okaka Chuka,20505,3163,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Roberto Maximiliano Pereyra,20593,3163,524,187528,Right Centre Midfielder,Left Centre Midfielder,Striker,14.0,91.0,61.0,12.0,32.0,59.0,46.0,80.0,56.0,40.0,34.0,43.0,80.0,,,
-Sebastian De Maio,20707,3163,524,187528,Right Centre Back,Centre Back,NaN,,,,,,,,,,,,,,,,
-Fernando Martín Forestieri,21660,3163,524,187528,Left Attacking Midfielder,Left Winger,Right Winger,,,,,,,,,,,,,,,,
-Jens Stryger Larsen,56026,3163,524,187528,Left Wingback,Left Back (5 at the back),Right Wingback,,,,,,,,,,,,,,,,
-Ilija Nestorovski,82501,3163,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Marvin  Zeegelaar,189821,3163,524,187528,Left Centre Back (3 at the back),Left Wingback,NaN,,,,,,,,,,,,,,,,
-Simone Scuffet,239288,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Samir Caetano de Souza Santos,248950,3163,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,92.0,31.0,53.0,63.0,75.0,,47.0,8.0,32.0,31.0,,,43.0,,,
-Ignacio Pussetto,266540,3163,524,187528,Striker,Right Winger,NaN,54.0,71.0,24.0,14.0,36.0,86.0,6.0,65.0,36.0,53.0,54.0,61.0,78.0,,,
-Walace Souza Silva,327009,3163,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,38.0,33.0,57.0,90.0,45.0,10.0,80.0,41.0,23.0,16.0,20.0,0.0,47.0,,,
-Jean-Victor Makengo,352992,3163,524,187528,Left Centre Midfielder,NaN,NaN,23.0,71.0,66.0,46.0,38.0,42.0,30.0,43.0,,51.0,13.0,,72.0,,,
-Rodrigo  Nascimento Franca,409091,3163,524,187528,Right Centre Back (3 at the back),Right Centre Back,NaN,74.0,20.0,50.0,100.0,65.0,25.0,31.0,25.0,1.0,28.0,33.0,,59.0,,,
-Nahuel Molina Lucero,414193,3163,524,187528,Right Wingback,Right Back (5 at the back),Right Winger,26.0,81.0,17.0,22.0,40.0,49.0,52.0,70.0,92.0,44.0,80.0,7.0,19.0,,,
-Martin Njøten Palumbo,619638,3163,524,187528,Left Winger,NaN,NaN,,,,,,,,,,,,,,,,
-Marco Silvestri,21573,3163,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,29.0,10.0,73.0
-Iyenoma Destiny Udogie,604763,3163,524,187528,Left Wingback,Left Back (5 at the back),Left Back,52.0,70.0,43.0,73.0,46.0,67.0,19.0,45.0,4.0,41.0,64.0,,52.0,,,
-Simone Ianesi,609022,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Matteo Carnelos,623196,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Jacopo Fedrizzi,643931,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Edoardo Piana,645722,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Brandon Soppy,590652,3163,524,187528,Right Wingback,Right Back (5 at the back),Left Wingback,20.0,80.0,45.0,62.0,45.0,,9.0,34.0,24.0,77.0,,,99.0,,,
-Lazar Samardi?,522257,3163,524,187528,Right Centre Midfielder,Left Centre Midfielder,Right Winger,,,,,,,,,,,,,,,,
-Isaac  Ajayi Success,285509,3163,524,187528,Striker,NaN,NaN,39.0,58.0,18.0,51.0,10.0,77.0,17.0,99.0,,79.0,56.0,78.0,95.0,,,
-Cristo Ramón González Pérez,339800,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Matteo Trimboli,631170,3164,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Maya Yoshida,703,3164,524,187528,Right Centre Back,NaN,NaN,88.0,5.0,57.0,70.0,74.0,,66.0,30.0,,11.0,,,12.0,,,
-Valerio Verre,20446,3164,524,187528,Attacking Midfielder,Left Winger,Left Centre Midfielder,,,,,,,,,,,,,,,,
-Fabio Quagliarella,20479,3164,524,187528,Striker,NaN,NaN,42.0,17.0,10.0,16.0,12.0,54.0,13.0,57.0,55.0,74.0,54.0,65.0,66.0,,,
-Antonio Candreva,20556,3164,524,187528,Right Winger,Right Centre Midfielder,NaN,0.0,77.0,37.0,17.0,14.0,52.0,78.0,95.0,72.0,97.0,61.0,37.0,70.0,,,
-Manolo Gabbiadini,20857,3164,524,187528,Striker,Attacking Midfielder,NaN,38.0,43.0,0.0,31.0,20.0,81.0,13.0,79.0,30.0,25.0,93.0,50.0,55.0,,,
-Albin Ekdal,20876,3164,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,70.0,12.0,48.0,69.0,58.0,26.0,48.0,11.0,,54.0,31.0,,91.0,,,
-Nicola Ravaglia,21331,3164,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Ernesto Torregrossa,21775,3164,524,187528,Striker,Attacking Midfielder,NaN,,,,,,,,,,,,,,,,
-Adrien Sebastian Perruchet Silva,70403,3164,524,187528,Left Centre Midfielder,Defensive Midfielder,Left Defensive Midfielder,39.0,29.0,65.0,87.0,57.0,,68.0,29.0,,1.0,,,61.0,,,
-Bartosz Bereszy?ski,99833,3164,524,187528,Right Back,NaN,NaN,67.0,44.0,29.0,51.0,57.0,,43.0,43.0,53.0,33.0,,,44.0,,,
-Omar Colley,215503,3164,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,78.0,5.0,66.0,82.0,78.0,,60.0,5.0,,13.0,,,47.0,,,
-Tommaso Augello,222964,3164,524,187528,Left Back,NaN,NaN,67.0,66.0,50.0,49.0,51.0,,59.0,53.0,50.0,36.0,,,34.0,,,
-Morten Thorsby,237057,3164,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,79.0,8.0,16.0,55.0,44.0,54.0,15.0,23.0,,7.0,33.0,20.0,43.0,,,
-Emil Audero Mulyadi,257027,3164,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,65.0,27.0,16.0
-Alex Ferrari,263433,3164,524,187528,Right Centre Back,NaN,NaN,52.0,6.0,52.0,80.0,78.0,,45.0,4.0,,2.0,,,60.0,,,
-Mikkel Damsgaard,449472,3164,524,187528,Left Winger,Left Attacking Midfielder,NaN,,,,,,,,,,,,,,,,
-Kristoffer Askildsen,563182,3164,524,187528,Right Centre Midfielder,Left Winger,Left Centre Midfielder,74.0,7.0,9.0,48.0,66.0,,20.0,13.0,,62.0,,21.0,74.0,,,
-Nicola Murru,20869,3164,524,187528,Left Back,NaN,NaN,53.0,36.0,3.0,55.0,51.0,,48.0,29.0,73.0,37.0,,,18.0,,,
-Julian Chabot,391740,3164,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,
-Fabio Depaoli,415809,3164,524,187528,Right Wingback,Left Wingback,Right Winger,22.0,47.0,20.0,33.0,51.0,37.0,33.0,55.0,71.0,72.0,47.0,,51.0,,,
-Wladimiro Falcone,226222,3164,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,67.0,69.0,76.0
-Radu-Matei Dr?gu?in,545267,3164,524,187528,Right Centre Back,Right Back,Right Centre Back (3 at the back),68.0,16.0,33.0,74.0,70.0,,30.0,6.0,,,,,40.0,,,
-Simone Trimboli,542197,3164,524,187528,Right Centre Midfielder,Left Centre Midfielder,Defensive Midfielder,,,,,,,,,,,,,,,,
-Francesco Migliardi,631069,3164,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Gerard Yepes Laut,635150,3164,524,187528,Defensive Midfielder,Right Centre Midfielder,Left Centre Midfielder,,,,,,,,,,,,,,,,
-Riccardo Ciervo,601314,3164,524,187528,Left Winger,Right Winger,Left Wingback,,,,,,,,,,,,,,,,
-Mohamed Amine Ihattaren,489626,3164,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Baye Ibrahima Niasse,92260,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Marco Molla,562295,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Omar  Khailoti,576506,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Ebenezer Isaac Annan,626846,3166,524,187528,Left Back (5 at the back),Left Wingback,NaN,,,,,,,,,,,,,,,,
-Davide Franzini,628283,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Nicola Bagnolini,618933,3166,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Wisdom Amey,628296,3166,524,187528,Right Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,
-Kevin Bonifazi,289827,3166,524,187528,Left Centre Back,Right Centre Back (3 at the back),Left Centre Back (3 at the back),87.0,50.0,50.0,74.0,72.0,,78.0,14.0,,39.0,,,14.0,,,
-Mitchell Dijks,1708,3166,524,187528,Left Wingback,Left Back (5 at the back),Left Back,,,,,,,,,,,,,,,,
-Gary Alexis Medel Soto,3473,3166,524,187528,Centre Back,Right Centre Back,NaN,59.0,9.0,100.0,58.0,76.0,,74.0,7.0,,31.0,,,54.0,,,
-Roberto Soriano,20623,3166,524,187528,Right Centre Midfielder,Attacking Midfielder,Left Centre Midfielder,32.0,57.0,43.0,59.0,36.0,46.0,64.0,78.0,75.0,26.0,1.0,27.0,70.0,,,
-Lorenzo De Silvestri,20927,3166,524,187528,Right Wingback,Right Back,Right Back (5 at the back),85.0,64.0,28.0,35.0,51.0,37.0,60.0,52.0,91.0,6.0,59.0,6.0,49.0,,,
-Ibrahima Mbaye,22377,3166,524,187528,Right Back (5 at the back),Left Centre Back (3 at the back),Left Back (5 at the back),,,,,,,,,,,,,,,,
-Nicola Sansone,22578,3166,524,187528,Striker,Left Wing Forward,Attacking Midfielder,15.0,66.0,28.0,14.0,,82.0,21.0,89.0,77.0,64.0,51.0,45.0,84.0,,,
-Bakary Adama Soumaoro,25710,3166,524,187528,Right Centre Back (3 at the back),NaN,NaN,84.0,15.0,76.0,52.0,74.0,,47.0,2.0,,32.0,,,21.0,,,
-Federico Javier Santander Mereles,86316,3166,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-?ukasz Skorupski,99430,3166,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,86.0,47.0,64.0
-Mattias Svanberg,347525,3166,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,45.0,58.0,35.0,34.0,47.0,34.0,45.0,63.0,27.0,24.0,48.0,,94.0,,,
-Riccardo Orsolini,373768,3166,524,187528,Striker,Right Wing Forward,NaN,51.0,65.0,35.0,17.0,29.0,63.0,31.0,46.0,50.0,92.0,61.0,71.0,88.0,,,
-Takehiro Tomiyasu,386328,3166,524,187528,Left Back (5 at the back),NaN,NaN,,,,,,,,,,,,,,,,
-Jerdy Schouten,439889,3166,524,187528,Right Centre Midfielder,Defensive Midfielder,Right Defensive Midfielder,71.0,12.0,60.0,87.0,68.0,,75.0,44.0,,54.0,,,11.0,,,
-Emanuel Vignato,485014,3166,524,187528,Right Centre Midfielder,Left Centre Midfielder,Left Wingback,,,,,,,,,,,,,,,,
-Musa Barrow,491409,3166,524,187528,Striker,Left Wing Forward,NaN,19.0,74.0,30.0,5.0,14.0,53.0,31.0,83.0,64.0,59.0,77.0,76.0,39.0,,,
-Nicolás Martín Domínguez,496214,3166,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,76.0,32.0,57.0,84.0,55.0,33.0,79.0,58.0,35.0,13.0,3.0,,74.0,,,
-Andreas Skov Olsen,512740,3166,524,187528,Right Back (5 at the back),Right Winger,Right Wingback,21.0,87.0,49.0,49.0,31.0,,29.0,55.0,85.0,77.0,,42.0,81.0,,,
-Aaron Hickey,596046,3166,524,187528,Left Wingback,Left Back,Left Back (5 at the back),21.0,64.0,42.0,37.0,53.0,6.0,19.0,34.0,39.0,48.0,68.0,,93.0,,,
-Benito Nicolas Viola,22695,3166,524,187528,Defensive Midfielder,Left Wingback,NaN,,,,,,,,,,,,,,,,
-Francesco Bardi,20889,3166,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Kingsley Dogo Michael,403264,3166,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Gabriele Corbo,496671,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Gianmarco Cangiano,536800,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Arthur Theate,583730,3166,524,187528,Left Centre Back (3 at the back),NaN,NaN,51.0,66.0,45.0,57.0,67.0,16.0,81.0,15.0,3.0,5.0,45.0,,8.0,,,
-Sydney van Hooijdonk,576529,3166,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Niklas Pyyhtiä,619259,3166,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Luis Binks,494716,3166,524,187528,Centre Back,Left Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,
-M'Baye Babacar Niang,25898,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Marko Arnautovi?,14703,3166,524,187528,Striker,NaN,NaN,28.0,27.0,6.0,35.0,12.0,89.0,14.0,77.0,36.0,59.0,82.0,87.0,24.0,,,
-Federico Zuccon,591029,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Merih Demiral,345695,3172,524,187528,Centre Back,Right Centre Back,NaN,98.0,7.0,62.0,97.0,82.0,68.0,34.0,11.0,,3.0,13.0,,27.0,,,
-Giuseppe Pezzella,388398,3172,524,187528,Left Wingback,Left Back,NaN,46.0,70.0,37.0,48.0,59.0,,47.0,56.0,74.0,80.0,,,91.0,,,
-Juan Agustín Musso,225704,3172,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,59.0,34.0,23.0
-Marten de Roon,625,3172,524,187528,Right Centre Midfielder,Left Centre Midfielder,Right Centre Back (3 at the back),73.0,22.0,74.0,90.0,51.0,19.0,88.0,15.0,,28.0,56.0,,13.0,,,
-Luis Fernando Muriel Fruto,20764,3172,524,187528,Striker,Left Wing Forward,NaN,55.0,92.0,25.0,25.0,,71.0,32.0,99.0,52.0,77.0,92.0,98.0,61.0,,,
-Josip Ili?i?,20820,3172,524,187528,Striker,Attacking Midfielder,Right Wing Forward,5.0,86.0,54.0,30.0,17.0,66.0,74.0,99.0,62.0,88.0,79.0,87.0,100.0,,,
-Francesco Rossi,22053,3172,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Marco Sportiello,23705,3172,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Rafael Tolói,41034,3172,524,187528,Right Centre Back (3 at the back),NaN,NaN,88.0,36.0,36.0,71.0,75.0,,90.0,26.0,59.0,12.0,,4.0,18.0,,,
-Remo Freuler,49991,3172,524,187528,Left Centre Midfielder,Right Centre Midfielder,Left Defensive Midfielder,46.0,72.0,62.0,73.0,62.0,17.0,93.0,64.0,38.0,45.0,23.0,,45.0,,,
-Berat  Djimsiti,50007,3172,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),NaN,88.0,14.0,53.0,58.0,76.0,47.0,76.0,35.0,53.0,34.0,13.0,,23.0,,,
-Duván Esteban Zapata Banguera,86243,3172,524,187528,Striker,NaN,NaN,57.0,80.0,21.0,11.0,29.0,99.0,12.0,88.0,56.0,57.0,56.0,91.0,55.0,,,
-José Luis Palomino,86366,3172,524,187528,Centre Back,Left Centre Back (3 at the back),Left Centre Back,98.0,27.0,43.0,100.0,83.0,52.0,80.0,16.0,24.0,12.0,8.0,,18.0,,,
-Mario Paali?,135807,3172,524,187528,Attacking Midfielder,Right Centre Midfielder,Left Wing Forward,64.0,41.0,50.0,12.0,24.0,94.0,53.0,86.0,,21.0,100.0,57.0,23.0,,,
-Ruslan Malinovskiy,138548,3172,524,187528,Attacking Midfielder,Striker,Right Wing Forward,46.0,96.0,41.0,38.0,34.0,62.0,76.0,88.0,63.0,84.0,86.0,76.0,83.0,,,
-Aleksey Miranchuk,262048,3172,524,187528,Attacking Midfielder,Striker,Right Wing Forward,30.0,87.0,52.0,28.0,21.0,58.0,53.0,91.0,74.0,73.0,72.0,79.0,85.0,,,
-Matteo Pessina,272893,3172,524,187528,Attacking Midfielder,Left Centre Midfielder,NaN,58.0,67.0,47.0,59.0,38.0,57.0,63.0,45.0,17.0,39.0,23.0,63.0,87.0,,,
-Hans Hateboer,280419,3172,524,187528,Right Wingback,Right Back,NaN,52.0,67.0,54.0,52.0,41.0,67.0,57.0,38.0,82.0,70.0,4.0,,12.0,,,
-Robin Gosens,295176,3172,524,187528,Left Wingback,NaN,NaN,,,,,,,,,,,,,,,,
-Sam Lammers,377072,3172,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Joakim Maehle,442097,3172,524,187528,Left Wingback,Right Wingback,NaN,36.0,82.0,53.0,30.0,40.0,44.0,52.0,45.0,37.0,28.0,26.0,,74.0,,,
-Davide Zappacosta,22889,3172,524,187528,Right Wingback,Left Wingback,NaN,20.0,89.0,55.0,24.0,36.0,36.0,58.0,81.0,72.0,67.0,17.0,22.0,57.0,,,
-Matteo Lovato,485354,3172,524,187528,Centre Back,Right Centre Back (3 at the back),NaN,88.0,14.0,75.0,75.0,75.0,,55.0,1.0,,38.0,,,27.0,,,
-Roberto Piccoli,499876,3172,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Enrico Del Prato,422552,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Jacopo Da Riva,422563,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Andrea Olivieri,591040,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Giorgio  Scalvini,635339,3172,524,187528,Right Centre Back (3 at the back),Left Centre Back (3 at the back),NaN,85.0,20.0,64.0,87.0,49.0,74.0,86.0,9.0,,20.0,38.0,,31.0,,,
-Teun Koopmeiners,365444,3172,524,187528,Right Centre Midfielder,Left Centre Midfielder,Attacking Midfielder,60.0,59.0,60.0,42.0,35.0,16.0,91.0,77.0,81.0,43.0,69.0,,36.0,,,
-Christian Gabriel Oliva Giménez,557617,3173,524,187528,Right Centre Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Alberto Grassi,134435,3173,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,90.0,15.0,51.0,37.0,59.0,21.0,56.0,40.0,,43.0,4.0,,95.0,,,
-Keita Baldé Diao,256480,3173,524,187528,Striker,NaN,NaN,27.0,32.0,29.0,15.0,28.0,80.0,6.0,38.0,7.0,44.0,59.0,63.0,85.0,,,
-Paolo Faragò,220359,3173,524,187528,Left Centre Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Boris Radunovi?,265832,3173,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Diego Roberto Godín Leal,3433,3173,524,187528,Centre Back,Left Centre Back,Right Centre Back,83.0,6.0,97.0,81.0,73.0,,71.0,5.0,,53.0,,,6.0,,,
-Luca Ceppitelli,21639,3173,524,187528,Centre Back,Right Centre Back,Right Centre Back (3 at the back),79.0,3.0,55.0,77.0,76.0,,62.0,1.0,,,,,32.0,,,
-Leonardo Pavoletti,22933,3173,524,187528,Striker,NaN,NaN,82.0,0.0,35.0,26.0,29.0,93.0,4.0,28.0,,8.0,57.0,65.0,60.0,,,
-Simone Aresti,24866,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Charalampos Lykogiannis,92900,3173,524,187528,Left Wingback,Left Back,Left Back (5 at the back),74.0,42.0,1.0,23.0,73.0,19.0,29.0,38.0,54.0,8.0,29.0,16.0,27.0,,,
-João Pedro Geraldino dos Santos Galvão,116171,3173,524,187528,Striker,NaN,NaN,39.0,36.0,23.0,12.0,18.0,84.0,6.0,64.0,7.0,23.0,64.0,57.0,90.0,,,
-Alessio Cragno,134413,3173,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,47.0,34.0,9.0
-R?zvan Gabriel Marin,236820,3173,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,43.0,68.0,56.0,20.0,16.0,17.0,60.0,82.0,61.0,23.0,6.0,,45.0,,,
-Gastón Rodrigo Pereiro López,254155,3173,524,187528,Striker,Right Centre Midfielder,Right Winger,29.0,80.0,26.0,5.0,19.0,47.0,18.0,67.0,52.0,79.0,87.0,46.0,6.0,,,
-Alessandro Deiola,263591,3173,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,64.0,10.0,45.0,46.0,58.0,49.0,28.0,39.0,34.0,14.0,68.0,,37.0,,,
-Nahitan Michel Nández Acosta,299618,3173,524,187528,Right Centre Midfielder,Right Winger,Right Wingback,56.0,89.0,31.0,49.0,25.0,17.0,48.0,78.0,100.0,58.0,9.0,27.0,76.0,,,
-Sebastian Walukiewicz,496427,3173,524,187528,Right Centre Back (3 at the back),Right Centre Back,Left Centre Back,,,,,,,,,,,,,,,,
-Gabriele Zappa,535711,3173,524,187528,Right Centre Back (3 at the back),Right Back,Right Wingback,61.0,70.0,17.0,48.0,50.0,,46.0,28.0,46.0,24.0,,,31.0,,,
-Andrea Carboni,583587,3173,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,68.0,39.0,28.0,72.0,77.0,,66.0,20.0,37.0,6.0,,,8.0,,,
-José Martín Cáceres Silva,20460,3173,524,187528,Right Centre Back (3 at the back),Right Back,Left Back,37.0,6.0,29.0,47.0,65.0,,77.0,34.0,33.0,,,,53.0,,,
-Kevin Strootman,114,3173,524,187528,Defensive Midfielder,Left Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Diego da Silva Farias,23314,3173,524,187528,Left Winger,Left Centre Midfielder,Striker,,,,,,,,,,,,,,,,
-Damir Ceter Valencia,335634,3173,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Raoul Bellanova,405598,3173,524,187528,Right Wingback,Right Back (5 at the back),Left Wingback,36.0,83.0,42.0,37.0,52.0,31.0,25.0,63.0,95.0,81.0,17.0,,61.0,,,
-Giorgio Altare,506811,3173,524,187528,Right Centre Back (3 at the back),Left Centre Back (3 at the back),NaN,94.0,32.0,25.0,92.0,69.0,22.0,74.0,21.0,20.0,42.0,33.0,,19.0,,,
-Andrea D'Aniello,596067,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Eugenio Fusco,642364,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Nicolò Cavuoti,644345,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Isaias Del Pupo,652193,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Adam Obert,569946,3173,524,187528,Left Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,
-Dalbert Henrique Chagas Estevão,298212,3173,524,187528,Left Wingback,Left Centre Midfielder,Left Back (5 at the back),31.0,37.0,13.0,49.0,52.0,,27.0,42.0,73.0,43.0,,11.0,59.0,,,
-Gustavo Delpupo da Silva,42733,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Álvaro Odriozola Arzallus,278289,3176,524,187528,Right Back,NaN,NaN,9.0,91.0,75.0,55.0,66.0,,38.0,67.0,96.0,38.0,,,24.0,,,
-Lucas Torreira Di Pascua,333571,3176,524,187528,Defensive Midfielder,NaN,NaN,27.0,22.0,89.0,64.0,33.0,76.0,87.0,53.0,,13.0,62.0,,85.0,,,
-Louis Munteanu,545276,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Filippo  Frison,624359,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Alessandro  Bianco,624360,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Filippo Di Stefano,653400,3176,524,187528,Right Winger,NaN,NaN,,,,,,,,,,,,,,,,
-Destiny Efosa Egharevba,625946,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Joseph Alfred Duncan,22383,3176,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,20.0,53.0,47.0,39.0,38.0,27.0,68.0,53.0,74.0,67.0,50.0,,17.0,,,
-Riccardo Sottil,523085,3176,524,187528,Left Wing Forward,Right Wing Forward,Left Winger,19.0,100.0,53.0,17.0,,68.0,14.0,81.0,59.0,93.0,68.0,76.0,97.0,,,
-José María Callejón Bueno,3313,3176,524,187528,Right Wing Forward,Right Winger,NaN,24.0,36.0,47.0,35.0,25.0,57.0,37.0,78.0,59.0,63.0,26.0,77.0,63.0,,,
-Giacomo Bonaventura,20845,3176,524,187528,Right Centre Midfielder,NaN,NaN,38.0,92.0,71.0,26.0,30.0,64.0,53.0,69.0,18.0,83.0,53.0,24.0,87.0,,,
-Pietro Terracciano,21065,3176,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,96.0,97.0,0.0
-Antonio Rosati,21158,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Cristiano Biraghi,21842,3176,524,187528,Left Back,NaN,NaN,6.0,61.0,56.0,55.0,53.0,23.0,85.0,82.0,95.0,35.0,44.0,,63.0,,,
-Erick Antonio Pulgar Farfán,90268,3176,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Aleksandr Kokorin,101705,3176,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Bart?omiej Dr?gowski,265431,3176,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Lorenzo Venuti,284960,3176,524,187528,Right Back,NaN,NaN,44.0,58.0,79.0,36.0,54.0,,75.0,27.0,66.0,27.0,,,81.0,,,
-Sofyan Amrabat,285590,3176,524,187528,Defensive Midfielder,NaN,NaN,19.0,49.0,83.0,74.0,79.0,,93.0,16.0,,35.0,,,54.0,,,
-Gaetano Castrovilli,341073,3176,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,19.0,87.0,39.0,25.0,53.0,39.0,36.0,61.0,17.0,69.0,31.0,35.0,93.0,,,
-Lucas  Martínez Quarta,372256,3176,524,187528,Left Centre Back,Right Centre Back,NaN,86.0,68.0,94.0,86.0,79.0,51.0,97.0,32.0,,53.0,24.0,,27.0,,,
-Igor Julio dos Santos de Paulo,415953,3176,524,187528,Left Centre Back,NaN,NaN,68.0,48.0,80.0,93.0,83.0,,91.0,22.0,,40.0,,,1.0,,,
-Duan Vlahovi?,418950,3176,524,187528,Striker,NaN,NaN,60.0,24.0,11.0,26.0,35.0,95.0,5.0,59.0,11.0,50.0,95.0,80.0,84.0,,,
-Nikola Milenkovi?,424241,3176,524,187528,Right Centre Back,NaN,NaN,96.0,9.0,83.0,86.0,83.0,42.0,78.0,7.0,,25.0,8.0,,26.0,,,
-Marco Benassi,22380,3176,524,187528,Right Centre Midfielder,Right Back,NaN,,,,,,,,,,,,,,,,
-Riccardo Saponara,21025,3176,524,187528,Left Wing Forward,Left Winger,NaN,32.0,95.0,42.0,23.0,22.0,52.0,49.0,80.0,70.0,80.0,67.0,88.0,72.0,,,
-Aleksa Terzi?,405985,3176,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,
-Youssef Maleh,460224,3176,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,45.0,47.0,50.0,55.0,35.0,75.0,38.0,58.0,78.0,41.0,50.0,31.0,72.0,,,
-Michele Cerofolini,490626,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Matija Nastasi?,20932,3176,524,187528,Left Centre Back,Centre Back,NaN,,,,,,,,,,,,,,,,
-Nicolás Iván González,444669,3176,524,187528,Right Wing Forward,Left Wing Forward,NaN,75.0,96.0,45.0,37.0,27.0,77.0,25.0,86.0,56.0,58.0,39.0,87.0,99.0,,,
-Patrick Cutrone,351010,3178,524,187528,Striker,NaN,NaN,20.0,19.0,4.0,16.0,,81.0,4.0,40.0,22.0,67.0,49.0,60.0,44.0,,,
-Federico Di Francesco,259292,3178,524,187528,Striker,Attacking Midfielder,NaN,11.0,62.0,14.0,28.0,3.0,73.0,17.0,69.0,34.0,45.0,86.0,57.0,77.0,,,
-Andrea Pinamonti,405608,3178,524,187528,Striker,NaN,NaN,56.0,13.0,0.0,1.0,11.0,87.0,2.0,52.0,19.0,68.0,61.0,67.0,70.0,,,
-Lorenzo Tonelli,21006,3178,524,187528,Right Centre Back,Left Centre Back,NaN,89.0,29.0,72.0,50.0,65.0,,91.0,12.0,,24.0,,,93.0,,,
-Guglielmo Vicario,326998,3178,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,63.0,85.0,60.0
-Samir Ujkani,21547,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Sebastiano Luperto,272870,3178,524,187528,Left Centre Back,NaN,NaN,64.0,56.0,50.0,81.0,74.0,,65.0,8.0,,,,,5.0,,,
-Riccardo Marchizza,347015,3178,524,187528,Left Back,NaN,NaN,34.0,47.0,11.0,55.0,34.0,,52.0,48.0,80.0,56.0,,,2.0,,,
-Ardian Ismajli,435395,3178,524,187528,Right Centre Back,NaN,NaN,91.0,55.0,80.0,68.0,69.0,,74.0,3.0,,,,,40.0,,,
-Liam Henderson,232041,3178,524,187528,Attacking Midfielder,Left Centre Midfielder,Right Centre Midfielder,32.0,20.0,2.0,15.0,11.0,43.0,40.0,84.0,63.0,32.0,33.0,29.0,39.0,,,
-Jacopo Furlan,20992,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Simone Romagnoli,21373,3178,524,187528,Right Centre Back,NaN,NaN,92.0,28.0,65.0,52.0,73.0,,72.0,13.0,,,,,4.0,,,
-Alberto Brignoli,21415,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Riccardo Fiamozzi,21619,3178,524,187528,Right Back,Left Back,NaN,,,,,,,,,,,,,,,,
-Andrea La Mantia,21987,3178,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Leo tulac,85366,3178,524,187528,Defensive Midfielder,NaN,NaN,23.0,11.0,79.0,61.0,25.0,,81.0,56.0,,27.0,,,78.0,,,
-Leonardo Mancuso,215871,3178,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Nicolas Haas,342075,3178,524,187528,Right Centre Midfielder,NaN,NaN,7.0,27.0,37.0,78.0,50.0,,70.0,62.0,28.0,26.0,,,47.0,,,
-Giovanni Crociata,368642,3178,524,187528,Attacking Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Filippo Bandinelli,391243,3178,524,187528,Left Centre Midfielder,NaN,NaN,24.0,69.0,31.0,58.0,36.0,44.0,45.0,80.0,93.0,52.0,36.0,16.0,32.0,,,
-Nedim Bajrami,405065,3178,524,187528,Attacking Midfielder,Striker,NaN,0.0,87.0,15.0,46.0,2.0,44.0,31.0,93.0,62.0,50.0,49.0,49.0,19.0,,,
-Szymon ?urkowski,483254,3178,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,39.0,88.0,32.0,79.0,35.0,62.0,32.0,51.0,9.0,63.0,76.0,21.0,88.0,,,
-Samuele Ricci,531696,3178,524,187528,Defensive Midfielder,Right Centre Midfielder,Left Centre Midfielder,23.0,38.0,89.0,76.0,35.0,12.0,80.0,25.0,,52.0,29.0,,93.0,,,
-Fabiano Parisi,544075,3178,524,187528,Left Back,NaN,NaN,32.0,92.0,24.0,63.0,55.0,32.0,62.0,57.0,25.0,50.0,6.0,,73.0,,,
-Mattia Viti,630503,3178,524,187528,Left Centre Back,Right Centre Back,NaN,63.0,24.0,58.0,48.0,70.0,,55.0,2.0,,44.0,,,27.0,,,
-Simone Canestrelli,548399,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Kristjan Asllani,588819,3178,524,187528,Defensive Midfielder,NaN,NaN,36.0,13.0,64.0,25.0,36.0,8.0,76.0,35.0,,38.0,39.0,,71.0,,,
-Emmanuel Ekong,591131,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Tommaso Baldanzi,630686,3178,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Petar Stojanovi?,170618,3178,524,187528,Right Back,NaN,NaN,19.0,93.0,33.0,72.0,50.0,8.0,77.0,77.0,80.0,50.0,29.0,,23.0,,,
-Etrit Berisha,50849,3185,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,46.0,11.0,100.0
-Jacopo Segre,400265,3185,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Tomás Eduardo Rincón Hernández,14903,3185,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,62.0,29.0,65.0,56.0,51.0,,67.0,20.0,,51.0,,,91.0,,,
-Ricardo Iván Rodríguez Araya,14922,3185,524,187528,Left Centre Back (3 at the back),NaN,NaN,72.0,78.0,64.0,68.0,63.0,,69.0,34.0,25.0,28.0,,,10.0,,,
-Simone Verdi,21123,3185,524,187528,Right Winger,Striker,Attacking Midfielder,6.0,87.0,42.0,54.0,,67.0,44.0,72.0,78.0,79.0,95.0,37.0,86.0,,,
-Andrea Belotti,21234,3185,524,187528,Striker,NaN,NaN,63.0,44.0,19.0,22.0,31.0,84.0,5.0,42.0,45.0,67.0,68.0,83.0,96.0,,,
-Daniele Baselli,21507,3185,524,187528,Left Centre Midfielder,Left Winger,Attacking Midfielder,,,,,,,,,,,,,,,,
-Simone Zaza,22202,3185,524,187528,Striker,Attacking Midfielder,NaN,,,,,,,,,,,,,,,,
-Armando Izzo,22883,3185,524,187528,Right Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,
-Cristian Daniel Ansaldi,101742,3185,524,187528,Left Wingback,NaN,NaN,,,,,,,,,,,,,,,,
-Karol Linetty,138174,3185,524,187528,Attacking Midfielder,Right Centre Midfielder,Right Wing Forward,16.0,22.0,34.0,19.0,28.0,32.0,17.0,76.0,,12.0,12.0,31.0,39.0,,,
-Arnaldo Antonio Sanabria Ayala,225946,3185,524,187528,Striker,NaN,NaN,59.0,15.0,46.0,10.0,28.0,96.0,6.0,37.0,,52.0,51.0,81.0,68.0,,,
-Saa Luki?,237269,3185,524,187528,Right Centre Midfielder,NaN,NaN,47.0,78.0,90.0,69.0,50.0,11.0,73.0,60.0,4.0,55.0,36.0,16.0,64.0,,,
-Vanja Milinkovi?-Savi?,283062,3185,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,13.0,36.0,39.0
-Rolando Mandragora,302799,3185,524,187528,Left Centre Midfielder,NaN,NaN,52.0,24.0,60.0,41.0,47.0,29.0,74.0,62.0,72.0,15.0,8.0,,74.0,,,
-Mërgim Vojvoda,336439,3185,524,187528,Left Wingback,NaN,NaN,41.0,71.0,47.0,19.0,64.0,39.0,69.0,76.0,98.0,85.0,2.0,,10.0,,,
-Gleysson Bremer Silva Nascimento,475319,3185,524,187528,Centre Back,NaN,NaN,86.0,13.0,64.0,77.0,91.0,62.0,46.0,11.0,,19.0,27.0,,19.0,,,
-Alessandro Buongiorno,491451,3185,524,187528,Left Centre Back (3 at the back),Centre Back,NaN,92.0,16.0,59.0,85.0,80.0,,48.0,21.0,,39.0,,,54.0,,,
-Wilfried Stephane Singo,603143,3185,524,187528,Right Wingback,NaN,NaN,65.0,80.0,44.0,41.0,55.0,43.0,52.0,54.0,71.0,56.0,43.0,,86.0,,,
-Marko Pjaca,135810,3185,524,187528,Left Wing Forward,Attacking Midfielder,NaN,38.0,87.0,40.0,28.0,26.0,48.0,28.0,47.0,77.0,66.0,76.0,58.0,44.0,,,
-Lévy Koffi Djidji,25523,3185,524,187528,Right Centre Back (3 at the back),NaN,NaN,78.0,25.0,70.0,90.0,73.0,,59.0,1.0,54.0,34.0,,,7.0,,,
-Tommaso Pobega,461665,3185,524,187528,Left Centre Midfielder,NaN,NaN,80.0,55.0,60.0,45.0,51.0,61.0,70.0,44.0,24.0,39.0,54.0,10.0,65.0,,,
-Nicola Rauti,408804,3185,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Ben Lhassine Kone,530642,3185,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Luca Gemello,496670,3185,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-David Zima,564673,3185,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,89.0,20.0,51.0,67.0,81.0,,31.0,24.0,,7.0,,,6.0,,,
-Dennis Praet,37739,3185,524,187528,Attacking Midfielder,Right Wing Forward,NaN,16.0,50.0,42.0,10.0,23.0,65.0,34.0,91.0,87.0,59.0,39.0,52.0,43.0,,,
-Josip Brekalo,284469,3185,524,187528,Attacking Midfielder,Striker,Left Wing Forward,11.0,77.0,21.0,4.0,18.0,51.0,43.0,82.0,73.0,75.0,83.0,63.0,34.0,,,
-Magnus Warming,506857,3185,524,187528,Striker,Right Wingback,Attacking Midfielder,,,,,,,,,,,,,,,,
-Temitayo Olufisayo Olaoluwa Aina,240378,3185,524,187528,Left Wingback,Right Wingback,NaN,54.0,88.0,26.0,52.0,62.0,4.0,50.0,60.0,73.0,64.0,14.0,,80.0,,,
-Juan Guilherme Nunes Jesus,20518,3187,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,78.0,9.0,71.0,95.0,83.0,,66.0,9.0,,,,,3.0,,,
-Kévin Malcuit,144867,3187,524,187528,Right Back,Right Wingback,NaN,,,,,,,,,,,,,,,,
-Dries Mertens,122,3187,524,187528,Striker,Attacking Midfielder,NaN,5.0,42.0,40.0,12.0,40.0,64.0,29.0,89.0,63.0,84.0,99.0,86.0,68.0,,,
-Diego Demme,15937,3187,524,187528,Right Defensive Midfielder,Left Defensive Midfielder,Right Centre Midfielder,,,,,,,,,,,,,,,,
-Lorenzo Insigne,21385,3187,524,187528,Left Attacking Midfielder,Left Wing Forward,Left Winger,11.0,98.0,58.0,37.0,32.0,50.0,72.0,88.0,68.0,66.0,32.0,91.0,40.0,,,
-Mário Rui Silva Duarte,22107,3187,524,187528,Left Back,NaN,NaN,19.0,61.0,78.0,57.0,68.0,20.0,83.0,45.0,49.0,44.0,2.0,,85.0,,,
-Giovanni Di Lorenzo,22680,3187,524,187528,Right Back,NaN,NaN,71.0,66.0,80.0,64.0,68.0,24.0,84.0,68.0,43.0,22.0,17.0,,66.0,,,
-David Ospina Ramírez,25662,3187,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,65.0,76.0,87.0
-Kalidou Koulibaly,25726,3187,524,187528,Left Centre Back,NaN,NaN,75.0,41.0,77.0,77.0,95.0,,86.0,25.0,,44.0,,,15.0,,,
-Faouzi Ghoulam,25849,3187,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,
-Konstantinos Manolas,92966,3187,524,187528,Right Centre Back,NaN,NaN,,,,,,,,,,,,,,,,
-Piotr Zieli?ski,99902,3187,524,187528,Attacking Midfielder,Left Centre Midfielder,NaN,3.0,63.0,54.0,40.0,39.0,58.0,68.0,83.0,64.0,21.0,81.0,34.0,70.0,,,
-Stanislav Lobotka,167641,3187,524,187528,Left Defensive Midfielder,Defensive Midfielder,Left Centre Midfielder,45.0,73.0,90.0,75.0,37.0,,90.0,34.0,,57.0,,,87.0,,,
-Matteo Politano,208696,3187,524,187528,Right Attacking Midfielder,Right Wing Forward,Right Winger,16.0,95.0,53.0,49.0,44.0,37.0,37.0,84.0,76.0,94.0,62.0,90.0,66.0,,,
-Amir Rrahmani,225472,3187,524,187528,Right Centre Back,NaN,NaN,91.0,14.0,95.0,66.0,85.0,47.0,78.0,1.0,,38.0,59.0,,34.0,,,
-Andrea Petagna,246175,3187,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Alex Meret,286215,3187,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Hirving Rodrigo Lozano Bahena,295156,3187,524,187528,Right Attacking Midfielder,Right Wing Forward,Right Winger,36.0,85.0,41.0,15.0,39.0,81.0,20.0,76.0,71.0,95.0,68.0,80.0,81.0,,,
-Fabián Ruiz Peña,346195,3187,524,187528,Left Defensive Midfielder,Right Defensive Midfielder,Defensive Midfielder,20.0,62.0,87.0,81.0,51.0,20.0,96.0,60.0,50.0,57.0,80.0,8.0,37.0,,,
-Eljif Elmas,402269,3187,524,187528,Left Attacking Midfielder,Left Centre Midfielder,Left Winger,15.0,91.0,61.0,13.0,50.0,42.0,42.0,57.0,13.0,78.0,61.0,68.0,72.0,,,
-Victor James Osimhen,403273,3187,524,187528,Striker,NaN,NaN,63.0,77.0,10.0,11.0,52.0,97.0,3.0,29.0,8.0,65.0,94.0,75.0,67.0,,,
-Adam Ounas,300830,3187,524,187528,Attacking Midfielder,Right Attacking Midfielder,Right Winger,,,,,,,,,,,,,,,,
-Luca Palmiero,257030,3187,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Davide Marfella,471625,3187,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Gianluca Gaetano,471651,3187,524,187528,Right Centre Midfielder,Attacking Midfielder,NaN,,,,,,,,,,,,,,,,
-Alessandro Zanoli,475430,3187,524,187528,Right Back,NaN,NaN,,,,,,,,,,,,,,,,
-Hubert Idasiak,563303,3187,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-André-Frank Zambo Anguissa,366401,3187,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,71.0,67.0,75.0,51.0,66.0,25.0,76.0,34.0,41.0,50.0,5.0,,53.0,,,
-Arnór Sigurdsson,376702,3191,524,187528,Attacking Midfielder,Left Wing Forward,Left Winger,,,,,,,,,,,,,,,,
-Mattia Caldara,288663,3191,524,187528,Right Centre Back,Centre Back,NaN,64.0,13.0,67.0,89.0,73.0,33.0,44.0,4.0,,0.0,14.0,,30.0,,,
-Filippo Neri,602436,3191,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Nicolas Galazzi,589159,3191,524,187528,Right Wingback,NaN,NaN,,,,,,,,,,,,,,,,
-Niki Mäenpää,71,3191,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,65.0,0.0,92.0
-Cristian Molinaro,14745,3191,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,
-Marco Modolo,22126,3191,524,187528,Left Centre Back,Centre Back,Right Centre Back,,,,,,,,,,,,,,,,
-Antonio Junior Vacca,23120,3191,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,21.0,31.0,65.0,69.0,49.0,,84.0,16.0,,34.0,,,31.0,,,
-Luca Lezzerini,134414,3191,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Mattia Aramu,134440,3191,524,187528,Attacking Midfielder,Right Wing Forward,Striker,11.0,28.0,25.0,23.0,20.0,40.0,20.0,88.0,64.0,66.0,63.0,47.0,100.0,,,
-Jacopo Dezi,143814,3191,524,187528,Right Centre Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Domen ?rnigoj,173285,3191,524,187528,Right Centre Midfielder,Right Winger,NaN,23.0,44.0,18.0,27.0,49.0,23.0,23.0,35.0,52.0,44.0,62.0,21.0,17.0,,,
-Francesco Di Mariano,232786,3191,524,187528,Attacking Midfielder,NaN,NaN,,,,,,,,,,,,,,,,
-Francesco Forte,240944,3191,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Óttar Magnús Karlsson,262626,3191,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Pasquale Mazzocchi,295890,3191,524,187528,Right Back,Right Wingback,NaN,39.0,86.0,29.0,39.0,40.0,9.0,36.0,54.0,66.0,65.0,10.0,,7.0,,,
-Pietro Ceccaroni,296800,3191,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,71.0,34.0,64.0,37.0,72.0,29.0,57.0,8.0,41.0,1.0,33.0,,36.0,,,
-Dennis Törset Johnsen,370745,3191,524,187528,Left Winger,Striker,Left Wing Forward,11.0,82.0,14.0,9.0,2.0,41.0,8.0,82.0,64.0,45.0,29.0,45.0,21.0,,,
-Luca Fiordilino,392394,3191,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Michael Svoboda,436278,3191,524,187528,Right Centre Back,Right Centre Back (3 at the back),Centre Back,65.0,27.0,75.0,88.0,74.0,,55.0,6.0,,28.0,,,5.0,,,
-Bjarki Steinn Bjarkason,527577,3191,524,187528,Right Winger,NaN,NaN,,,,,,,,,,,,,,,,
-Sofian Kiyine,485013,3191,524,187528,Left Centre Midfielder,Left Winger,Attacking Midfielder,49.0,96.0,61.0,54.0,15.0,37.0,51.0,78.0,84.0,93.0,34.0,27.0,25.0,,,
-Bruno Oliveira Bertinato,363978,3191,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-David Chidozie Okereke,427754,3191,524,187528,Striker,Left Wing Forward,Attacking Midfielder,38.0,79.0,16.0,9.0,22.0,67.0,6.0,51.0,53.0,69.0,85.0,60.0,61.0,,,
-Daan Heymans,444390,3191,524,187528,Left Centre Midfielder,Striker,NaN,,,,,,,,,,,,,,,,
-Thomas Henry,231238,3191,524,187528,Striker,NaN,NaN,78.0,20.0,21.0,13.0,17.0,86.0,4.0,53.0,18.0,25.0,90.0,49.0,90.0,,,
-Ridgeciano Haps,221037,3191,524,187528,Left Back,Left Back (5 at the back),Left Wingback,47.0,44.0,35.0,54.0,56.0,15.0,25.0,16.0,45.0,64.0,29.0,,86.0,,,
-Tyronne Ebuehi,332821,3191,524,187528,Right Back,Left Back,NaN,57.0,77.0,51.0,42.0,46.0,,24.0,37.0,89.0,48.0,,,5.0,,,
-David Schnegg,556036,3191,524,187528,Left Back,Left Back (5 at the back),NaN,,,,,,,,,,,,,,,,
-Dor Peretz,137965,3191,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Ethan Ampadu,423162,3191,524,187528,Defensive Midfielder,Right Centre Midfielder,Right Centre Back (3 at the back),88.0,42.0,50.0,73.0,68.0,,69.0,29.0,59.0,40.0,,,47.0,,,
-Sergio Germán Romero,20606,3191,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,100.0,35.0,77.0
-Gianluca Busio,520741,3191,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,64.0,40.0,70.0,64.0,52.0,18.0,48.0,46.0,0.0,38.0,29.0,7.0,32.0,,,
-Tanner Tessmann,540981,3191,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,,,,,,,,,,,,,,,,
-Stefan Strandberg,54371,3192,524,187528,Right Centre Back,Centre Back,Left Centre Back,91.0,31.0,75.0,82.0,73.0,,77.0,25.0,,,,,2.0,,,
-Luca Ranieri,523086,3192,524,187528,Left Back,Left Wingback,NaN,47.0,53.0,35.0,36.0,51.0,,50.0,32.0,87.0,24.0,,6.0,10.0,,,
-Riccardo Gagliolo,220377,3192,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,58.0,22.0,57.0,87.0,69.0,,65.0,18.0,66.0,,,,42.0,,,
-Edoardo Vergani,535739,3192,524,187528,Striker,Right Winger,Right Wingback,,,,,,,,,,,,,,,,
-Matteo Ruggeri,590721,3192,524,187528,Left Back,Left Wingback,Left Centre Back (3 at the back),,,,,,,,,,,,,,,,
-Franck Ribéry,14726,3192,524,187528,Attacking Midfielder,Striker,Left Winger,4.0,98.0,53.0,29.0,,40.0,39.0,95.0,40.0,65.0,4.0,43.0,89.0,,,
-Federico Bonazzoli,239298,3192,524,187528,Striker,NaN,NaN,21.0,30.0,35.0,27.0,0.0,90.0,20.0,59.0,11.0,17.0,80.0,63.0,98.0,,,
-Simeon Tochukwu Nwankwo,72397,3192,524,187528,Striker,NaN,NaN,58.0,5.0,17.0,13.0,23.0,87.0,2.0,39.0,,37.0,30.0,60.0,56.0,,,
-Joel Chukwuma Obi,20525,3192,524,187528,Left Centre Midfielder,Right Centre Midfielder,Attacking Midfielder,60.0,25.0,37.0,48.0,33.0,,11.0,57.0,33.0,66.0,,24.0,70.0,,,
-Grigoris Kastanos,281887,3192,524,187528,Left Centre Midfielder,NaN,NaN,58.0,51.0,33.0,52.0,28.0,39.0,37.0,61.0,40.0,65.0,30.0,29.0,90.0,,,
-Vincenzo Fiorillo,20605,3192,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Ramzi Aya,21574,3192,524,187528,Right Centre Back (3 at the back),Right Back,NaN,,,,,,,,,,,,,,,,
-Francesco Di Tacchio,21854,3192,524,187528,Defensive Midfielder,Left Centre Midfielder,NaN,55.0,1.0,52.0,55.0,53.0,2.0,53.0,19.0,,16.0,15.0,,73.0,,,
-Vid Belec,22552,3192,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,9.0,4.0,10.0
-Milan ?uri?,22575,3192,524,187528,Striker,NaN,NaN,100.0,2.0,7.0,33.0,24.0,85.0,2.0,47.0,,24.0,40.0,56.0,70.0,,,
-Norbert Gyömbér,104937,3192,524,187528,Right Centre Back (3 at the back),Right Centre Back,Centre Back,75.0,7.0,36.0,70.0,72.0,,46.0,16.0,23.0,10.0,,,15.0,,,
-Leonardo Capezzi,134429,3192,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,,,,,,,,,,,,,,,,
-Frédéric Veseli,134954,3192,524,187528,Right Centre Back (3 at the back),Right Back,Left Centre Back (3 at the back),,,,,,,,,,,,,,,,
-Andrea Schiavone,208697,3192,524,187528,Right Centre Midfielder,Defensive Midfielder,Left Centre Midfielder,,,,,,,,,,,,,,,,
-Guido Guerrieri,241675,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Pawe? Jaroszy?ski,269188,3192,524,187528,Left Back (5 at the back),Left Centre Back (3 at the back),Left Centre Back,,,,,,,,,,,,,,,,
-Julian Kristoffersen,279705,3192,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Luka Bogdan,335718,3192,524,187528,Centre Back,Left Centre Back (3 at the back),Left Centre Back,,,,,,,,,,,,,,,,
-Cedric Gondo,388921,3192,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Mamadou Coulibaly,498015,3192,524,187528,Right Centre Midfielder,NaN,NaN,45.0,50.0,45.0,37.0,18.0,,49.0,24.0,19.0,33.0,,,49.0,,,
-Nadir Zortea,477270,3192,524,187528,Right Back,Left Wingback,Right Back (5 at the back),13.0,66.0,29.0,60.0,30.0,22.0,30.0,63.0,88.0,79.0,35.0,9.0,3.0,,,
-Carmine Iannone,551298,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Filippo Delli Carri,485099,3192,524,187528,Right Centre Back (3 at the back),Right Back (5 at the back),Right Back,,,,,,,,,,,,,,,,
-Antonio Russo,573170,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Jacopo De Matteis,602993,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Lassana Coulibaly,366760,3192,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,37.0,46.0,70.0,62.0,37.0,5.0,35.0,23.0,30.0,36.0,8.0,,84.0,,,
-Wajdi Kechrida,443309,3192,524,187528,Right Wingback,Right Back,Right Back (5 at the back),2.0,49.0,18.0,20.0,24.0,,47.0,58.0,79.0,19.0,,15.0,0.0,,,
-Aleksander Buksa,608650,3193,524,187528,Striker,Right Winger,Left Wing Forward,,,,,,,,,,,,,,,,
-Laurens Serpe,545361,3193,524,187528,Right Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,
-Hernani Azevedo Júnior,134797,3193,524,187528,Left Centre Midfielder,Right Centre Midfielder,Attacking Midfielder,,,,,,,,,,,,,,,,
-Mattia Bani,215869,3193,524,187528,Right Centre Back,Centre Back,NaN,99.0,,52.0,67.0,78.0,,42.0,5.0,,,,,66.0,,,
-Felipe Salvador Caicedo Corozo,101635,3193,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Mohamed Salim Fares,328336,3193,524,187528,Left Back,Left Attacking Midfielder,Left Wingback,,,,,,,,,,,,,,,,
-Salvatore Sirigu,25421,3193,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,39.0,42.0,31.0
-Nikola Maksimovi?,127524,3193,524,187528,Right Centre Back,Left Centre Back,Centre Back,90.0,17.0,68.0,59.0,71.0,,54.0,15.0,,3.0,,,29.0,,,
-Federico Marchetti,20541,3193,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Mattia Destro,20796,3193,524,187528,Striker,NaN,NaN,54.0,16.0,4.0,25.0,14.0,88.0,3.0,25.0,,18.0,94.0,56.0,65.0,,,
-Andrea Masiello,20841,3193,524,187528,Centre Back,Right Centre Back,Right Centre Back (3 at the back),,,,,,,,,,,,,,,,
-Valon Behrami,20938,3193,524,187528,Right Centre Midfielder,Defensive Midfielder,Right Defensive Midfielder,,,,,,,,,,,,,,,,
-Goran Pandev,21177,3193,524,187528,Striker,Attacking Midfielder,NaN,23.0,18.0,13.0,18.0,,,12.0,57.0,,50.0,,69.0,100.0,,,
-Milan Badelj,69400,3193,524,187528,Defensive Midfielder,Left Defensive Midfielder,Left Centre Midfielder,52.0,20.0,37.0,80.0,49.0,14.0,76.0,38.0,43.0,39.0,20.0,,21.0,,,
-Domenico Criscito,101554,3193,524,187528,Left Back,Left Centre Back (3 at the back),Left Centre Back,68.0,39.0,44.0,51.0,69.0,0.0,80.0,57.0,57.0,32.0,17.0,,73.0,,,
-Davide Biraschi,206318,3193,524,187528,Right Centre Back (3 at the back),Right Centre Back,Right Back,86.0,48.0,55.0,90.0,67.0,,72.0,40.0,54.0,53.0,,,49.0,,,
-Filippo Melegoni,351009,3193,524,187528,Right Attacking Midfielder,Left Winger,Attacking Midfielder,6.0,75.0,16.0,21.0,22.0,22.0,23.0,73.0,89.0,73.0,43.0,30.0,71.0,,,
-Paolo Ghiglione,359508,3193,524,187528,Right Back (5 at the back),Right Back,NaN,,,,,,,,,,,,,,,,
-Manolo Portanova,496673,3193,524,187528,Left Attacking Midfielder,Left Centre Midfielder,Left Winger,32.0,74.0,5.0,50.0,41.0,74.0,8.0,30.0,8.0,67.0,23.0,31.0,67.0,,,
-Nicolò Rovella,567230,3193,524,187528,Left Centre Midfielder,NaN,NaN,9.0,68.0,53.0,51.0,31.0,8.0,59.0,63.0,46.0,65.0,11.0,7.0,68.0,,,
-Stefano Sturaro,21290,3193,524,187528,Right Centre Midfielder,Right Defensive Midfielder,NaN,69.0,27.0,12.0,73.0,32.0,22.0,25.0,28.0,24.0,10.0,6.0,2.0,81.0,,,
-Andrea Favilli,357377,3193,524,187528,Right Wing Forward,NaN,NaN,,,,,,,,,,,,,,,,
-Lorenzo Andrenacci,279998,3193,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Adrian emper,352088,3193,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Stefano Sabelli,134478,3193,524,187528,Right Wingback,Right Back (5 at the back),NaN,,,,,,,,,,,,,,,,
-Andrea Cambiaso,409322,3193,524,187528,Left Back (5 at the back),Right Back,Left Wingback,22.0,87.0,47.0,66.0,52.0,14.0,39.0,57.0,53.0,72.0,31.0,18.0,27.0,,,
-Flavio Bianchi,504804,3193,524,187528,Striker,Left Wing Forward,NaN,,,,,,,,,,,,,,,,
-Yayah Kallon,587925,3193,524,187528,Right Attacking Midfielder,Striker,Right Winger,,,,,,,,,,,,,,,,
-Steeve-Mike Eboa Ebongue Eyango,630514,3193,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Zinho Vanheusden,399493,3193,524,187528,Right Centre Back (3 at the back),Left Centre Back,Right Centre Back,89.0,40.0,63.0,67.0,79.0,,42.0,17.0,,13.0,,,38.0,,,
-Abdoulaye Touré,217874,3193,524,187528,Right Centre Midfielder,Left Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Caleb Ekuban,251188,3193,524,187528,Striker,Right Attacking Midfielder,NaN,51.0,48.0,11.0,24.0,27.0,62.0,7.0,63.0,16.0,40.0,17.0,54.0,70.0,,,
-Johan Felipe Vásquez Ibarra,511944,3193,524,187528,Left Back,Left Centre Back (3 at the back),Left Centre Back,69.0,8.0,26.0,90.0,69.0,16.0,61.0,8.0,19.0,37.0,27.0,,41.0,,,
-Pablo Ignacio Galdames Millán,259938,3193,524,187528,Right Defensive Midfielder,Right Centre Midfielder,Attacking Midfielder,12.0,3.0,37.0,36.0,37.0,8.0,53.0,58.0,66.0,26.0,12.0,,42.0,,,
-Boko utalo,582178,3194,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),Right Wingback,67.0,44.0,36.0,90.0,81.0,,32.0,10.0,25.0,17.0,,,31.0,,,
-Giovanni Pablo Simeone,269152,3194,524,187528,Striker,NaN,NaN,42.0,53.0,17.0,24.0,27.0,92.0,3.0,57.0,28.0,33.0,100.0,72.0,75.0,,,
-Marco Davide Faraoni,20516,3194,524,187528,Right Wingback,NaN,NaN,52.0,21.0,20.0,56.0,57.0,44.0,63.0,70.0,93.0,26.0,60.0,,51.0,,,
-Alessandro Berardi,20539,3194,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Miguel Luís Pinto Veloso,21288,3194,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,58.0,42.0,59.0,49.0,53.0,6.0,91.0,68.0,60.0,43.0,12.0,,10.0,,,
-Federico Ceccherini,21528,3194,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),NaN,74.0,26.0,53.0,75.0,64.0,,63.0,20.0,,19.0,,,37.0,,,
-Daniel Sartori Bessa,22381,3194,524,187528,Right Centre Midfielder,Attacking Midfielder,NaN,56.0,75.0,39.0,37.0,53.0,12.0,77.0,65.0,49.0,75.0,50.0,26.0,59.0,,,
-Adrien  Tamèze,28230,3194,524,187528,Right Centre Midfielder,NaN,NaN,60.0,56.0,38.0,82.0,55.0,12.0,63.0,52.0,46.0,52.0,63.0,,48.0,,,
-Nikola Kalini?,105376,3194,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Darko Lazovi?,127534,3194,524,187528,Left Wingback,NaN,NaN,27.0,79.0,18.0,26.0,43.0,36.0,64.0,89.0,87.0,46.0,11.0,,5.0,,,
-Koray Günter,134375,3194,524,187528,Centre Back,NaN,NaN,91.0,21.0,47.0,78.0,84.0,,72.0,1.0,,,,,18.0,,,
-Mattia Zaccagni,246633,3194,524,187528,Left Wing Forward,Left Winger,NaN,44.0,91.0,64.0,47.0,23.0,66.0,19.0,78.0,36.0,88.0,73.0,90.0,98.0,,,
-Pawe? Dawidowicz,247996,3194,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,70.0,42.0,74.0,91.0,80.0,,55.0,17.0,,40.0,,,43.0,,,
-Giangiacomo Magnani,262369,3194,524,187528,Centre Back,Right Centre Back (3 at the back),Left Centre Back (3 at the back),93.0,24.0,54.0,96.0,79.0,,61.0,0.0,,,,,53.0,,,
-Antonín Barák,265172,3194,524,187528,Attacking Midfielder,Right Wing Forward,NaN,51.0,69.0,45.0,16.0,39.0,75.0,43.0,73.0,20.0,69.0,75.0,50.0,19.0,,,
-Kevin Rüegg,328191,3194,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Kevin Lasagna,333913,3194,524,187528,Striker,Attacking Midfielder,Right Wing Forward,45.0,67.0,27.0,31.0,16.0,78.0,7.0,65.0,59.0,39.0,40.0,51.0,23.0,,,
-Y?ld?r?m Mert Çetin,461391,3194,524,187528,Right Wingback,NaN,NaN,,,,,,,,,,,,,,,,
-Ivan Ili?,481266,3194,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,70.0,47.0,42.0,39.0,61.0,25.0,62.0,31.0,27.0,18.0,20.0,,54.0,,,
-Ivor Pandur,484413,3194,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Samuel Di Carmine,21520,3194,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Gianluca Caprari,21376,3194,524,187528,Attacking Midfielder,Striker,Left Wing Forward,5.0,86.0,35.0,27.0,15.0,53.0,35.0,93.0,65.0,51.0,89.0,74.0,91.0,,,
-Lorenzo Montipò,226220,3194,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,78.0,7.0,33.0
-Antonino Ragusa,22699,3194,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Nicolò Casale,485151,3194,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),Centre Back,76.0,41.0,49.0,71.0,72.0,,52.0,31.0,30.0,24.0,,,34.0,,,
-Gianluca Frabotta,489124,3194,524,187528,Left Back,Striker,NaN,,,,,,,,,,,,,,,,
-Matteo Cancellieri,601307,3194,524,187528,Right Winger,Right Wingback,Attacking Midfielder,,,,,,,,,,,,,,,,
-Diego Coppola,637472,3194,524,187528,Centre Back,Right Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,
-Martin Hongla,453270,3194,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Samuel Mráz,282203,3205,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Rey Manaj,339210,3205,524,187528,Striker,NaN,NaN,62.0,54.0,30.0,8.0,8.0,66.0,9.0,38.0,,31.0,45.0,61.0,90.0,,,
-Dennis Deloriè,628733,3205,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Viktor Kovalenko,241566,3205,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,35.0,20.0,27.0,30.0,31.0,,43.0,56.0,21.0,16.0,,23.0,57.0,,,
-Eddy Anthony Salcedo Mora,520774,3205,524,187528,Attacking Midfielder,Right Winger,Right Attacking Midfielder,,,,,,,,,,,,,,,,
-Ebrima Colley,559712,3205,524,187528,Left Wing Forward,Right Attacking Midfielder,Right Wing Forward,,,,,,,,,,,,,,,,
-Arkadiusz Reca,212219,3205,524,187528,Left Back,Left Back (5 at the back),Left Wingback,40.0,78.0,20.0,50.0,48.0,,42.0,54.0,56.0,32.0,,,21.0,,,
-Jeroen Zoet,337,3205,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Jacopo Sala,14904,3205,524,187528,Defensive Midfielder,Left Defensive Midfielder,Right Centre Midfielder,56.0,18.0,73.0,70.0,24.0,,63.0,19.0,,19.0,,,59.0,,,
-Ivan Provedel,251187,3205,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,78.0,38.0,55.0
-Simone Bastoni,297755,3205,524,187528,Left Back,Left Centre Midfielder,NaN,71.0,71.0,29.0,52.0,48.0,25.0,64.0,70.0,84.0,59.0,57.0,,62.0,,,
-M'Bala Nzola,299172,3205,524,187528,Striker,NaN,NaN,37.0,58.0,55.0,12.0,17.0,71.0,4.0,62.0,,45.0,51.0,51.0,15.0,,,
-Emmanuel Quartsin Gyasi,300374,3205,524,187528,Left Attacking Midfielder,Left Winger,Right Winger,19.0,37.0,46.0,52.0,23.0,61.0,10.0,33.0,6.0,61.0,66.0,50.0,65.0,,,
-Daniele Verde,343925,3205,524,187528,Right Attacking Midfielder,Left Attacking Midfielder,Left Winger,18.0,62.0,59.0,8.0,9.0,54.0,42.0,92.0,87.0,78.0,87.0,52.0,39.0,,,
-Martin Erli?,364637,3205,524,187528,Right Centre Back,Centre Back,NaN,72.0,3.0,51.0,66.0,76.0,33.0,36.0,5.0,,21.0,39.0,,28.0,,,
-Luca Vignali,392402,3205,524,187528,Right Wingback,Right Back,Left Wingback,,,,,,,,,,,,,,,,
-Giulio Maggiore,441701,3205,524,187528,Right Centre Midfielder,Attacking Midfielder,NaN,33.0,45.0,23.0,31.0,26.0,42.0,49.0,47.0,6.0,16.0,26.0,20.0,89.0,,,
-Kevin Andrés Agudelo Ardila,495777,3205,524,187528,Attacking Midfielder,Striker,NaN,34.0,82.0,27.0,43.0,8.0,51.0,25.0,48.0,10.0,47.0,71.0,37.0,66.0,,,
-Salvador Ferrer Canals,588115,3205,524,187528,Right Back,Left Back,Right Defensive Midfielder,65.0,45.0,45.0,67.0,59.0,,57.0,62.0,86.0,27.0,,,21.0,,,
-Mehdi Bourabia,190380,3205,524,187528,Defensive Midfielder,Left Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Dimitrios Nikolaou,283902,3205,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,37.0,36.0,59.0,73.0,71.0,,60.0,11.0,,37.0,,,22.0,,,
-Petko Hristov,372079,3205,524,187528,Right Centre Back,Right Centre Back (3 at the back),NaN,82.0,5.0,81.0,54.0,74.0,,53.0,6.0,,24.0,,,62.0,,,
-Petar Zovko,588738,3205,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Suf Podgoreanu,536667,3205,524,187528,Left Winger,Left Attacking Midfielder,Right Attacking Midfielder,,,,,,,,,,,,,,,,
-Nicolò Bertola,632937,3205,524,187528,Attacking Midfielder,Right Defensive Midfielder,Right Centre Back,,,,,,,,,,,,,,,,
-Dávid Strelec,541249,3205,524,187528,Right Attacking Midfielder,Right Winger,Left Attacking Midfielder,,,,,,,,,,,,,,,,
-Kelvin Amian Adou,352986,3205,524,187528,Right Back,Right Centre Back (3 at the back),NaN,57.0,29.0,24.0,58.0,56.0,43.0,32.0,35.0,12.0,29.0,11.0,,16.0,,,
-Janis Antiste,590664,3205,524,187528,Striker,Right Winger,Right Attacking Midfielder,52.0,70.0,7.0,42.0,18.0,,3.0,41.0,48.0,15.0,,63.0,21.0,,,
-Aurélien Nguiamba,404225,3205,524,187528,Left Defensive Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Jakub Kiwior,482177,3205,524,187528,Defensive Midfielder,Left Defensive Midfielder,Right Defensive Midfielder,65.0,2.0,23.0,58.0,66.0,,29.0,18.0,,40.0,,,6.0,,,
-Aimar Sher,582319,3205,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Gioele  Zacchi,626332,3315,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Samuele Vitale,635291,3315,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Luigi Samele,659110,3315,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,
-Edoardo Goldaniga,246059,3315,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,85.0,8.0,28.0,71.0,60.0,,53.0,9.0,11.0,9.0,,,61.0,,,
-Gianluca Scamacca,347024,3315,524,187528,Striker,NaN,NaN,77.0,26.0,27.0,18.0,20.0,92.0,8.0,51.0,27.0,54.0,100.0,83.0,26.0,,,
-Filip ?uri?i?,174,3315,524,187528,Attacking Midfielder,Right Attacking Midfielder,Left Attacking Midfielder,,,,,,,,,,,,,,,,
-Gianluca Pegolo,20771,3315,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Andrea Consigli,20832,3315,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,46.0,75.0,34.0
-Federico Peluso,20842,3315,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,
-Francesco Caputo,21657,3315,524,187528,Striker,NaN,NaN,28.0,25.0,23.0,0.0,2.0,92.0,2.0,60.0,20.0,28.0,75.0,73.0,63.0,,,
-Francesco Magnanelli,22162,3315,524,187528,Defensive Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,
-Gianmarco Ferrari,22270,3315,524,187528,Left Centre Back,NaN,NaN,92.0,9.0,88.0,70.0,65.0,29.0,90.0,23.0,,1.0,12.0,,54.0,,,
-Gregoire  Defrel,23149,3315,524,187528,Striker,Right Attacking Midfielder,NaN,27.0,62.0,61.0,34.0,17.0,81.0,7.0,62.0,,50.0,34.0,69.0,47.0,,,
-Vlad Iulian Chiriche?,83575,3315,524,187528,Right Centre Back,NaN,NaN,51.0,10.0,76.0,58.0,71.0,,44.0,1.0,,26.0,,,19.0,,,
-Kaan Ayhan,134373,3315,524,187528,Right Centre Back,Left Centre Back,NaN,64.0,46.0,84.0,66.0,73.0,,91.0,17.0,,23.0,,,3.0,,,
-Jeremy Toljan,149389,3315,524,187528,Right Back,NaN,NaN,52.0,65.0,47.0,47.0,52.0,,43.0,64.0,48.0,11.0,,14.0,16.0,,,
-Domenico Berardi,209400,3315,524,187528,Right Attacking Midfielder,Right Wing Forward,Right Winger,48.0,80.0,52.0,20.0,28.0,63.0,66.0,94.0,63.0,77.0,78.0,85.0,95.0,,,
-Jeremie Boga,227756,3315,524,187528,Left Attacking Midfielder,Striker,NaN,28.0,100.0,59.0,31.0,6.0,43.0,28.0,89.0,20.0,81.0,6.0,95.0,70.0,,,
-Luká Haraslín,262365,3315,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,
-Georgios Kyriakopoulos,272673,3315,524,187528,Left Back,Left Attacking Midfielder,NaN,40.0,87.0,63.0,44.0,49.0,10.0,65.0,64.0,76.0,74.0,9.0,20.0,73.0,,,
-Maxime López,280115,3315,524,187528,Left Defensive Midfielder,Defensive Midfielder,NaN,30.0,68.0,96.0,61.0,25.0,15.0,98.0,39.0,38.0,38.0,40.0,,46.0,,,
-Rogério Oliveira da Silva,403449,3315,524,187528,Left Back,NaN,NaN,27.0,79.0,68.0,66.0,52.0,8.0,63.0,69.0,57.0,80.0,10.0,,81.0,,,
-Mert Müldür,425915,3315,524,187528,Right Back,NaN,NaN,16.0,82.0,30.0,68.0,52.0,,68.0,54.0,43.0,31.0,,16.0,27.0,,,
-Giacomo Raspadori,481332,3315,524,187528,Attacking Midfielder,Left Wing Forward,Left Winger,8.0,44.0,37.0,21.0,10.0,81.0,19.0,58.0,9.0,68.0,84.0,70.0,51.0,,,
-Hamed Junior Traoré,518165,3315,524,187528,Left Attacking Midfielder,Left Centre Midfielder,Left Winger,19.0,95.0,44.0,27.0,21.0,70.0,48.0,75.0,23.0,72.0,88.0,69.0,69.0,,,
-Brian Safo Oddei,596320,3315,524,187528,Right Attacking Midfielder,Right Winger,NaN,,,,,,,,,,,,,,,,
-Davide Frattesi,423151,3315,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,37.0,82.0,70.0,47.0,49.0,65.0,45.0,61.0,1.0,48.0,38.0,17.0,85.0,,,
-Giacomo Satalino,419489,3315,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,
-Abdou Harroui,450972,3315,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,
-Matheus Henrique De Souza,370335,3315,524,187528,Left Centre Midfielder,Left Defensive Midfielder,NaN,24.0,53.0,84.0,30.0,24.0,,76.0,48.0,,80.0,,,53.0,,,
+player,player_id,team_id,league_id,season_id,position_1,position_2,position_3,Aerial Duels Score,Ball Carrying Score,Ball Retention Score,Ball Winning Score,Box_Defending_1 Score,Box Defending 2 Score,Box Movement Score,Buildup Passing Score,Creativity Score,Crossing Score,Defensive Awareness 1 Score,Defensive Awareness 2 Score,Defensive Awareness 3 Score,Dribbling Score,Finishing Score,Forward Linkup Play Score,Foul Winning Ability Score,Goalkeeper Aggressiveness Score,Goalkeeper Passing Ability Score,Goalkeeper Shot Stopping Score,Set Pieces Score
+Sebastiano Desplanches,591035,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Andreas Kristoffer Jungdal,519666,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Zlatan Ibrahimovi?,20420,3157,524,187528,Striker,NaN,NaN,85.0,40.0,32.0,18.0,47.0,36.0,98.0,27.0,65.0,,7.0,17.0,24.0,20.0,92.0,98.0,31.0,,,,74.0
+Simon Thorup Kjær,20433,3157,524,187528,Right Centre Back,NaN,NaN,71.0,8.0,78.0,79.0,100.0,98.0,,79.0,13.0,,68.0,78.0,76.0,,8.0,,26.0,,,,0.0
+Ante Rebi?,69616,3157,524,187528,Striker,Left Attacking Midfielder,NaN,27.0,80.0,11.0,15.0,24.0,8.0,67.0,24.0,100.0,84.0,24.0,20.0,30.0,97.0,67.0,91.0,26.0,,,,0.0
+Anton Ciprian T?t?ru?anu,83574,3157,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Samuel  Castillejo Azuaga,134174,3157,524,187528,Right Attacking Midfielder,Right Winger,NaN,,,,,,,,,,,,,,,,,,,,,
+Alessio Romagnoli,146588,3157,524,187528,Left Centre Back,NaN,NaN,96.0,13.0,91.0,47.0,88.0,84.0,36.0,87.0,8.0,,64.0,74.0,63.0,,43.0,,44.0,,,,0.0
+Rade Kruni?,254493,3157,524,187528,Attacking Midfielder,Left Defensive Midfielder,Left Attacking Midfielder,57.0,34.0,61.0,70.0,49.0,37.0,,32.0,57.0,,54.0,51.0,51.0,48.0,8.0,43.0,80.0,,,,55.0
+Davide Calabria,257028,3157,524,187528,Right Back,NaN,NaN,17.0,51.0,47.0,83.0,55.0,45.0,48.0,77.0,40.0,75.0,82.0,87.0,76.0,34.0,37.0,,55.0,,,,40.0
+Franck Yannick Kessié,285109,3157,524,187528,Left Defensive Midfielder,Attacking Midfielder,NaN,49.0,43.0,86.0,78.0,65.0,56.0,50.0,71.0,45.0,17.0,68.0,58.0,58.0,42.0,67.0,14.0,57.0,,,,0.0
+Fikayo Tomori,291591,3157,524,187528,Left Centre Back,Right Centre Back,NaN,66.0,21.0,77.0,78.0,90.0,87.0,,76.0,3.0,,68.0,75.0,65.0,17.0,0.0,3.0,6.0,,,,0.0
+Ismael Bennacer,328702,3157,524,187528,Right Defensive Midfielder,Left Defensive Midfielder,NaN,25.0,47.0,80.0,95.0,47.0,35.0,11.0,93.0,72.0,55.0,85.0,85.0,87.0,68.0,65.0,7.0,92.0,,,,81.0
+Theo Hernández,344132,3157,524,187528,Left Back,NaN,NaN,58.0,97.0,53.0,82.0,48.0,37.0,33.0,66.0,81.0,68.0,66.0,67.0,54.0,68.0,70.0,,94.0,,,,84.0
+Rafael Alexandre Conceição Leão,399654,3157,524,187528,Left Attacking Midfielder,NaN,NaN,42.0,99.0,36.0,23.0,29.0,15.0,82.0,28.0,89.0,72.0,16.0,13.0,10.0,83.0,88.0,88.0,63.0,,,,9.0
+Brahim Abdelkader Diaz,404397,3157,524,187528,Attacking Midfielder,NaN,NaN,1.0,87.0,63.0,61.0,22.0,5.0,74.0,38.0,72.0,56.0,33.0,34.0,37.0,42.0,44.0,31.0,65.0,,,,47.0
+Matteo Gabbia,405603,3157,524,187528,Left Centre Back,Right Centre Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Alexis Saelemaekers,475011,3157,524,187528,Right Attacking Midfielder,NaN,NaN,25.0,80.0,38.0,32.0,21.0,5.0,40.0,37.0,80.0,76.0,27.0,28.0,31.0,83.0,24.0,74.0,76.0,,,,33.0
+Sandro Tonali,518231,3157,524,187528,Right Defensive Midfielder,Left Defensive Midfielder,NaN,31.0,44.0,72.0,63.0,55.0,45.0,48.0,78.0,73.0,75.0,62.0,62.0,56.0,65.0,76.0,,84.0,,,,88.0
+Daniel Maldini,558720,3157,524,187528,Attacking Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Pierre Kalulu Kyatengwa,582906,3157,524,187528,Right Centre Back,Right Back,NaN,36.0,38.0,79.0,91.0,81.0,75.0,,71.0,18.0,48.0,82.0,86.0,72.0,4.0,40.0,,3.0,,,,0.0
+Antonio Mirante,20483,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Andrea Conti,134419,3157,524,187528,Right Back (5 at the back),Right Back,Right Winger,,,,,,,,,,,,,,,,,,,,,
+Tiemoué Bakayoko,28291,3157,524,187528,Left Defensive Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Junior Walter Messias,518166,3157,524,187528,Right Attacking Midfielder,Right Winger,NaN,56.0,88.0,22.0,56.0,40.0,26.0,69.0,34.0,64.0,40.0,45.0,37.0,34.0,69.0,84.0,62.0,62.0,,,,44.0
+Alessandro Plizzari,423148,3157,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Fodé  Ballo-Touré,286917,3157,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Pietro Pellegri,481329,3157,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Alessandro  Florenzi,22566,3157,524,187528,Right Back,Right Attacking Midfielder,Left Back,46.0,55.0,49.0,61.0,59.0,49.0,24.0,87.0,56.0,94.0,72.0,74.0,62.0,39.0,71.0,23.0,25.0,,,,73.0
+Mike Maignan,134496,3157,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,65.0,87.0,96.0,
+Olivier Giroud,26010,3157,524,187528,Striker,NaN,NaN,84.0,4.0,12.0,38.0,59.0,50.0,96.0,2.0,53.0,,29.0,27.0,44.0,40.0,74.0,81.0,47.0,,,,43.0
+Cristian Volpato,669931,3158,524,187528,Attacking Midfielder,Right Attacking Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo Missori,624184,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Chris Smalling,7922,3158,524,187528,Centre Back,Right Centre Back,NaN,89.0,1.0,84.0,81.0,90.0,91.0,,48.0,7.0,,69.0,79.0,76.0,18.0,70.0,,34.0,,,,0.0
+Bryan Cristante,20404,3158,524,187528,Right Centre Midfielder,Right Defensive Midfielder,Defensive Midfielder,89.0,25.0,63.0,89.0,57.0,52.0,33.0,93.0,28.0,48.0,77.0,75.0,71.0,43.0,43.0,,12.0,,,,0.0
+Stephan El Shaarawy,20418,3158,524,187528,Left Wingback,Left Attacking Midfielder,Left Winger,60.0,98.0,66.0,21.0,43.0,36.0,69.0,52.0,97.0,57.0,22.0,28.0,23.0,63.0,73.0,67.0,44.0,,,,43.0
+Jordan Veretout,25541,3158,524,187528,Left Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,43.0,64.0,83.0,54.0,36.0,28.0,46.0,81.0,65.0,15.0,33.0,43.0,29.0,24.0,58.0,7.0,47.0,,,,87.0
+Henrikh Mkhitaryan,105338,3158,524,187528,Attacking Midfielder,Left Centre Midfielder,Left Attacking Midfielder,36.0,81.0,72.0,54.0,35.0,26.0,50.0,56.0,81.0,36.0,60.0,51.0,48.0,58.0,72.0,41.0,80.0,,,,56.0
+Rick Karsdorp,289122,3158,524,187528,Right Wingback,Right Back,NaN,10.0,38.0,43.0,51.0,45.0,38.0,,77.0,79.0,88.0,39.0,40.0,30.0,11.0,16.0,,16.0,,,,36.0
+Lorenzo Pellegrini,328333,3158,524,187528,Attacking Midfielder,Striker,NaN,51.0,75.0,25.0,13.0,32.0,23.0,64.0,53.0,91.0,43.0,22.0,21.0,24.0,45.0,79.0,60.0,83.0,,,,96.0
+Carles Pérez Sayol,344053,3158,524,187528,Right Centre Midfielder,Right Attacking Midfielder,Right Wing Forward,,,,,,,,,,,,,,,,,,,,,
+Borja Mayoral Moya,344120,3158,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Gianluca Mancini,346913,3158,524,187528,Right Centre Back (3 at the back),Right Centre Back,NaN,86.0,37.0,71.0,85.0,74.0,73.0,40.0,83.0,18.0,33.0,54.0,57.0,51.0,34.0,1.0,,15.0,,,,36.0
+Gonzalo Villar del Fraile,357981,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Amadou Diawara,374013,3158,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marash Kumbulla,404693,3158,524,187528,Left Centre Back (3 at the back),Centre Back,Left Centre Back,69.0,31.0,77.0,92.0,81.0,81.0,,55.0,3.0,,53.0,63.0,50.0,18.0,5.0,,41.0,,,,0.0
+Nicolò Zaniolo,487020,3158,524,187528,Striker,Right Attacking Midfielder,NaN,43.0,96.0,26.0,22.0,18.0,6.0,60.0,15.0,77.0,21.0,18.0,17.0,27.0,62.0,35.0,75.0,90.0,,,,48.0
+Roger Ibañez da Silva,492664,3158,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,84.0,48.0,68.0,79.0,68.0,65.0,33.0,65.0,16.0,,71.0,78.0,70.0,33.0,59.0,,68.0,,,,0.0
+Bryan Reynolds,494536,3158,524,187528,Right Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Daniel Cerantola Fuzato,518225,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Riccardo Calafiori,542200,3158,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Eldor Shomurodov,332892,3158,524,187528,Striker,Left Attacking Midfielder,NaN,47.0,75.0,19.0,13.0,23.0,13.0,94.0,11.0,86.0,44.0,17.0,18.0,29.0,52.0,55.0,76.0,18.0,,,,0.0
+Nicola Zalewski,563315,3158,524,187528,Left Wingback,Left Back,NaN,3.0,96.0,24.0,86.0,34.0,26.0,,54.0,56.0,35.0,83.0,82.0,78.0,84.0,16.0,15.0,86.0,,,,36.0
+Pietro Boer,594331,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ebrima  Darboe,600085,3158,524,187528,Left Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Edoardo Bove,601304,3158,524,187528,Right Centre Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo Tripi,601310,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Maissa Ndiaye Codou,644838,3158,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Tammy Abraham,343951,3158,524,187528,Striker,NaN,NaN,50.0,36.0,25.0,26.0,50.0,44.0,99.0,6.0,63.0,9.0,21.0,20.0,27.0,44.0,62.0,72.0,62.0,,,,43.0
+Rui Pedro dos Santos Patrício,70134,3158,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,51.0,79.0,66.0,
+Matías Nicolás Viña Susperreguy,487006,3158,524,187528,Left Back,Left Wingback,Left Back (5 at the back),41.0,71.0,22.0,58.0,60.0,56.0,13.0,51.0,50.0,40.0,71.0,75.0,63.0,38.0,13.0,,50.0,,,,19.0
+Felix Ohene Afena-Gyan,736016,3158,524,187528,Striker,Left Attacking Midfielder,Left Wing Forward,,,,,,,,,,,,,,,,,,,,,
+Koni De Winter,549480,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Matías Soulé Malvano,590733,3159,524,187528,Right Winger,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Fabio Miretti,609117,3159,524,187528,Right Centre Midfielder,Right Winger,NaN,,,,,,,,,,,,,,,,,,,,,
+Cristiano Ronaldo dos Santos Aveiro,3322,3159,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Álvaro Borja Morata Martín,3324,3159,524,187528,Striker,NaN,NaN,57.0,81.0,31.0,23.0,33.0,20.0,92.0,13.0,76.0,61.0,22.0,19.0,23.0,66.0,74.0,89.0,98.0,,,,37.0
+Wojciech  Szcz?sny,7849,3159,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,75.0,79.0,77.0,
+Aaron Ramsey,7870,3159,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Leonardo Bonucci,20459,3159,524,187528,Right Centre Back,Centre Back,Left Centre Back,73.0,2.0,85.0,51.0,91.0,89.0,55.0,91.0,22.0,,58.0,69.0,49.0,9.0,35.0,,10.0,,,,0.0
+Giorgio Chiellini,20461,3159,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,88.0,66.0,71.0,65.0,100.0,99.0,,94.0,18.0,,78.0,85.0,84.0,11.0,6.0,,72.0,,,,0.0
+Juan Guillermo Cuadrado Bello,20751,3159,524,187528,Right Back,Right Winger,NaN,58.0,85.0,88.0,62.0,49.0,39.0,24.0,91.0,84.0,95.0,53.0,43.0,39.0,69.0,73.0,32.0,84.0,,,,86.0
+Carlo Pinsoglio,21128,3159,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Danilo Luiz da Silva,70083,3159,524,187528,Right Back,NaN,NaN,87.0,19.0,68.0,75.0,84.0,81.0,22.0,92.0,53.0,42.0,71.0,71.0,60.0,37.0,37.0,,22.0,,,,45.0
+Alex Sandro Lobo Silva,70084,3159,524,187528,Left Back,Left Wingback,NaN,78.0,84.0,77.0,67.0,70.0,64.0,,71.0,47.0,76.0,69.0,67.0,69.0,54.0,8.0,,78.0,,,,0.0
+Paulo Bruno Exequiel Dybala,89186,3159,524,187528,Striker,Attacking Midfielder,Right Wing Forward,14.0,81.0,76.0,21.0,17.0,1.0,67.0,52.0,82.0,67.0,17.0,17.0,15.0,57.0,92.0,82.0,91.0,,,,93.0
+Adrien Rabiot,209117,3159,524,187528,Left Winger,Left Centre Midfielder,NaN,81.0,69.0,53.0,82.0,71.0,65.0,34.0,41.0,46.0,53.0,79.0,76.0,79.0,58.0,3.0,17.0,43.0,,,,0.0
+Federico Bernardeschi,246061,3159,524,187528,Right Winger,Left Winger,Left Attacking Midfielder,32.0,85.0,45.0,33.0,54.0,45.0,31.0,32.0,76.0,42.0,35.0,42.0,30.0,63.0,43.0,43.0,74.0,,,,54.0
+Arthur Henrique Ramos de Oliveira Melo,255256,3159,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,18.0,24.0,87.0,56.0,42.0,30.0,,80.0,23.0,,63.0,58.0,55.0,63.0,15.0,,97.0,,,,0.0
+Rodrigo Bentancur Colmán,361807,3159,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,72.0,45.0,72.0,87.0,68.0,62.0,,77.0,32.0,,83.0,83.0,84.0,33.0,16.0,,20.0,,,,0.0
+Matthijs de Ligt,365443,3159,524,187528,Right Centre Back,Left Centre Back,NaN,91.0,8.0,79.0,80.0,87.0,84.0,39.0,72.0,16.0,,61.0,73.0,66.0,26.0,61.0,,18.0,,,,0.0
+Federico Chiesa,447804,3159,524,187528,Right Winger,Left Winger,Striker,6.0,89.0,49.0,55.0,27.0,13.0,64.0,21.0,77.0,79.0,46.0,35.0,33.0,61.0,67.0,48.0,77.0,,,,39.0
+Weston  McKennie,471348,3159,524,187528,Right Centre Midfielder,Left Winger,NaN,61.0,52.0,44.0,44.0,64.0,57.0,55.0,26.0,39.0,68.0,48.0,51.0,48.0,20.0,72.0,36.0,4.0,,,,0.0
+Dejan Kulusevski,472363,3159,524,187528,Right Winger,Striker,Right Attacking Midfielder,38.0,86.0,55.0,31.0,22.0,7.0,71.0,15.0,71.0,46.0,30.0,26.0,39.0,53.0,41.0,75.0,40.0,,,,0.0
+Nicolò Fagioli,532465,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Daniele Rugani,134427,3159,524,187528,Left Centre Back,Right Centre Back,NaN,66.0,18.0,75.0,65.0,88.0,85.0,,64.0,0.0,,70.0,75.0,54.0,,15.0,,0.0,,,,0.0
+Mattia Perin,21468,3159,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Luca Pellegrini,397239,3159,524,187528,Left Back,NaN,NaN,41.0,58.0,32.0,79.0,56.0,48.0,,59.0,65.0,69.0,55.0,66.0,52.0,67.0,14.0,,76.0,,,,61.0
+Manuel Locatelli,286226,3159,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,58.0,16.0,88.0,60.0,80.0,75.0,36.0,93.0,53.0,27.0,68.0,73.0,70.0,38.0,68.0,,46.0,,,,22.0
+Franco Israel Wibmer,493039,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo Ranocchia,530940,3159,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mattia De Sciglio,20395,3159,524,187528,Left Back,Right Back,NaN,56.0,55.0,55.0,47.0,51.0,41.0,,70.0,85.0,100.0,61.0,64.0,53.0,71.0,51.0,,16.0,,,,12.0
+Moise Bioty Kean,410031,3159,524,187528,Striker,Left Wing Forward,NaN,69.0,66.0,29.0,19.0,25.0,10.0,95.0,2.0,14.0,22.0,35.0,31.0,31.0,38.0,80.0,69.0,50.0,,,,0.0
+Kaio Jorge Pinto Ramos,547507,3159,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mattia  Zanotti,633795,3161,524,187528,Right Wingback,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Martin Adrian Satriano Costa,595134,3161,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Fabio Cortinovis,613231,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mattia Sangalli,613292,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Franco Ezequiel Carboni,634043,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Hakan Çalhano?lu,15524,3161,524,187528,Left Centre Midfielder,NaN,NaN,24.0,58.0,81.0,35.0,34.0,24.0,38.0,88.0,94.0,72.0,33.0,34.0,26.0,45.0,65.0,19.0,48.0,,,,91.0
+Edin Deko,8327,3161,524,187528,Striker,NaN,NaN,85.0,50.0,32.0,27.0,48.0,41.0,95.0,26.0,77.0,40.0,17.0,24.0,32.0,40.0,80.0,94.0,62.0,,,,0.0
+Stefan de Vrij,130,3161,524,187528,Centre Back,NaN,NaN,83.0,35.0,95.0,79.0,68.0,65.0,39.0,63.0,4.0,,68.0,75.0,70.0,36.0,2.0,,1.0,,,,0.0
+Alexis Alejandro Sánchez Sánchez,3361,3161,524,187528,Striker,Attacking Midfielder,NaN,44.0,45.0,57.0,29.0,14.0,0.0,94.0,51.0,92.0,73.0,12.0,20.0,23.0,100.0,84.0,100.0,84.0,,,,87.0
+Aleksandar Kolarov,8306,3161,524,187528,Left Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ivan Perii?,14812,3161,524,187528,Left Wingback,NaN,NaN,75.0,86.0,20.0,36.0,58.0,53.0,53.0,55.0,87.0,98.0,65.0,60.0,49.0,91.0,85.0,40.0,2.0,,,,7.0
+Arturo Erasmo Vidal Pardo,20475,3161,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,69.0,38.0,94.0,68.0,64.0,60.0,79.0,84.0,93.0,,53.0,58.0,60.0,55.0,37.0,,49.0,,,,35.0
+Andrea Ranocchia,20519,3161,524,187528,Centre Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Samir Handanovi?,20571,3161,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,50.0,100.0,86.0,
+Danilo D'Ambrosio,21094,3161,524,187528,Right Centre Back (3 at the back),NaN,NaN,78.0,31.0,89.0,73.0,81.0,80.0,62.0,76.0,29.0,,50.0,48.0,50.0,42.0,34.0,,11.0,,,,0.0
+Matteo Darmian,21095,3161,524,187528,Right Wingback,NaN,NaN,49.0,15.0,43.0,60.0,34.0,25.0,,30.0,64.0,89.0,42.0,55.0,44.0,68.0,66.0,,54.0,,,,0.0
+Marcelo Brozovi?,69968,3161,524,187528,Defensive Midfielder,NaN,NaN,7.0,58.0,99.0,64.0,56.0,50.0,8.0,100.0,55.0,70.0,70.0,76.0,69.0,53.0,48.0,,47.0,,,,42.0
+Matías Vecino Falero,116349,3161,524,187528,Right Centre Midfielder,Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Milan kriniar,138408,3161,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,58.0,36.0,91.0,77.0,81.0,79.0,43.0,63.0,19.0,,61.0,71.0,63.0,41.0,51.0,,30.0,,,,0.0
+Roberto Gagliardini,241676,3161,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Stefano Sensi,246063,3161,524,187528,Attacking Midfielder,Striker,Left Centre Midfielder,23.0,50.0,66.0,45.0,32.0,22.0,58.0,67.0,58.0,,18.0,33.0,34.0,70.0,42.0,33.0,97.0,,,,10.0
+Nicolò Barella,286223,3161,524,187528,Right Centre Midfielder,NaN,NaN,29.0,94.0,62.0,47.0,30.0,19.0,59.0,84.0,98.0,73.0,25.0,33.0,32.0,62.0,36.0,16.0,78.0,,,,7.0
+Lautaro Javier Martínez,372255,3161,524,187528,Striker,NaN,NaN,35.0,43.0,32.0,21.0,24.0,12.0,100.0,5.0,67.0,24.0,17.0,14.0,20.0,51.0,85.0,87.0,83.0,,,,0.0
+Ionu? Andrei Radu,380900,3161,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Alessandro Bastoni,405597,3161,524,187528,Left Centre Back (3 at the back),NaN,NaN,77.0,53.0,92.0,82.0,81.0,80.0,,92.0,47.0,22.0,61.0,70.0,70.0,21.0,39.0,,47.0,,,,8.0
+Carlos Joaquín Correa,207001,3161,524,187528,Striker,NaN,NaN,47.0,84.0,72.0,9.0,24.0,12.0,89.0,19.0,87.0,,2.0,6.0,5.0,68.0,86.0,100.0,62.0,,,,8.0
+Federico Dimarco,239291,3161,524,187528,Left Centre Back (3 at the back),Left Wingback,NaN,35.0,72.0,68.0,41.0,40.0,31.0,54.0,89.0,89.0,76.0,51.0,46.0,37.0,49.0,52.0,,45.0,,,,92.0
+Alex Cordaz,21494,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Lucien Agoume,589805,3161,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Denzel Dumfries,330003,3161,524,187528,Right Wingback,NaN,NaN,88.0,67.0,40.0,57.0,49.0,42.0,79.0,21.0,71.0,77.0,49.0,50.0,54.0,47.0,68.0,34.0,66.0,,,,0.0
+Felipe  Anderson Pereira Gomes,40806,3162,524,187528,Right Wing Forward,Right Winger,NaN,31.0,94.0,44.0,40.0,37.0,34.0,63.0,44.0,94.0,66.0,49.0,40.0,36.0,54.0,75.0,89.0,44.0,,,,43.0
+Romano Floriani,631726,3162,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Pedro Eliezer Rodríguez Ledesma,3360,3162,524,187528,Left Wing Forward,Right Wing Forward,Right Winger,5.0,95.0,66.0,21.0,25.0,18.0,74.0,37.0,74.0,21.0,14.0,12.0,8.0,80.0,95.0,85.0,81.0,,,,7.0
+Luis Alberto Romero Alconchel,3484,3162,524,187528,Left Centre Midfielder,NaN,NaN,16.0,91.0,87.0,27.0,27.0,21.0,49.0,93.0,96.0,31.0,32.0,36.0,25.0,55.0,76.0,,46.0,,,,85.0
+Patricio Gabarrón Gil,4792,3162,524,187528,Right Centre Back,Left Centre Back,NaN,47.0,5.0,93.0,37.0,78.0,82.0,,66.0,23.0,,35.0,45.0,30.0,27.0,41.0,,12.0,,,,0.0
+José Manuel  Reina Páez,7949,3162,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,60.0,81.0,50.0,
+Lucas  Pezzini Leiva,7965,3162,524,187528,Defensive Midfielder,NaN,NaN,46.0,9.0,94.0,71.0,73.0,75.0,,86.0,5.0,,82.0,81.0,84.0,11.0,17.0,,36.0,,,,47.0
+?tefan Daniel Radu,20550,3162,524,187528,Left Back,Left Centre Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Francesco Acerbi,20635,3162,524,187528,Left Centre Back,NaN,NaN,84.0,48.0,100.0,57.0,85.0,90.0,51.0,90.0,9.0,,70.0,73.0,66.0,26.0,72.0,,23.0,,,,0.0
+Ciro Immobile,21384,3162,524,187528,Striker,NaN,NaN,23.0,67.0,54.0,8.0,26.0,19.0,97.0,12.0,59.0,36.0,5.0,3.0,6.0,54.0,99.0,97.0,63.0,,,,0.0
+Jean-Daniel Akpa Akpro,25792,3162,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Thomas Strakosha,166534,3162,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,66.0,79.0,73.0,
+Gonzalo Escalante,212644,3162,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Manuel Lazzari,226200,3162,524,187528,Right Back,NaN,NaN,18.0,96.0,46.0,55.0,43.0,40.0,20.0,40.0,69.0,49.0,48.0,49.0,42.0,70.0,74.0,,95.0,,,,0.0
+Adam Marui?,228928,3162,524,187528,Left Back,Right Back,NaN,72.0,38.0,83.0,26.0,60.0,60.0,,69.0,20.0,23.0,64.0,68.0,55.0,33.0,40.0,,16.0,,,,0.0
+Vedat Muriqi,251447,3162,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Danilo Cataldi,256478,3162,524,187528,Defensive Midfielder,NaN,NaN,34.0,9.0,85.0,35.0,59.0,59.0,5.0,95.0,61.0,,48.0,51.0,41.0,48.0,43.0,,55.0,,,,86.0
+Sergej Milinkovi?-Savi?,265865,3162,524,187528,Right Centre Midfielder,NaN,NaN,79.0,53.0,59.0,48.0,51.0,49.0,54.0,81.0,81.0,41.0,46.0,49.0,59.0,23.0,91.0,17.0,52.0,,,,55.0
+Luiz Felipe Ramos Marchi,376362,3162,524,187528,Right Centre Back,NaN,NaN,65.0,23.0,94.0,61.0,92.0,98.0,,79.0,8.0,,52.0,64.0,57.0,,6.0,,23.0,,,,0.0
+Elseid Hysaj,21001,3162,524,187528,Left Back,Right Back,NaN,36.0,22.0,78.0,50.0,51.0,49.0,,71.0,31.0,59.0,49.0,55.0,42.0,19.0,41.0,,39.0,,,,0.0
+Marius Adamonis,286197,3162,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+André Anderson Pomilio Lima da Silva,412405,3162,524,187528,Right Centre Midfielder,Left Winger,Right Winger,,,,,,,,,,,,,,,,,,,,,
+Alessio Furlanetto,556078,3162,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Raúl Moro Prescoli,605385,3162,524,187528,Left Wing Forward,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Toma Bai?,337392,3162,524,187528,Left Centre Midfielder,NaN,NaN,52.0,44.0,64.0,38.0,61.0,62.0,52.0,27.0,28.0,0.0,43.0,42.0,34.0,31.0,6.0,,12.0,,,,65.0
+Luka Romero Bezzana,644114,3162,524,187528,Right Wing Forward,Right Winger,Left Wing Forward,,,,,,,,,,,,,,,,,,,,,
+Denis Vavro,262121,3162,524,187528,Right Centre Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Patricio Nehuén Pérez,494337,3163,524,187528,Left Centre Back (3 at the back),Right Back,Right Centre Back (3 at the back),40.0,34.0,40.0,68.0,71.0,75.0,,43.0,10.0,,56.0,61.0,53.0,4.0,4.0,,11.0,,,,0.0
+Norberto Bercique Gomes Betuncal,580990,3163,524,187528,Striker,NaN,NaN,50.0,59.0,26.0,13.0,27.0,23.0,97.0,0.0,31.0,,10.0,8.0,24.0,30.0,79.0,54.0,29.0,,,,0.0
+Daniele Padelli,20572,3163,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Bram Nuytinck,394,3163,524,187528,Centre Back,Left Centre Back (3 at the back),Left Centre Back,70.0,2.0,64.0,69.0,82.0,89.0,,43.0,3.0,,78.0,82.0,78.0,,27.0,,2.0,,,,0.0
+Gerard Deulofeu Lázaro,3348,3163,524,187528,Striker,Left Winger,NaN,0.0,98.0,32.0,3.0,14.0,8.0,69.0,37.0,94.0,28.0,8.0,6.0,5.0,59.0,96.0,84.0,46.0,,,,93.0
+Tolgay Ali Arslan,14894,3163,524,187528,Right Centre Midfielder,NaN,NaN,14.0,68.0,60.0,67.0,44.0,44.0,15.0,53.0,26.0,20.0,62.0,61.0,60.0,53.0,42.0,,90.0,,,,62.0
+Mato Jajalo,15280,3163,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Stefano Okaka Chuka,20505,3163,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Roberto Maximiliano Pereyra,20593,3163,524,187528,Right Centre Midfielder,Left Centre Midfielder,Striker,15.0,91.0,73.0,12.0,36.0,34.0,56.0,46.0,80.0,56.0,20.0,20.0,15.0,40.0,41.0,43.0,80.0,,,,74.0
+Sebastian De Maio,20707,3163,524,187528,Right Centre Back,Centre Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Fernando Martín Forestieri,21660,3163,524,187528,Left Attacking Midfielder,Left Winger,Right Winger,,,,,,,,,,,,,,,,,,,,,
+Jens Stryger Larsen,56026,3163,524,187528,Left Wingback,Left Back (5 at the back),Right Wingback,,,,,,,,,,,,,,,,,,,,,
+Ilija Nestorovski,82501,3163,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marvin  Zeegelaar,189821,3163,524,187528,Left Centre Back (3 at the back),Left Wingback,NaN,,,,,,,,,,,,,,,,,,,,,
+Simone Scuffet,239288,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Samir Caetano de Souza Santos,248950,3163,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,92.0,31.0,53.0,63.0,78.0,84.0,,47.0,8.0,32.0,71.0,77.0,77.0,31.0,7.0,,43.0,,,,0.0
+Ignacio Pussetto,266540,3163,524,187528,Striker,Right Winger,NaN,51.0,71.0,20.0,14.0,39.0,38.0,86.0,6.0,65.0,36.0,19.0,14.0,16.0,53.0,56.0,61.0,78.0,,,,0.0
+Walace Souza Silva,327009,3163,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,39.0,33.0,66.0,90.0,41.0,40.0,11.0,80.0,41.0,23.0,86.0,86.0,84.0,16.0,32.0,0.0,47.0,,,,17.0
+Jean-Victor Makengo,352992,3163,524,187528,Left Centre Midfielder,NaN,NaN,23.0,71.0,68.0,46.0,40.0,39.0,38.0,30.0,43.0,,40.0,39.0,30.0,51.0,20.0,,72.0,,,,7.0
+Rodrigo  Nascimento Franca,409091,3163,524,187528,Right Centre Back (3 at the back),Right Centre Back,NaN,75.0,20.0,43.0,100.0,73.0,78.0,29.0,31.0,25.0,1.0,61.0,72.0,71.0,28.0,44.0,,59.0,,,,0.0
+Nahuel Molina Lucero,414193,3163,524,187528,Right Wingback,Right Back (5 at the back),Right Winger,28.0,81.0,6.0,22.0,40.0,39.0,47.0,52.0,70.0,92.0,40.0,37.0,30.0,44.0,85.0,7.0,19.0,,,,72.0
+Martin Njøten Palumbo,619638,3163,524,187528,Left Winger,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marco Silvestri,21573,3163,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,65.0,53.0,86.0,
+Iyenoma Destiny Udogie,604763,3163,524,187528,Left Wingback,Left Back (5 at the back),Left Back,53.0,70.0,43.0,73.0,44.0,44.0,67.0,19.0,45.0,4.0,75.0,72.0,66.0,41.0,71.0,,52.0,,,,9.0
+Simone Ianesi,609022,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Matteo Carnelos,623196,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Jacopo Fedrizzi,643931,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Edoardo Piana,645722,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Brandon Soppy,590652,3163,524,187528,Right Wingback,Right Back (5 at the back),Left Wingback,20.0,80.0,28.0,62.0,49.0,49.0,,9.0,34.0,24.0,38.0,29.0,28.0,77.0,13.0,,99.0,,,,9.0
+Lazar Samardi?,522257,3163,524,187528,Right Centre Midfielder,Left Centre Midfielder,Right Winger,,,,,,,,,,,,,,,,,,,,,
+Isaac  Ajayi Success,285509,3163,524,187528,Striker,NaN,NaN,36.0,58.0,18.0,51.0,10.0,4.0,77.0,17.0,99.0,,35.0,28.0,47.0,79.0,61.0,78.0,95.0,,,,0.0
+Cristo Ramón González Pérez,339800,3163,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Matteo Trimboli,631170,3164,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Maya Yoshida,703,3164,524,187528,Right Centre Back,NaN,NaN,90.0,5.0,72.0,70.0,78.0,88.0,,66.0,30.0,,92.0,94.0,86.0,11.0,58.0,,12.0,,,,0.0
+Valerio Verre,20446,3164,524,187528,Attacking Midfielder,Left Winger,Left Centre Midfielder,,,,,,,,,,,,,,,,,,,,,
+Fabio Quagliarella,20479,3164,524,187528,Striker,NaN,NaN,41.0,17.0,11.0,16.0,14.0,12.0,59.0,13.0,57.0,55.0,16.0,13.0,17.0,74.0,64.0,65.0,66.0,,,,50.0
+Antonio Candreva,20556,3164,524,187528,Right Winger,Right Centre Midfielder,NaN,0.0,77.0,14.0,17.0,12.0,10.0,57.0,78.0,95.0,72.0,34.0,26.0,23.0,97.0,69.0,37.0,70.0,,,,94.0
+Manolo Gabbiadini,20857,3164,524,187528,Striker,Attacking Midfielder,NaN,36.0,43.0,1.0,31.0,26.0,26.0,81.0,13.0,79.0,30.0,22.0,17.0,21.0,25.0,95.0,50.0,55.0,,,,80.0
+Albin Ekdal,20876,3164,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,71.0,12.0,36.0,69.0,56.0,61.0,23.0,48.0,11.0,,75.0,76.0,79.0,54.0,41.0,,91.0,,,,0.0
+Nicola Ravaglia,21331,3164,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ernesto Torregrossa,21775,3164,524,187528,Striker,Attacking Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Adrien Sebastian Perruchet Silva,70403,3164,524,187528,Left Centre Midfielder,Defensive Midfielder,Left Defensive Midfielder,39.0,29.0,79.0,87.0,56.0,62.0,,68.0,29.0,,91.0,92.0,92.0,1.0,16.0,,61.0,,,,0.0
+Bartosz Bereszy?ski,99833,3164,524,187528,Right Back,NaN,NaN,69.0,44.0,26.0,51.0,61.0,68.0,,43.0,43.0,53.0,57.0,61.0,55.0,33.0,5.0,,44.0,,,,7.0
+Omar Colley,215503,3164,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,78.0,5.0,66.0,82.0,83.0,93.0,,60.0,5.0,,96.0,96.0,84.0,13.0,2.0,,47.0,,,,0.0
+Tommaso Augello,222964,3164,524,187528,Left Back,NaN,NaN,69.0,66.0,39.0,49.0,54.0,60.0,,59.0,53.0,50.0,69.0,63.0,53.0,36.0,38.0,,34.0,,,,10.0
+Morten Thorsby,237057,3164,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,76.0,8.0,25.0,55.0,50.0,55.0,49.0,15.0,23.0,,48.0,45.0,60.0,7.0,42.0,20.0,43.0,,,,0.0
+Emil Audero Mulyadi,257027,3164,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,82.0,59.0,58.0,
+Alex Ferrari,263433,3164,524,187528,Right Centre Back,NaN,NaN,52.0,6.0,61.0,80.0,84.0,95.0,,45.0,4.0,,71.0,77.0,74.0,2.0,45.0,,60.0,,,,44.0
+Mikkel Damsgaard,449472,3164,524,187528,Left Winger,Left Attacking Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Kristoffer Askildsen,563182,3164,524,187528,Right Centre Midfielder,Left Winger,Left Centre Midfielder,74.0,7.0,4.0,48.0,72.0,80.0,,20.0,13.0,,45.0,47.0,57.0,62.0,12.0,21.0,74.0,,,,0.0
+Nicola Murru,20869,3164,524,187528,Left Back,NaN,NaN,54.0,36.0,2.0,55.0,52.0,57.0,,48.0,29.0,73.0,67.0,61.0,61.0,37.0,55.0,,18.0,,,,43.0
+Julian Chabot,391740,3164,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,,,,,,
+Fabio Depaoli,415809,3164,524,187528,Right Wingback,Left Wingback,Right Winger,21.0,47.0,1.0,33.0,59.0,66.0,39.0,33.0,55.0,71.0,30.0,32.0,40.0,72.0,56.0,,51.0,,,,0.0
+Wladimiro Falcone,226222,3164,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,84.0,88.0,88.0,
+Radu-Matei Dr?gu?in,545267,3164,524,187528,Right Centre Back,Right Back,Right Centre Back (3 at the back),68.0,16.0,30.0,74.0,78.0,88.0,,30.0,6.0,,69.0,78.0,77.0,,15.0,,40.0,,,,0.0
+Simone Trimboli,542197,3164,524,187528,Right Centre Midfielder,Left Centre Midfielder,Defensive Midfielder,,,,,,,,,,,,,,,,,,,,,
+Francesco Migliardi,631069,3164,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Gerard Yepes Laut,635150,3164,524,187528,Defensive Midfielder,Right Centre Midfielder,Left Centre Midfielder,,,,,,,,,,,,,,,,,,,,,
+Riccardo Ciervo,601314,3164,524,187528,Left Winger,Right Winger,Left Wingback,,,,,,,,,,,,,,,,,,,,,
+Mohamed Amine Ihattaren,489626,3164,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Baye Ibrahima Niasse,92260,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marco Molla,562295,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Omar  Khailoti,576506,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ebenezer Isaac Annan,626846,3166,524,187528,Left Back (5 at the back),Left Wingback,NaN,,,,,,,,,,,,,,,,,,,,,
+Davide Franzini,628283,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Nicola Bagnolini,618933,3166,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Wisdom Amey,628296,3166,524,187528,Right Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Kevin Bonifazi,289827,3166,524,187528,Left Centre Back,Right Centre Back (3 at the back),Left Centre Back (3 at the back),87.0,50.0,53.0,74.0,74.0,81.0,,78.0,14.0,,83.0,80.0,63.0,39.0,10.0,,14.0,,,,0.0
+Mitchell Dijks,1708,3166,524,187528,Left Wingback,Left Back (5 at the back),Left Back,,,,,,,,,,,,,,,,,,,,,
+Gary Alexis Medel Soto,3473,3166,524,187528,Centre Back,Right Centre Back,NaN,61.0,9.0,98.0,58.0,80.0,88.0,,74.0,7.0,,61.0,72.0,66.0,31.0,11.0,,54.0,,,,41.0
+Roberto Soriano,20623,3166,524,187528,Right Centre Midfielder,Attacking Midfielder,Left Centre Midfielder,31.0,57.0,44.0,59.0,37.0,37.0,45.0,64.0,78.0,75.0,59.0,58.0,58.0,26.0,3.0,27.0,70.0,,,,0.0
+Lorenzo De Silvestri,20927,3166,524,187528,Right Wingback,Right Back,Right Back (5 at the back),85.0,64.0,30.0,35.0,53.0,56.0,38.0,60.0,52.0,91.0,48.0,45.0,47.0,6.0,68.0,6.0,49.0,,,,0.0
+Ibrahima Mbaye,22377,3166,524,187528,Right Back (5 at the back),Left Centre Back (3 at the back),Left Back (5 at the back),,,,,,,,,,,,,,,,,,,,,
+Nicola Sansone,22578,3166,524,187528,Striker,Left Wing Forward,Attacking Midfielder,15.0,66.0,30.0,14.0,8.0,2.0,82.0,21.0,89.0,77.0,8.0,11.0,8.0,64.0,54.0,45.0,84.0,,,,83.0
+Bakary Adama Soumaoro,25710,3166,524,187528,Right Centre Back (3 at the back),NaN,NaN,86.0,15.0,91.0,52.0,79.0,87.0,,47.0,2.0,,57.0,66.0,63.0,32.0,1.0,,21.0,,,,0.0
+Federico Javier Santander Mereles,86316,3166,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+?ukasz Skorupski,99430,3166,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,93.0,72.0,82.0,
+Mattias Svanberg,347525,3166,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,45.0,58.0,24.0,34.0,51.0,53.0,31.0,45.0,63.0,27.0,40.0,48.0,44.0,24.0,58.0,,94.0,,,,69.0
+Riccardo Orsolini,373768,3166,524,187528,Striker,Right Wing Forward,NaN,51.0,65.0,19.0,17.0,34.0,33.0,67.0,31.0,46.0,50.0,15.0,17.0,12.0,92.0,68.0,71.0,88.0,,,,86.0
+Takehiro Tomiyasu,386328,3166,524,187528,Left Back (5 at the back),NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Jerdy Schouten,439889,3166,524,187528,Right Centre Midfielder,Defensive Midfielder,Right Defensive Midfielder,71.0,12.0,70.0,87.0,67.0,72.0,,75.0,44.0,,100.0,96.0,100.0,54.0,49.0,,11.0,,,,0.0
+Emanuel Vignato,485014,3166,524,187528,Right Centre Midfielder,Left Centre Midfielder,Left Wingback,,,,,,,,,,,,,,,,,,,,,
+Musa Barrow,491409,3166,524,187528,Striker,Left Wing Forward,NaN,17.0,74.0,38.0,5.0,16.0,11.0,55.0,31.0,83.0,64.0,7.0,8.0,7.0,59.0,83.0,76.0,39.0,,,,81.0
+Nicolás Martín Domínguez,496214,3166,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,77.0,32.0,66.0,84.0,54.0,57.0,30.0,79.0,58.0,35.0,80.0,79.0,82.0,13.0,4.0,,74.0,,,,39.0
+Andreas Skov Olsen,512740,3166,524,187528,Right Back (5 at the back),Right Winger,Right Wingback,21.0,87.0,36.0,49.0,33.0,31.0,,29.0,55.0,85.0,58.0,50.0,44.0,77.0,13.0,42.0,81.0,,,,51.0
+Aaron Hickey,596046,3166,524,187528,Left Wingback,Left Back,Left Back (5 at the back),20.0,64.0,40.0,37.0,57.0,61.0,11.0,19.0,34.0,39.0,49.0,50.0,51.0,48.0,74.0,,93.0,,,,18.0
+Benito Nicolas Viola,22695,3166,524,187528,Defensive Midfielder,Left Wingback,NaN,,,,,,,,,,,,,,,,,,,,,
+Francesco Bardi,20889,3166,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Kingsley Dogo Michael,403264,3166,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Gabriele Corbo,496671,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Gianmarco Cangiano,536800,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Arthur Theate,583730,3166,524,187528,Left Centre Back (3 at the back),NaN,NaN,51.0,66.0,57.0,57.0,71.0,77.0,17.0,81.0,15.0,3.0,67.0,62.0,52.0,5.0,54.0,,8.0,,,,0.0
+Sydney van Hooijdonk,576529,3166,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Niklas Pyyhtiä,619259,3166,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Luis Binks,494716,3166,524,187528,Centre Back,Left Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,,,,,,
+M'Baye Babacar Niang,25898,3166,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marko Arnautovi?,14703,3166,524,187528,Striker,NaN,NaN,28.0,27.0,11.0,35.0,15.0,10.0,91.0,14.0,77.0,36.0,21.0,19.0,27.0,59.0,85.0,87.0,24.0,,,,48.0
+Federico Zuccon,591029,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Merih Demiral,345695,3172,524,187528,Centre Back,Right Centre Back,NaN,98.0,7.0,78.0,97.0,85.0,89.0,67.0,34.0,11.0,,81.0,83.0,81.0,3.0,19.0,,27.0,,,,39.0
+Giuseppe Pezzella,388398,3172,524,187528,Left Wingback,Left Back,NaN,46.0,70.0,23.0,48.0,61.0,60.0,,47.0,56.0,74.0,56.0,44.0,42.0,80.0,13.0,,91.0,,,,0.0
+Juan Agustín Musso,225704,3172,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,80.0,63.0,61.0,
+Marten de Roon,625,3172,524,187528,Right Centre Midfielder,Left Centre Midfielder,Right Centre Back (3 at the back),74.0,22.0,78.0,90.0,44.0,40.0,17.0,88.0,15.0,,89.0,88.0,89.0,28.0,65.0,,13.0,,,,19.0
+Luis Fernando Muriel Fruto,20764,3172,524,187528,Striker,Left Wing Forward,NaN,55.0,92.0,28.0,25.0,15.0,5.0,72.0,32.0,99.0,52.0,15.0,13.0,20.0,77.0,94.0,98.0,61.0,,,,88.0
+Josip Ili?i?,20820,3172,524,187528,Striker,Attacking Midfielder,Right Wing Forward,6.0,86.0,42.0,30.0,16.0,7.0,62.0,74.0,99.0,62.0,27.0,24.0,23.0,88.0,82.0,87.0,100.0,,,,80.0
+Francesco Rossi,22053,3172,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marco Sportiello,23705,3172,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Rafael Tolói,41034,3172,524,187528,Right Centre Back (3 at the back),NaN,NaN,89.0,36.0,47.0,71.0,73.0,75.0,,90.0,26.0,59.0,91.0,90.0,81.0,12.0,35.0,4.0,18.0,,,,0.0
+Remo Freuler,49991,3172,524,187528,Left Centre Midfielder,Right Centre Midfielder,Left Defensive Midfielder,48.0,72.0,69.0,73.0,60.0,59.0,18.0,93.0,64.0,38.0,76.0,79.0,77.0,45.0,33.0,,45.0,,,,31.0
+Berat  Djimsiti,50007,3172,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),NaN,89.0,14.0,60.0,58.0,76.0,78.0,43.0,76.0,35.0,53.0,69.0,67.0,60.0,34.0,19.0,,23.0,,,,39.0
+Duván Esteban Zapata Banguera,86243,3172,524,187528,Striker,NaN,NaN,55.0,80.0,27.0,11.0,33.0,26.0,98.0,12.0,88.0,56.0,2.0,5.0,17.0,57.0,55.0,91.0,55.0,,,,0.0
+José Luis Palomino,86366,3172,524,187528,Centre Back,Left Centre Back (3 at the back),Left Centre Back,98.0,27.0,57.0,100.0,82.0,85.0,50.0,80.0,16.0,24.0,96.0,100.0,98.0,12.0,14.0,,18.0,,,,38.0
+Mario Paali?,135807,3172,524,187528,Attacking Midfielder,Right Centre Midfielder,Left Wing Forward,63.0,41.0,64.0,12.0,20.0,12.0,94.0,53.0,86.0,,22.0,19.0,27.0,21.0,100.0,57.0,23.0,,,,0.0
+Ruslan Malinovskiy,138548,3172,524,187528,Attacking Midfielder,Striker,Right Wing Forward,46.0,96.0,36.0,38.0,35.0,29.0,63.0,76.0,88.0,63.0,33.0,29.0,34.0,84.0,89.0,76.0,83.0,,,,90.0
+Aleksey Miranchuk,262048,3172,524,187528,Attacking Midfielder,Striker,Right Wing Forward,29.0,87.0,52.0,28.0,22.0,14.0,58.0,53.0,91.0,74.0,6.0,7.0,11.0,73.0,75.0,79.0,85.0,,,,58.0
+Matteo Pessina,272893,3172,524,187528,Attacking Midfielder,Left Centre Midfielder,NaN,58.0,67.0,50.0,59.0,37.0,31.0,59.0,63.0,45.0,17.0,45.0,48.0,57.0,39.0,28.0,63.0,87.0,,,,0.0
+Hans Hateboer,280419,3172,524,187528,Right Wingback,Right Back,NaN,51.0,67.0,56.0,52.0,45.0,42.0,66.0,57.0,38.0,82.0,40.0,43.0,41.0,70.0,5.0,,12.0,,,,0.0
+Robin Gosens,295176,3172,524,187528,Left Wingback,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Sam Lammers,377072,3172,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Joakim Maehle,442097,3172,524,187528,Left Wingback,Right Wingback,NaN,36.0,82.0,52.0,30.0,35.0,29.0,42.0,52.0,45.0,37.0,51.0,56.0,42.0,28.0,34.0,,74.0,,,,8.0
+Davide Zappacosta,22889,3172,524,187528,Right Wingback,Left Wingback,NaN,21.0,89.0,47.0,24.0,34.0,28.0,41.0,58.0,81.0,72.0,35.0,31.0,27.0,67.0,24.0,22.0,57.0,,,,30.0
+Matteo Lovato,485354,3172,524,187528,Centre Back,Right Centre Back (3 at the back),NaN,89.0,14.0,76.0,75.0,74.0,76.0,,55.0,1.0,,64.0,75.0,74.0,38.0,8.0,,27.0,,,,45.0
+Roberto Piccoli,499876,3172,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Enrico Del Prato,422552,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Jacopo Da Riva,422563,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Andrea Olivieri,591040,3172,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Giorgio  Scalvini,635339,3172,524,187528,Right Centre Back (3 at the back),Left Centre Back (3 at the back),NaN,85.0,20.0,71.0,87.0,45.0,42.0,67.0,86.0,9.0,,73.0,73.0,76.0,20.0,42.0,,31.0,,,,0.0
+Teun Koopmeiners,365444,3172,524,187528,Right Centre Midfielder,Left Centre Midfielder,Attacking Midfielder,62.0,59.0,62.0,42.0,32.0,26.0,22.0,91.0,77.0,81.0,38.0,43.0,46.0,43.0,76.0,,36.0,,,,81.0
+Christian Gabriel Oliva Giménez,557617,3173,524,187528,Right Centre Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Alberto Grassi,134435,3173,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,90.0,15.0,53.0,37.0,56.0,61.0,21.0,56.0,40.0,,70.0,72.0,68.0,43.0,5.0,,95.0,,,,45.0
+Keita Baldé Diao,256480,3173,524,187528,Striker,NaN,NaN,24.0,32.0,34.0,15.0,34.0,34.0,81.0,6.0,38.0,7.0,10.0,12.0,19.0,44.0,65.0,63.0,85.0,,,,0.0
+Paolo Faragò,220359,3173,524,187528,Left Centre Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Boris Radunovi?,265832,3173,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Diego Roberto Godín Leal,3433,3173,524,187528,Centre Back,Left Centre Back,Right Centre Back,83.0,6.0,96.0,81.0,75.0,83.0,,71.0,5.0,,92.0,89.0,79.0,53.0,13.0,,6.0,,,,0.0
+Luca Ceppitelli,21639,3173,524,187528,Centre Back,Right Centre Back,Right Centre Back (3 at the back),78.0,3.0,62.0,77.0,79.0,88.0,,62.0,1.0,,91.0,93.0,85.0,,45.0,,32.0,,,,21.0
+Leonardo Pavoletti,22933,3173,524,187528,Striker,NaN,NaN,80.0,0.0,44.0,26.0,34.0,35.0,91.0,4.0,28.0,,11.0,11.0,28.0,8.0,58.0,65.0,60.0,,,,0.0
+Simone Aresti,24866,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Charalampos Lykogiannis,92900,3173,524,187528,Left Wingback,Left Back,Left Back (5 at the back),74.0,42.0,1.0,23.0,77.0,85.0,18.0,29.0,38.0,54.0,68.0,55.0,51.0,8.0,39.0,16.0,27.0,,,,81.0
+João Pedro Geraldino dos Santos Galvão,116171,3173,524,187528,Striker,NaN,NaN,37.0,36.0,27.0,12.0,22.0,21.0,87.0,6.0,64.0,7.0,8.0,8.0,20.0,23.0,72.0,57.0,90.0,,,,50.0
+Alessio Cragno,134413,3173,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,73.0,66.0,54.0,
+R?zvan Gabriel Marin,236820,3173,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,44.0,68.0,63.0,20.0,17.0,15.0,18.0,60.0,82.0,61.0,18.0,21.0,20.0,23.0,8.0,,45.0,,,,95.0
+Gastón Rodrigo Pereiro López,254155,3173,524,187528,Striker,Right Centre Midfielder,Right Winger,26.0,80.0,22.0,5.0,22.0,20.0,46.0,18.0,67.0,52.0,10.0,13.0,11.0,79.0,90.0,46.0,6.0,,,,63.0
+Alessandro Deiola,263591,3173,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,63.0,10.0,53.0,46.0,61.0,67.0,47.0,28.0,39.0,34.0,69.0,70.0,70.0,14.0,75.0,,37.0,,,,8.0
+Nahitan Michel Nández Acosta,299618,3173,524,187528,Right Centre Midfielder,Right Winger,Right Wingback,53.0,89.0,34.0,49.0,26.0,25.0,24.0,48.0,78.0,100.0,35.0,36.0,41.0,58.0,11.0,27.0,76.0,,,,10.0
+Sebastian Walukiewicz,496427,3173,524,187528,Right Centre Back (3 at the back),Right Centre Back,Left Centre Back,,,,,,,,,,,,,,,,,,,,,
+Gabriele Zappa,535711,3173,524,187528,Right Centre Back (3 at the back),Right Back,Right Wingback,62.0,70.0,17.0,48.0,53.0,57.0,,46.0,28.0,46.0,51.0,47.0,40.0,24.0,13.0,,31.0,,,,0.0
+Andrea Carboni,583587,3173,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,68.0,39.0,24.0,72.0,80.0,89.0,,66.0,20.0,37.0,85.0,90.0,82.0,6.0,6.0,,8.0,,,,0.0
+José Martín Cáceres Silva,20460,3173,524,187528,Right Centre Back (3 at the back),Right Back,Left Back,38.0,6.0,15.0,47.0,66.0,73.0,,77.0,34.0,33.0,72.0,69.0,62.0,,58.0,,53.0,,,,43.0
+Kevin Strootman,114,3173,524,187528,Defensive Midfielder,Left Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Diego da Silva Farias,23314,3173,524,187528,Left Winger,Left Centre Midfielder,Striker,,,,,,,,,,,,,,,,,,,,,
+Damir Ceter Valencia,335634,3173,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Raoul Bellanova,405598,3173,524,187528,Right Wingback,Right Back (5 at the back),Left Wingback,37.0,83.0,24.0,37.0,56.0,60.0,32.0,25.0,63.0,95.0,61.0,52.0,46.0,81.0,24.0,,61.0,,,,0.0
+Giorgio Altare,506811,3173,524,187528,Right Centre Back (3 at the back),Left Centre Back (3 at the back),NaN,93.0,32.0,8.0,92.0,70.0,77.0,22.0,74.0,21.0,20.0,99.0,90.0,79.0,42.0,44.0,,19.0,,,,0.0
+Andrea D'Aniello,596067,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Eugenio Fusco,642364,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Nicolò Cavuoti,644345,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Isaias Del Pupo,652193,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Adam Obert,569946,3173,524,187528,Left Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Dalbert Henrique Chagas Estevão,298212,3173,524,187528,Left Wingback,Left Centre Midfielder,Left Back (5 at the back),30.0,37.0,15.0,49.0,56.0,60.0,,27.0,42.0,73.0,58.0,65.0,65.0,43.0,1.0,11.0,59.0,,,,43.0
+Gustavo Delpupo da Silva,42733,3173,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Álvaro Odriozola Arzallus,278289,3176,524,187528,Right Back,NaN,NaN,9.0,91.0,87.0,55.0,67.0,62.0,,38.0,67.0,96.0,54.0,48.0,48.0,38.0,34.0,,24.0,,,,8.0
+Lucas Torreira Di Pascua,333571,3176,524,187528,Defensive Midfielder,NaN,NaN,27.0,22.0,89.0,64.0,27.0,15.0,73.0,87.0,53.0,,44.0,54.0,52.0,13.0,69.0,,85.0,,,,54.0
+Louis Munteanu,545276,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo  Frison,624359,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Alessandro  Bianco,624360,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo Di Stefano,653400,3176,524,187528,Right Winger,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Destiny Efosa Egharevba,625946,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Joseph Alfred Duncan,22383,3176,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,20.0,53.0,46.0,39.0,33.0,22.0,25.0,68.0,53.0,74.0,29.0,41.0,33.0,67.0,59.0,,17.0,,,,9.0
+Riccardo Sottil,523085,3176,524,187528,Left Wing Forward,Right Wing Forward,Left Winger,20.0,100.0,42.0,17.0,16.0,1.0,70.0,14.0,81.0,59.0,13.0,10.0,7.0,93.0,73.0,76.0,97.0,,,,41.0
+José María Callejón Bueno,3313,3176,524,187528,Right Wing Forward,Right Winger,NaN,25.0,36.0,48.0,35.0,21.0,8.0,57.0,37.0,78.0,59.0,32.0,37.0,25.0,63.0,32.0,77.0,63.0,,,,80.0
+Giacomo Bonaventura,20845,3176,524,187528,Right Centre Midfielder,NaN,NaN,39.0,92.0,62.0,26.0,23.0,10.0,61.0,53.0,69.0,18.0,36.0,40.0,32.0,83.0,62.0,24.0,87.0,,,,31.0
+Pietro Terracciano,21065,3176,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,98.0,94.0,50.0,
+Antonio Rosati,21158,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Cristiano Biraghi,21842,3176,524,187528,Left Back,NaN,NaN,6.0,61.0,51.0,55.0,53.0,45.0,29.0,85.0,82.0,95.0,45.0,42.0,32.0,35.0,54.0,,63.0,,,,95.0
+Erick Antonio Pulgar Farfán,90268,3176,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Aleksandr Kokorin,101705,3176,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Bart?omiej Dr?gowski,265431,3176,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Lorenzo Venuti,284960,3176,524,187528,Right Back,NaN,NaN,46.0,58.0,81.0,36.0,55.0,48.0,,75.0,27.0,66.0,24.0,38.0,20.0,27.0,14.0,,81.0,,,,0.0
+Sofyan Amrabat,285590,3176,524,187528,Defensive Midfielder,NaN,NaN,18.0,49.0,95.0,74.0,76.0,72.0,,93.0,16.0,,75.0,79.0,76.0,35.0,55.0,,54.0,,,,0.0
+Gaetano Castrovilli,341073,3176,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,20.0,87.0,30.0,25.0,53.0,45.0,39.0,36.0,61.0,17.0,30.0,31.0,30.0,69.0,42.0,35.0,93.0,,,,68.0
+Lucas  Martínez Quarta,372256,3176,524,187528,Left Centre Back,Right Centre Back,NaN,85.0,68.0,96.0,86.0,80.0,77.0,46.0,97.0,32.0,,68.0,73.0,72.0,53.0,30.0,,27.0,,,,0.0
+Igor Julio dos Santos de Paulo,415953,3176,524,187528,Left Centre Back,NaN,NaN,68.0,48.0,99.0,93.0,82.0,80.0,,91.0,22.0,,79.0,85.0,81.0,40.0,9.0,,1.0,,,,0.0
+Duan Vlahovi?,418950,3176,524,187528,Striker,NaN,NaN,61.0,24.0,14.0,26.0,36.0,25.0,97.0,5.0,59.0,11.0,30.0,24.0,36.0,50.0,97.0,80.0,84.0,,,,55.0
+Nikola Milenkovi?,424241,3176,524,187528,Right Centre Back,NaN,NaN,97.0,9.0,97.0,86.0,85.0,83.0,39.0,78.0,7.0,,71.0,79.0,75.0,25.0,14.0,,26.0,,,,0.0
+Marco Benassi,22380,3176,524,187528,Right Centre Midfielder,Right Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Riccardo Saponara,21025,3176,524,187528,Left Wing Forward,Left Winger,NaN,35.0,95.0,40.0,23.0,18.0,4.0,53.0,49.0,80.0,70.0,35.0,34.0,25.0,80.0,73.0,88.0,72.0,,,,8.0
+Aleksa Terzi?,405985,3176,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Youssef Maleh,460224,3176,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,46.0,47.0,47.0,55.0,32.0,21.0,68.0,38.0,58.0,78.0,38.0,32.0,37.0,41.0,55.0,31.0,72.0,,,,0.0
+Michele Cerofolini,490626,3176,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Matija Nastasi?,20932,3176,524,187528,Left Centre Back,Centre Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Nicolás Iván González,444669,3176,524,187528,Right Wing Forward,Left Wing Forward,NaN,74.0,96.0,40.0,37.0,21.0,7.0,76.0,25.0,86.0,56.0,30.0,29.0,37.0,58.0,44.0,87.0,99.0,,,,9.0
+Patrick Cutrone,351010,3178,524,187528,Striker,NaN,NaN,20.0,19.0,5.0,16.0,9.0,14.0,84.0,4.0,40.0,22.0,14.0,11.0,11.0,67.0,52.0,60.0,44.0,,,,0.0
+Federico Di Francesco,259292,3178,524,187528,Striker,Attacking Midfielder,NaN,11.0,62.0,13.0,28.0,9.0,13.0,76.0,17.0,69.0,34.0,29.0,24.0,36.0,45.0,90.0,57.0,77.0,,,,11.0
+Andrea Pinamonti,405608,3178,524,187528,Striker,NaN,NaN,52.0,13.0,2.0,1.0,19.0,25.0,89.0,2.0,52.0,19.0,8.0,6.0,10.0,68.0,68.0,67.0,70.0,,,,43.0
+Lorenzo Tonelli,21006,3178,524,187528,Right Centre Back,Left Centre Back,NaN,88.0,29.0,74.0,50.0,72.0,88.0,,91.0,12.0,,63.0,67.0,73.0,24.0,14.0,,93.0,,,,0.0
+Guglielmo Vicario,326998,3178,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,82.0,93.0,80.0,
+Samir Ujkani,21547,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Sebastiano Luperto,272870,3178,524,187528,Left Centre Back,NaN,NaN,62.0,56.0,63.0,81.0,82.0,100.0,,65.0,8.0,,97.0,99.0,95.0,,6.0,,5.0,,,,0.0
+Riccardo Marchizza,347015,3178,524,187528,Left Back,NaN,NaN,34.0,47.0,7.0,55.0,43.0,54.0,,52.0,48.0,80.0,36.0,34.0,25.0,56.0,16.0,,2.0,,,,67.0
+Ardian Ismajli,435395,3178,524,187528,Right Centre Back,NaN,NaN,91.0,55.0,78.0,68.0,76.0,93.0,,74.0,3.0,,76.0,84.0,83.0,,10.0,,40.0,,,,0.0
+Liam Henderson,232041,3178,524,187528,Attacking Midfielder,Left Centre Midfielder,Right Centre Midfielder,34.0,20.0,4.0,15.0,18.0,25.0,43.0,40.0,84.0,63.0,13.0,20.0,21.0,32.0,43.0,29.0,39.0,,,,79.0
+Jacopo Furlan,20992,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Simone Romagnoli,21373,3178,524,187528,Right Centre Back,NaN,NaN,92.0,28.0,60.0,52.0,82.0,100.0,,72.0,13.0,,71.0,77.0,65.0,,66.0,,4.0,,,,0.0
+Alberto Brignoli,21415,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Riccardo Fiamozzi,21619,3178,524,187528,Right Back,Left Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Andrea La Mantia,21987,3178,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Leo tulac,85366,3178,524,187528,Defensive Midfielder,NaN,NaN,23.0,11.0,72.0,61.0,31.0,40.0,,81.0,56.0,,55.0,43.0,40.0,27.0,75.0,,78.0,,,,85.0
+Leonardo Mancuso,215871,3178,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Nicolas Haas,342075,3178,524,187528,Right Centre Midfielder,NaN,NaN,6.0,27.0,44.0,78.0,57.0,70.0,,70.0,62.0,28.0,74.0,64.0,63.0,26.0,15.0,,47.0,,,,9.0
+Giovanni Crociata,368642,3178,524,187528,Attacking Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo Bandinelli,391243,3178,524,187528,Left Centre Midfielder,NaN,NaN,24.0,69.0,21.0,58.0,47.0,59.0,47.0,45.0,80.0,93.0,45.0,43.0,39.0,52.0,47.0,16.0,32.0,,,,30.0
+Nedim Bajrami,405065,3178,524,187528,Attacking Midfielder,Striker,NaN,0.0,87.0,20.0,46.0,9.0,14.0,47.0,31.0,93.0,62.0,36.0,32.0,27.0,50.0,60.0,49.0,19.0,,,,88.0
+Szymon ?urkowski,483254,3178,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,38.0,88.0,39.0,79.0,39.0,50.0,57.0,32.0,51.0,9.0,67.0,63.0,74.0,63.0,83.0,21.0,88.0,,,,0.0
+Samuele Ricci,531696,3178,524,187528,Defensive Midfielder,Right Centre Midfielder,Left Centre Midfielder,25.0,38.0,87.0,76.0,37.0,47.0,15.0,80.0,25.0,,85.0,81.0,81.0,52.0,38.0,,93.0,,,,45.0
+Fabiano Parisi,544075,3178,524,187528,Left Back,NaN,NaN,34.0,92.0,21.0,63.0,60.0,74.0,29.0,62.0,57.0,25.0,77.0,76.0,66.0,50.0,7.0,,73.0,,,,8.0
+Mattia Viti,630503,3178,524,187528,Left Centre Back,Right Centre Back,NaN,61.0,24.0,62.0,48.0,78.0,95.0,,55.0,2.0,,61.0,71.0,62.0,44.0,10.0,,27.0,,,,0.0
+Simone Canestrelli,548399,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Kristjan Asllani,588819,3178,524,187528,Defensive Midfielder,NaN,NaN,39.0,13.0,61.0,25.0,44.0,55.0,7.0,76.0,35.0,,38.0,38.0,28.0,38.0,47.0,,71.0,,,,76.0
+Emmanuel Ekong,591131,3178,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Tommaso Baldanzi,630686,3178,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Petar Stojanovi?,170618,3178,524,187528,Right Back,NaN,NaN,20.0,93.0,25.0,72.0,56.0,69.0,11.0,77.0,77.0,80.0,77.0,70.0,64.0,50.0,36.0,,23.0,,,,46.0
+Etrit Berisha,50849,3185,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,73.0,61.0,100.0,
+Jacopo Segre,400265,3185,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Tomás Eduardo Rincón Hernández,14903,3185,524,187528,Defensive Midfielder,Left Centre Midfielder,Right Centre Midfielder,62.0,29.0,73.0,56.0,50.0,46.0,,67.0,20.0,,60.0,62.0,52.0,51.0,16.0,,91.0,,,,0.0
+Ricardo Iván Rodríguez Araya,14922,3185,524,187528,Left Centre Back (3 at the back),NaN,NaN,73.0,78.0,78.0,68.0,68.0,67.0,,69.0,34.0,25.0,46.0,57.0,50.0,28.0,15.0,,10.0,,,,82.0
+Simone Verdi,21123,3185,524,187528,Right Winger,Striker,Attacking Midfielder,6.0,87.0,27.0,54.0,12.0,0.0,65.0,44.0,72.0,78.0,48.0,48.0,44.0,79.0,96.0,37.0,86.0,,,,96.0
+Andrea Belotti,21234,3185,524,187528,Striker,NaN,NaN,59.0,44.0,23.0,22.0,34.0,26.0,86.0,5.0,42.0,45.0,12.0,17.0,31.0,67.0,73.0,83.0,96.0,,,,59.0
+Daniele Baselli,21507,3185,524,187528,Left Centre Midfielder,Left Winger,Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Simone Zaza,22202,3185,524,187528,Striker,Attacking Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Armando Izzo,22883,3185,524,187528,Right Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Cristian Daniel Ansaldi,101742,3185,524,187528,Left Wingback,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Karol Linetty,138174,3185,524,187528,Attacking Midfielder,Right Centre Midfielder,Right Wing Forward,15.0,22.0,45.0,19.0,27.0,19.0,29.0,17.0,76.0,,14.0,11.0,22.0,12.0,13.0,31.0,39.0,,,,59.0
+Arnaldo Antonio Sanabria Ayala,225946,3185,524,187528,Striker,NaN,NaN,55.0,15.0,57.0,10.0,30.0,22.0,98.0,6.0,37.0,,2.0,0.0,7.0,52.0,51.0,81.0,68.0,,,,40.0
+Saa Luki?,237269,3185,524,187528,Right Centre Midfielder,NaN,NaN,46.0,78.0,88.0,69.0,48.0,43.0,13.0,73.0,60.0,4.0,55.0,59.0,56.0,55.0,46.0,16.0,64.0,,,,80.0
+Vanja Milinkovi?-Savi?,283062,3185,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,56.0,60.0,69.0,
+Rolando Mandragora,302799,3185,524,187528,Left Centre Midfielder,NaN,NaN,52.0,24.0,70.0,41.0,48.0,43.0,28.0,74.0,62.0,72.0,52.0,50.0,49.0,15.0,10.0,,74.0,,,,79.0
+Mërgim Vojvoda,336439,3185,524,187528,Left Wingback,NaN,NaN,40.0,71.0,32.0,19.0,67.0,66.0,38.0,69.0,76.0,98.0,35.0,37.0,33.0,85.0,3.0,,10.0,,,,9.0
+Gleysson Bremer Silva Nascimento,475319,3185,524,187528,Centre Back,NaN,NaN,85.0,13.0,65.0,77.0,91.0,94.0,63.0,46.0,11.0,,80.0,75.0,84.0,19.0,32.0,,19.0,,,,0.0
+Alessandro Buongiorno,491451,3185,524,187528,Left Centre Back (3 at the back),Centre Back,NaN,92.0,16.0,56.0,85.0,82.0,83.0,,48.0,21.0,,81.0,87.0,84.0,39.0,4.0,,54.0,,,,0.0
+Wilfried Stephane Singo,603143,3185,524,187528,Right Wingback,NaN,NaN,66.0,80.0,35.0,41.0,56.0,53.0,47.0,52.0,54.0,71.0,50.0,46.0,42.0,56.0,54.0,,86.0,,,,0.0
+Marko Pjaca,135810,3185,524,187528,Left Wing Forward,Attacking Midfielder,NaN,36.0,87.0,47.0,28.0,24.0,15.0,48.0,28.0,47.0,77.0,42.0,34.0,33.0,66.0,82.0,58.0,44.0,,,,10.0
+Lévy Koffi Djidji,25523,3185,524,187528,Right Centre Back (3 at the back),NaN,NaN,78.0,25.0,77.0,90.0,75.0,75.0,,59.0,1.0,54.0,71.0,80.0,78.0,34.0,10.0,,7.0,,,,0.0
+Tommaso Pobega,461665,3185,524,187528,Left Centre Midfielder,NaN,NaN,78.0,55.0,59.0,45.0,52.0,48.0,58.0,70.0,44.0,24.0,38.0,38.0,50.0,39.0,63.0,10.0,65.0,,,,0.0
+Nicola Rauti,408804,3185,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ben Lhassine Kone,530642,3185,524,187528,Defensive Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Luca Gemello,496670,3185,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+David Zima,564673,3185,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,88.0,20.0,69.0,67.0,89.0,92.0,,31.0,24.0,,38.0,51.0,50.0,7.0,10.0,,6.0,,,,0.0
+Dennis Praet,37739,3185,524,187528,Attacking Midfielder,Right Wing Forward,NaN,16.0,50.0,45.0,10.0,20.0,10.0,64.0,34.0,91.0,87.0,20.0,24.0,21.0,59.0,45.0,52.0,43.0,,,,31.0
+Josip Brekalo,284469,3185,524,187528,Attacking Midfielder,Striker,Left Wing Forward,10.0,77.0,23.0,4.0,16.0,6.0,53.0,43.0,82.0,73.0,5.0,4.0,3.0,75.0,88.0,63.0,34.0,,,,88.0
+Magnus Warming,506857,3185,524,187528,Striker,Right Wingback,Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Temitayo Olufisayo Olaoluwa Aina,240378,3185,524,187528,Left Wingback,Right Wingback,NaN,55.0,88.0,11.0,52.0,62.0,60.0,6.0,50.0,60.0,73.0,66.0,58.0,53.0,64.0,16.0,,80.0,,,,0.0
+Juan Guilherme Nunes Jesus,20518,3187,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,78.0,9.0,87.0,95.0,86.0,80.0,,66.0,9.0,,56.0,64.0,55.0,,47.0,,3.0,,,,0.0
+Kévin Malcuit,144867,3187,524,187528,Right Back,Right Wingback,NaN,,,,,,,,,,,,,,,,,,,,,
+Dries Mertens,122,3187,524,187528,Striker,Attacking Midfielder,NaN,5.0,42.0,23.0,12.0,38.0,23.0,65.0,29.0,89.0,63.0,3.0,10.0,5.0,84.0,99.0,86.0,68.0,,,,67.0
+Diego Demme,15937,3187,524,187528,Right Defensive Midfielder,Left Defensive Midfielder,Right Centre Midfielder,,,,,,,,,,,,,,,,,,,,,
+Lorenzo Insigne,21385,3187,524,187528,Left Attacking Midfielder,Left Wing Forward,Left Winger,12.0,98.0,57.0,37.0,22.0,4.0,52.0,72.0,88.0,68.0,39.0,35.0,28.0,66.0,41.0,91.0,40.0,,,,87.0
+Mário Rui Silva Duarte,22107,3187,524,187528,Left Back,NaN,NaN,19.0,61.0,71.0,57.0,67.0,57.0,24.0,83.0,45.0,49.0,52.0,57.0,54.0,44.0,3.0,,85.0,,,,73.0
+Giovanni Di Lorenzo,22680,3187,524,187528,Right Back,NaN,NaN,73.0,66.0,84.0,64.0,66.0,57.0,30.0,84.0,68.0,43.0,47.0,53.0,46.0,22.0,26.0,,66.0,,,,7.0
+David Ospina Ramírez,25662,3187,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,82.0,88.0,94.0,
+Kalidou Koulibaly,25726,3187,524,187528,Left Centre Back,NaN,NaN,75.0,41.0,75.0,77.0,94.0,90.0,,86.0,25.0,,81.0,79.0,65.0,44.0,67.0,,15.0,,,,0.0
+Faouzi Ghoulam,25849,3187,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Konstantinos Manolas,92966,3187,524,187528,Right Centre Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Piotr Zieli?ski,99902,3187,524,187528,Attacking Midfielder,Left Centre Midfielder,NaN,4.0,63.0,66.0,40.0,34.0,19.0,55.0,68.0,83.0,64.0,41.0,37.0,30.0,21.0,86.0,34.0,70.0,,,,74.0
+Stanislav Lobotka,167641,3187,524,187528,Left Defensive Midfielder,Defensive Midfielder,Left Centre Midfielder,48.0,73.0,93.0,75.0,28.0,11.0,,90.0,34.0,,45.0,47.0,42.0,57.0,46.0,,87.0,,,,8.0
+Matteo Politano,208696,3187,524,187528,Right Attacking Midfielder,Right Wing Forward,Right Winger,17.0,95.0,37.0,49.0,39.0,25.0,39.0,37.0,84.0,76.0,35.0,28.0,25.0,94.0,70.0,90.0,66.0,,,,75.0
+Amir Rrahmani,225472,3187,524,187528,Right Centre Back,NaN,NaN,92.0,14.0,98.0,66.0,87.0,81.0,43.0,78.0,1.0,,55.0,64.0,52.0,38.0,68.0,,34.0,,,,0.0
+Andrea Petagna,246175,3187,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Alex Meret,286215,3187,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Hirving Rodrigo Lozano Bahena,295156,3187,524,187528,Right Attacking Midfielder,Right Wing Forward,Right Winger,37.0,85.0,26.0,15.0,32.0,17.0,83.0,20.0,76.0,71.0,28.0,24.0,24.0,95.0,74.0,80.0,81.0,,,,8.0
+Fabián Ruiz Peña,346195,3187,524,187528,Left Defensive Midfielder,Right Defensive Midfielder,Defensive Midfielder,21.0,62.0,95.0,81.0,43.0,30.0,20.0,96.0,60.0,50.0,68.0,73.0,62.0,57.0,85.0,8.0,37.0,,,,0.0
+Eljif Elmas,402269,3187,524,187528,Left Attacking Midfielder,Left Centre Midfielder,Left Winger,15.0,91.0,73.0,13.0,47.0,34.0,44.0,42.0,57.0,13.0,25.0,18.0,16.0,78.0,68.0,68.0,72.0,,,,11.0
+Victor James Osimhen,403273,3187,524,187528,Striker,NaN,NaN,61.0,77.0,8.0,11.0,52.0,40.0,98.0,3.0,29.0,8.0,8.0,5.0,7.0,65.0,96.0,75.0,67.0,,,,0.0
+Adam Ounas,300830,3187,524,187528,Attacking Midfielder,Right Attacking Midfielder,Right Winger,,,,,,,,,,,,,,,,,,,,,
+Luca Palmiero,257030,3187,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Davide Marfella,471625,3187,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Gianluca Gaetano,471651,3187,524,187528,Right Centre Midfielder,Attacking Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Alessandro Zanoli,475430,3187,524,187528,Right Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Hubert Idasiak,563303,3187,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+André-Frank Zambo Anguissa,366401,3187,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,72.0,67.0,86.0,51.0,58.0,48.0,22.0,76.0,34.0,41.0,70.0,65.0,72.0,50.0,6.0,,53.0,,,,0.0
+Arnór Sigurdsson,376702,3191,524,187528,Attacking Midfielder,Left Wing Forward,Left Winger,,,,,,,,,,,,,,,,,,,,,
+Mattia Caldara,288663,3191,524,187528,Right Centre Back,Centre Back,NaN,63.0,13.0,63.0,89.0,80.0,96.0,34.0,44.0,4.0,,94.0,93.0,90.0,0.0,21.0,,30.0,,,,0.0
+Filippo Neri,602436,3191,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Nicolas Galazzi,589159,3191,524,187528,Right Wingback,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Niki Mäenpää,71,3191,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,82.0,50.0,96.0,
+Cristian Molinaro,14745,3191,524,187528,Left Back,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Marco Modolo,22126,3191,524,187528,Left Centre Back,Centre Back,Right Centre Back,,,,,,,,,,,,,,,,,,,,,
+Antonio Junior Vacca,23120,3191,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,22.0,31.0,77.0,69.0,49.0,60.0,,84.0,16.0,,75.0,71.0,67.0,34.0,17.0,,31.0,,,,0.0
+Luca Lezzerini,134414,3191,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mattia Aramu,134440,3191,524,187528,Attacking Midfielder,Right Wing Forward,Striker,11.0,28.0,5.0,23.0,26.0,32.0,44.0,20.0,88.0,64.0,27.0,36.0,31.0,66.0,72.0,47.0,100.0,,,,92.0
+Jacopo Dezi,143814,3191,524,187528,Right Centre Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Domen ?rnigoj,173285,3191,524,187528,Right Centre Midfielder,Right Winger,NaN,21.0,44.0,23.0,27.0,56.0,67.0,23.0,23.0,35.0,52.0,55.0,52.0,56.0,44.0,71.0,21.0,17.0,,,,0.0
+Francesco Di Mariano,232786,3191,524,187528,Attacking Midfielder,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Francesco Forte,240944,3191,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Óttar Magnús Karlsson,262626,3191,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Pasquale Mazzocchi,295890,3191,524,187528,Right Back,Right Wingback,NaN,39.0,86.0,24.0,39.0,44.0,54.0,11.0,36.0,54.0,66.0,61.0,61.0,51.0,65.0,11.0,,7.0,,,,73.0
+Pietro Ceccaroni,296800,3191,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,73.0,34.0,66.0,37.0,81.0,98.0,26.0,57.0,8.0,41.0,68.0,71.0,58.0,1.0,43.0,,36.0,,,,0.0
+Dennis Törset Johnsen,370745,3191,524,187528,Left Winger,Striker,Left Wing Forward,11.0,82.0,13.0,9.0,5.0,7.0,47.0,8.0,82.0,64.0,15.0,16.0,11.0,45.0,39.0,45.0,21.0,,,,10.0
+Luca Fiordilino,392394,3191,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Michael Svoboda,436278,3191,524,187528,Right Centre Back,Right Centre Back (3 at the back),Centre Back,63.0,27.0,83.0,88.0,82.0,98.0,,55.0,6.0,,92.0,94.0,94.0,28.0,5.0,,5.0,,,,0.0
+Bjarki Steinn Bjarkason,527577,3191,524,187528,Right Winger,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Sofian Kiyine,485013,3191,524,187528,Left Centre Midfielder,Left Winger,Attacking Midfielder,50.0,96.0,52.0,54.0,19.0,24.0,34.0,51.0,78.0,84.0,36.0,37.0,38.0,93.0,45.0,27.0,25.0,,,,91.0
+Bruno Oliveira Bertinato,363978,3191,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+David Chidozie Okereke,427754,3191,524,187528,Striker,Left Wing Forward,Attacking Midfielder,35.0,79.0,18.0,9.0,31.0,38.0,70.0,6.0,51.0,53.0,19.0,16.0,18.0,69.0,89.0,60.0,61.0,,,,0.0
+Daan Heymans,444390,3191,524,187528,Left Centre Midfielder,Striker,NaN,,,,,,,,,,,,,,,,,,,,,
+Thomas Henry,231238,3191,524,187528,Striker,NaN,NaN,76.0,20.0,23.0,13.0,27.0,34.0,87.0,4.0,53.0,18.0,6.0,9.0,27.0,25.0,92.0,49.0,90.0,,,,0.0
+Ridgeciano Haps,221037,3191,524,187528,Left Back,Left Back (5 at the back),Left Wingback,48.0,44.0,15.0,54.0,61.0,74.0,18.0,25.0,16.0,45.0,78.0,79.0,68.0,64.0,38.0,,86.0,,,,9.0
+Tyronne Ebuehi,332821,3191,524,187528,Right Back,Left Back,NaN,57.0,77.0,41.0,42.0,48.0,58.0,,24.0,37.0,89.0,74.0,64.0,58.0,48.0,15.0,,5.0,,,,0.0
+David Schnegg,556036,3191,524,187528,Left Back,Left Back (5 at the back),NaN,,,,,,,,,,,,,,,,,,,,,
+Dor Peretz,137965,3191,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Ethan Ampadu,423162,3191,524,187528,Defensive Midfielder,Right Centre Midfielder,Right Centre Back (3 at the back),88.0,42.0,40.0,73.0,75.0,90.0,,69.0,29.0,59.0,77.0,79.0,73.0,40.0,11.0,,47.0,,,,18.0
+Sergio Germán Romero,20606,3191,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,100.0,68.0,88.0,
+Gianluca Busio,520741,3191,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,65.0,40.0,77.0,64.0,58.0,71.0,16.0,48.0,46.0,0.0,63.0,58.0,57.0,38.0,38.0,7.0,32.0,,,,81.0
+Tanner Tessmann,540981,3191,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,,,,,,,,,,,,,,,,,,,,,
+Stefan Strandberg,54371,3192,524,187528,Right Centre Back,Centre Back,Left Centre Back,91.0,31.0,86.0,82.0,80.0,95.0,,77.0,25.0,,91.0,95.0,93.0,,12.0,,2.0,,,,66.0
+Luca Ranieri,523086,3192,524,187528,Left Back,Left Wingback,NaN,48.0,53.0,31.0,36.0,59.0,71.0,,50.0,32.0,87.0,49.0,49.0,40.0,24.0,37.0,6.0,10.0,,,,7.0
+Riccardo Gagliolo,220377,3192,524,187528,Left Centre Back (3 at the back),Left Centre Back,NaN,59.0,22.0,45.0,87.0,76.0,91.0,,65.0,18.0,66.0,92.0,92.0,90.0,,7.0,,42.0,,,,42.0
+Edoardo Vergani,535739,3192,524,187528,Striker,Right Winger,Right Wingback,,,,,,,,,,,,,,,,,,,,,
+Matteo Ruggeri,590721,3192,524,187528,Left Back,Left Wingback,Left Centre Back (3 at the back),,,,,,,,,,,,,,,,,,,,,
+Franck Ribéry,14726,3192,524,187528,Attacking Midfielder,Striker,Left Winger,4.0,98.0,61.0,29.0,0.0,0.0,41.0,39.0,95.0,40.0,15.0,17.0,25.0,65.0,5.0,43.0,89.0,,,,84.0
+Federico Bonazzoli,239298,3192,524,187528,Striker,NaN,NaN,21.0,30.0,35.0,27.0,4.0,5.0,89.0,20.0,59.0,11.0,21.0,19.0,18.0,17.0,83.0,63.0,98.0,,,,67.0
+Simeon Tochukwu Nwankwo,72397,3192,524,187528,Striker,NaN,NaN,55.0,5.0,24.0,13.0,33.0,40.0,87.0,2.0,39.0,,4.0,2.0,23.0,37.0,34.0,60.0,56.0,,,,0.0
+Joel Chukwuma Obi,20525,3192,524,187528,Left Centre Midfielder,Right Centre Midfielder,Attacking Midfielder,60.0,25.0,44.0,48.0,40.0,47.0,,11.0,57.0,33.0,55.0,45.0,51.0,66.0,4.0,24.0,70.0,,,,31.0
+Grigoris Kastanos,281887,3192,524,187528,Left Centre Midfielder,NaN,NaN,59.0,51.0,19.0,52.0,34.0,40.0,38.0,37.0,61.0,40.0,35.0,39.0,40.0,65.0,40.0,29.0,90.0,,,,83.0
+Vincenzo Fiorillo,20605,3192,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ramzi Aya,21574,3192,524,187528,Right Centre Back (3 at the back),Right Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Francesco Di Tacchio,21854,3192,524,187528,Defensive Midfielder,Left Centre Midfielder,NaN,56.0,1.0,49.0,55.0,58.0,69.0,2.0,53.0,19.0,,60.0,63.0,65.0,16.0,18.0,,73.0,,,,59.0
+Vid Belec,22552,3192,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,54.0,54.0,55.0,
+Milan ?uri?,22575,3192,524,187528,Striker,NaN,NaN,100.0,2.0,11.0,33.0,37.0,44.0,85.0,2.0,47.0,,29.0,33.0,46.0,24.0,43.0,56.0,70.0,,,,0.0
+Norbert Gyömbér,104937,3192,524,187528,Right Centre Back (3 at the back),Right Centre Back,Centre Back,76.0,7.0,40.0,70.0,80.0,95.0,,46.0,16.0,23.0,78.0,82.0,70.0,10.0,2.0,,15.0,,,,35.0
+Leonardo Capezzi,134429,3192,524,187528,Left Centre Midfielder,Defensive Midfielder,Right Centre Midfielder,,,,,,,,,,,,,,,,,,,,,
+Frédéric Veseli,134954,3192,524,187528,Right Centre Back (3 at the back),Right Back,Left Centre Back (3 at the back),,,,,,,,,,,,,,,,,,,,,
+Andrea Schiavone,208697,3192,524,187528,Right Centre Midfielder,Defensive Midfielder,Left Centre Midfielder,,,,,,,,,,,,,,,,,,,,,
+Guido Guerrieri,241675,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Pawe? Jaroszy?ski,269188,3192,524,187528,Left Back (5 at the back),Left Centre Back (3 at the back),Left Centre Back,,,,,,,,,,,,,,,,,,,,,
+Julian Kristoffersen,279705,3192,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Luka Bogdan,335718,3192,524,187528,Centre Back,Left Centre Back (3 at the back),Left Centre Back,,,,,,,,,,,,,,,,,,,,,
+Cedric Gondo,388921,3192,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mamadou Coulibaly,498015,3192,524,187528,Right Centre Midfielder,NaN,NaN,46.0,50.0,46.0,37.0,11.0,13.0,,49.0,24.0,19.0,75.0,66.0,67.0,33.0,78.0,,49.0,,,,0.0
+Nadir Zortea,477270,3192,524,187528,Right Back,Left Wingback,Right Back (5 at the back),12.0,66.0,13.0,60.0,37.0,44.0,20.0,30.0,63.0,88.0,52.0,46.0,39.0,79.0,46.0,9.0,3.0,,,,12.0
+Carmine Iannone,551298,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Filippo Delli Carri,485099,3192,524,187528,Right Centre Back (3 at the back),Right Back (5 at the back),Right Back,,,,,,,,,,,,,,,,,,,,,
+Antonio Russo,573170,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Jacopo De Matteis,602993,3192,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Lassana Coulibaly,366760,3192,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,38.0,46.0,68.0,62.0,42.0,50.0,4.0,35.0,23.0,30.0,53.0,56.0,51.0,36.0,11.0,,84.0,,,,0.0
+Wajdi Kechrida,443309,3192,524,187528,Right Wingback,Right Back,Right Back (5 at the back),2.0,49.0,12.0,20.0,31.0,37.0,,47.0,58.0,79.0,21.0,26.0,16.0,19.0,15.0,15.0,0.0,,,,12.0
+Aleksander Buksa,608650,3193,524,187528,Striker,Right Winger,Left Wing Forward,,,,,,,,,,,,,,,,,,,,,
+Laurens Serpe,545361,3193,524,187528,Right Centre Back (3 at the back),NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Hernani Azevedo Júnior,134797,3193,524,187528,Left Centre Midfielder,Right Centre Midfielder,Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Mattia Bani,215869,3193,524,187528,Right Centre Back,Centre Back,NaN,99.0,,46.0,67.0,84.0,96.0,,42.0,5.0,,75.0,83.0,82.0,,6.0,,66.0,,,,0.0
+Felipe Salvador Caicedo Corozo,101635,3193,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mohamed Salim Fares,328336,3193,524,187528,Left Back,Left Attacking Midfielder,Left Wingback,,,,,,,,,,,,,,,,,,,,,
+Salvatore Sirigu,25421,3193,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,70.0,70.0,66.0,
+Nikola Maksimovi?,127524,3193,524,187528,Right Centre Back,Left Centre Back,Centre Back,90.0,17.0,83.0,59.0,77.0,88.0,,54.0,15.0,,74.0,83.0,67.0,3.0,15.0,,29.0,,,,0.0
+Federico Marchetti,20541,3193,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Mattia Destro,20796,3193,524,187528,Striker,NaN,NaN,49.0,16.0,7.0,25.0,19.0,19.0,90.0,3.0,25.0,,35.0,28.0,42.0,18.0,96.0,56.0,65.0,,,,0.0
+Andrea Masiello,20841,3193,524,187528,Centre Back,Right Centre Back,Right Centre Back (3 at the back),,,,,,,,,,,,,,,,,,,,,
+Valon Behrami,20938,3193,524,187528,Right Centre Midfielder,Defensive Midfielder,Right Defensive Midfielder,,,,,,,,,,,,,,,,,,,,,
+Goran Pandev,21177,3193,524,187528,Striker,Attacking Midfielder,NaN,22.0,18.0,16.0,18.0,21.0,22.0,,12.0,57.0,,22.0,21.0,22.0,50.0,7.0,69.0,100.0,,,,0.0
+Milan Badelj,69400,3193,524,187528,Defensive Midfielder,Left Defensive Midfielder,Left Centre Midfielder,53.0,20.0,33.0,80.0,44.0,49.0,12.0,76.0,38.0,43.0,92.0,86.0,89.0,39.0,30.0,,21.0,,,,0.0
+Domenico Criscito,101554,3193,524,187528,Left Back,Left Centre Back (3 at the back),Left Centre Back,70.0,39.0,35.0,51.0,74.0,85.0,0.0,80.0,57.0,57.0,58.0,67.0,63.0,32.0,20.0,,73.0,,,,57.0
+Davide Biraschi,206318,3193,524,187528,Right Centre Back (3 at the back),Right Centre Back,Right Back,86.0,48.0,46.0,90.0,77.0,87.0,,72.0,40.0,54.0,55.0,64.0,64.0,53.0,18.0,,49.0,,,,0.0
+Filippo Melegoni,351009,3193,524,187528,Right Attacking Midfielder,Left Winger,Attacking Midfielder,6.0,75.0,13.0,21.0,23.0,24.0,24.0,23.0,73.0,89.0,28.0,34.0,38.0,73.0,52.0,30.0,71.0,,,,80.0
+Paolo Ghiglione,359508,3193,524,187528,Right Back (5 at the back),Right Back,NaN,,,,,,,,,,,,,,,,,,,,,
+Manolo Portanova,496673,3193,524,187528,Left Attacking Midfielder,Left Centre Midfielder,Left Winger,30.0,74.0,0.0,50.0,44.0,49.0,74.0,8.0,30.0,8.0,41.0,38.0,52.0,67.0,28.0,31.0,67.0,,,,78.0
+Nicolò Rovella,567230,3193,524,187528,Left Centre Midfielder,NaN,NaN,9.0,68.0,53.0,51.0,30.0,32.0,13.0,59.0,63.0,46.0,52.0,53.0,58.0,65.0,14.0,7.0,68.0,,,,100.0
+Stefano Sturaro,21290,3193,524,187528,Right Centre Midfielder,Right Defensive Midfielder,NaN,67.0,27.0,6.0,73.0,32.0,34.0,26.0,25.0,28.0,24.0,69.0,68.0,75.0,10.0,6.0,2.0,81.0,,,,48.0
+Andrea Favilli,357377,3193,524,187528,Right Wing Forward,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Lorenzo Andrenacci,279998,3193,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Adrian emper,352088,3193,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Stefano Sabelli,134478,3193,524,187528,Right Wingback,Right Back (5 at the back),NaN,,,,,,,,,,,,,,,,,,,,,
+Andrea Cambiaso,409322,3193,524,187528,Left Back (5 at the back),Right Back,Left Wingback,23.0,87.0,35.0,66.0,52.0,58.0,16.0,39.0,57.0,53.0,88.0,83.0,81.0,72.0,41.0,18.0,27.0,,,,45.0
+Flavio Bianchi,504804,3193,524,187528,Striker,Left Wing Forward,NaN,,,,,,,,,,,,,,,,,,,,,
+Yayah Kallon,587925,3193,524,187528,Right Attacking Midfielder,Striker,Right Winger,,,,,,,,,,,,,,,,,,,,,
+Steeve-Mike Eboa Ebongue Eyango,630514,3193,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Zinho Vanheusden,399493,3193,524,187528,Right Centre Back (3 at the back),Left Centre Back,Right Centre Back,89.0,40.0,68.0,67.0,86.0,98.0,,42.0,17.0,,84.0,87.0,67.0,13.0,14.0,,38.0,,,,0.0
+Abdoulaye Touré,217874,3193,524,187528,Right Centre Midfielder,Left Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Caleb Ekuban,251188,3193,524,187528,Striker,Right Attacking Midfielder,NaN,49.0,48.0,15.0,24.0,32.0,34.0,61.0,7.0,63.0,16.0,20.0,26.0,38.0,40.0,22.0,54.0,70.0,,,,0.0
+Johan Felipe Vásquez Ibarra,511944,3193,524,187528,Left Back,Left Centre Back (3 at the back),Left Centre Back,67.0,8.0,25.0,90.0,73.0,82.0,16.0,61.0,8.0,19.0,91.0,83.0,84.0,37.0,36.0,,41.0,,,,36.0
+Pablo Ignacio Galdames Millán,259938,3193,524,187528,Right Defensive Midfielder,Right Centre Midfielder,Attacking Midfielder,12.0,3.0,35.0,36.0,39.0,43.0,12.0,53.0,58.0,66.0,43.0,50.0,50.0,26.0,17.0,,42.0,,,,63.0
+Boko utalo,582178,3194,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),Right Wingback,65.0,44.0,40.0,90.0,81.0,87.0,,32.0,10.0,25.0,98.0,96.0,100.0,17.0,14.0,,31.0,,,,0.0
+Giovanni Pablo Simeone,269152,3194,524,187528,Striker,NaN,NaN,39.0,53.0,21.0,24.0,29.0,24.0,94.0,3.0,57.0,28.0,33.0,27.0,40.0,33.0,100.0,72.0,75.0,,,,7.0
+Marco Davide Faraoni,20516,3194,524,187528,Right Wingback,NaN,NaN,51.0,21.0,10.0,56.0,56.0,57.0,47.0,63.0,70.0,93.0,72.0,62.0,62.0,26.0,70.0,,51.0,,,,0.0
+Alessandro Berardi,20539,3194,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Miguel Luís Pinto Veloso,21288,3194,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,57.0,42.0,58.0,49.0,54.0,55.0,6.0,91.0,68.0,60.0,63.0,64.0,62.0,43.0,17.0,,10.0,,,,100.0
+Federico Ceccherini,21528,3194,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),NaN,73.0,26.0,53.0,75.0,67.0,70.0,,63.0,20.0,,57.0,66.0,67.0,19.0,19.0,,37.0,,,,0.0
+Daniel Sartori Bessa,22381,3194,524,187528,Right Centre Midfielder,Attacking Midfielder,NaN,57.0,75.0,45.0,37.0,49.0,48.0,15.0,77.0,65.0,49.0,81.0,72.0,65.0,75.0,58.0,26.0,59.0,,,,61.0
+Adrien  Tamèze,28230,3194,524,187528,Right Centre Midfielder,NaN,NaN,59.0,56.0,44.0,82.0,51.0,51.0,15.0,63.0,52.0,46.0,86.0,80.0,86.0,52.0,72.0,,48.0,,,,0.0
+Nikola Kalini?,105376,3194,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Darko Lazovi?,127534,3194,524,187528,Left Wingback,NaN,NaN,28.0,79.0,7.0,26.0,44.0,42.0,41.0,64.0,89.0,87.0,44.0,51.0,33.0,46.0,18.0,,5.0,,,,47.0
+Koray Günter,134375,3194,524,187528,Centre Back,NaN,NaN,90.0,21.0,56.0,78.0,85.0,91.0,,72.0,1.0,,82.0,88.0,88.0,,5.0,,18.0,,,,0.0
+Mattia Zaccagni,246633,3194,524,187528,Left Wing Forward,Left Winger,NaN,45.0,91.0,55.0,47.0,20.0,14.0,62.0,19.0,78.0,36.0,44.0,46.0,40.0,88.0,79.0,90.0,98.0,,,,55.0
+Pawe? Dawidowicz,247996,3194,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,70.0,42.0,78.0,91.0,85.0,91.0,,55.0,17.0,,77.0,78.0,82.0,40.0,12.0,,43.0,,,,0.0
+Giangiacomo Magnani,262369,3194,524,187528,Centre Back,Right Centre Back (3 at the back),Left Centre Back (3 at the back),93.0,24.0,59.0,96.0,82.0,88.0,,61.0,0.0,,87.0,91.0,89.0,,12.0,,53.0,,,,0.0
+Antonín Barák,265172,3194,524,187528,Attacking Midfielder,Right Wing Forward,NaN,49.0,69.0,56.0,16.0,42.0,40.0,73.0,43.0,73.0,20.0,18.0,20.0,32.0,69.0,81.0,50.0,19.0,,,,56.0
+Kevin Rüegg,328191,3194,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Kevin Lasagna,333913,3194,524,187528,Striker,Attacking Midfielder,Right Wing Forward,41.0,67.0,31.0,31.0,16.0,9.0,80.0,7.0,65.0,59.0,23.0,20.0,36.0,39.0,44.0,51.0,23.0,,,,0.0
+Y?ld?r?m Mert Çetin,461391,3194,524,187528,Right Wingback,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Ivan Ili?,481266,3194,524,187528,Left Centre Midfielder,Right Centre Midfielder,NaN,70.0,47.0,49.0,39.0,64.0,66.0,25.0,62.0,31.0,27.0,50.0,55.0,55.0,18.0,29.0,,54.0,,,,79.0
+Ivor Pandur,484413,3194,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Samuel Di Carmine,21520,3194,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Gianluca Caprari,21376,3194,524,187528,Attacking Midfielder,Striker,Left Wing Forward,5.0,86.0,44.0,27.0,13.0,6.0,57.0,35.0,93.0,65.0,28.0,23.0,21.0,51.0,92.0,74.0,91.0,,,,87.0
+Lorenzo Montipò,226220,3194,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,89.0,51.0,67.0,
+Antonino Ragusa,22699,3194,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Nicolò Casale,485151,3194,524,187528,Left Centre Back (3 at the back),Right Centre Back (3 at the back),Centre Back,75.0,41.0,51.0,71.0,73.0,77.0,,52.0,31.0,30.0,72.0,77.0,78.0,24.0,6.0,,34.0,,,,0.0
+Gianluca Frabotta,489124,3194,524,187528,Left Back,Striker,NaN,,,,,,,,,,,,,,,,,,,,,
+Matteo Cancellieri,601307,3194,524,187528,Right Winger,Right Wingback,Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Diego Coppola,637472,3194,524,187528,Centre Back,Right Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,,,,,,
+Martin Hongla,453270,3194,524,187528,Right Centre Midfielder,Left Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Samuel Mráz,282203,3205,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Rey Manaj,339210,3205,524,187528,Striker,NaN,NaN,59.0,54.0,42.0,8.0,13.0,14.0,69.0,9.0,38.0,,4.0,10.0,24.0,31.0,52.0,61.0,90.0,,,,66.0
+Dennis Deloriè,628733,3205,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Viktor Kovalenko,241566,3205,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,34.0,20.0,37.0,30.0,39.0,45.0,,43.0,56.0,21.0,21.0,35.0,31.0,16.0,49.0,23.0,57.0,,,,68.0
+Eddy Anthony Salcedo Mora,520774,3205,524,187528,Attacking Midfielder,Right Winger,Right Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Ebrima Colley,559712,3205,524,187528,Left Wing Forward,Right Attacking Midfielder,Right Wing Forward,,,,,,,,,,,,,,,,,,,,,
+Arkadiusz Reca,212219,3205,524,187528,Left Back,Left Back (5 at the back),Left Wingback,39.0,78.0,12.0,50.0,51.0,60.0,,42.0,54.0,56.0,67.0,58.0,53.0,32.0,10.0,,21.0,,,,0.0
+Jeroen Zoet,337,3205,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Jacopo Sala,14904,3205,524,187528,Defensive Midfielder,Left Defensive Midfielder,Right Centre Midfielder,59.0,18.0,82.0,70.0,22.0,26.0,,63.0,19.0,,70.0,61.0,61.0,19.0,57.0,,59.0,,,,47.0
+Ivan Provedel,251187,3205,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,89.0,63.0,78.0,
+Simone Bastoni,297755,3205,524,187528,Left Back,Left Centre Midfielder,NaN,73.0,71.0,16.0,52.0,51.0,60.0,25.0,64.0,70.0,84.0,55.0,49.0,45.0,59.0,67.0,,62.0,,,,59.0
+M'Bala Nzola,299172,3205,524,187528,Striker,NaN,NaN,33.0,58.0,70.0,12.0,24.0,28.0,74.0,4.0,62.0,,9.0,6.0,21.0,45.0,58.0,51.0,15.0,,,,0.0
+Emmanuel Quartsin Gyasi,300374,3205,524,187528,Left Attacking Midfielder,Left Winger,Right Winger,18.0,37.0,59.0,52.0,29.0,33.0,65.0,10.0,33.0,6.0,44.0,39.0,50.0,61.0,73.0,50.0,65.0,,,,0.0
+Daniele Verde,343925,3205,524,187528,Right Attacking Midfielder,Left Attacking Midfielder,Left Winger,19.0,62.0,42.0,8.0,12.0,13.0,58.0,42.0,92.0,87.0,27.0,31.0,17.0,78.0,90.0,52.0,39.0,,,,95.0
+Martin Erli?,364637,3205,524,187528,Right Centre Back,Centre Back,NaN,72.0,3.0,53.0,66.0,82.0,97.0,33.0,36.0,5.0,,81.0,84.0,76.0,21.0,49.0,,28.0,,,,0.0
+Luca Vignali,392402,3205,524,187528,Right Wingback,Right Back,Left Wingback,,,,,,,,,,,,,,,,,,,,,
+Giulio Maggiore,441701,3205,524,187528,Right Centre Midfielder,Attacking Midfielder,NaN,31.0,45.0,21.0,31.0,28.0,33.0,40.0,49.0,47.0,6.0,42.0,46.0,48.0,16.0,34.0,20.0,89.0,,,,0.0
+Kevin Andrés Agudelo Ardila,495777,3205,524,187528,Attacking Midfielder,Striker,NaN,33.0,82.0,29.0,43.0,8.0,9.0,47.0,25.0,48.0,10.0,25.0,28.0,35.0,47.0,78.0,37.0,66.0,,,,33.0
+Salvador Ferrer Canals,588115,3205,524,187528,Right Back,Left Back,Right Defensive Midfielder,65.0,45.0,41.0,67.0,70.0,82.0,,57.0,62.0,86.0,59.0,71.0,67.0,27.0,11.0,,21.0,,,,31.0
+Mehdi Bourabia,190380,3205,524,187528,Defensive Midfielder,Left Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Dimitrios Nikolaou,283902,3205,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,36.0,36.0,51.0,73.0,78.0,92.0,,60.0,11.0,,70.0,78.0,73.0,37.0,18.0,,22.0,,,,0.0
+Petko Hristov,372079,3205,524,187528,Right Centre Back,Right Centre Back (3 at the back),NaN,83.0,5.0,75.0,54.0,80.0,94.0,,53.0,6.0,,61.0,67.0,56.0,24.0,51.0,,62.0,,,,0.0
+Petar Zovko,588738,3205,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Suf Podgoreanu,536667,3205,524,187528,Left Winger,Left Attacking Midfielder,Right Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Nicolò Bertola,632937,3205,524,187528,Attacking Midfielder,Right Defensive Midfielder,Right Centre Back,,,,,,,,,,,,,,,,,,,,,
+Dávid Strelec,541249,3205,524,187528,Right Attacking Midfielder,Right Winger,Left Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Kelvin Amian Adou,352986,3205,524,187528,Right Back,Right Centre Back (3 at the back),NaN,58.0,29.0,30.0,58.0,65.0,77.0,42.0,32.0,35.0,12.0,43.0,57.0,41.0,29.0,17.0,,16.0,,,,9.0
+Janis Antiste,590664,3205,524,187528,Striker,Right Winger,Right Attacking Midfielder,50.0,70.0,11.0,42.0,24.0,28.0,,3.0,41.0,48.0,13.0,12.0,22.0,15.0,47.0,63.0,21.0,,,,0.0
+Aurélien Nguiamba,404225,3205,524,187528,Left Defensive Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Jakub Kiwior,482177,3205,524,187528,Defensive Midfielder,Left Defensive Midfielder,Right Defensive Midfielder,65.0,2.0,29.0,58.0,70.0,82.0,,29.0,18.0,,83.0,80.0,82.0,40.0,9.0,,6.0,,,,0.0
+Aimar Sher,582319,3205,524,187528,Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Gioele  Zacchi,626332,3315,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Samuele Vitale,635291,3315,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Luigi Samele,659110,3315,524,187528,Striker,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Edoardo Goldaniga,246059,3315,524,187528,Right Centre Back (3 at the back),Centre Back,NaN,84.0,8.0,22.0,71.0,62.0,71.0,,53.0,9.0,11.0,72.0,70.0,74.0,9.0,7.0,,61.0,,,,0.0
+Gianluca Scamacca,347024,3315,524,187528,Striker,NaN,NaN,77.0,26.0,33.0,18.0,28.0,31.0,93.0,8.0,51.0,27.0,5.0,8.0,14.0,54.0,100.0,83.0,26.0,,,,60.0
+Filip ?uri?i?,174,3315,524,187528,Attacking Midfielder,Right Attacking Midfielder,Left Attacking Midfielder,,,,,,,,,,,,,,,,,,,,,
+Gianluca Pegolo,20771,3315,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Andrea Consigli,20832,3315,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,73.0,80.0,67.0,
+Federico Peluso,20842,3315,524,187528,Left Centre Back,Left Centre Back (3 at the back),NaN,,,,,,,,,,,,,,,,,,,,,
+Francesco Caputo,21657,3315,524,187528,Striker,NaN,NaN,28.0,25.0,31.0,0.0,6.0,6.0,94.0,2.0,60.0,20.0,0.0,0.0,0.0,28.0,80.0,73.0,63.0,,,,0.0
+Francesco Magnanelli,22162,3315,524,187528,Defensive Midfielder,Right Defensive Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Gianmarco Ferrari,22270,3315,524,187528,Left Centre Back,NaN,NaN,92.0,9.0,97.0,70.0,71.0,81.0,29.0,90.0,23.0,,84.0,85.0,75.0,1.0,19.0,,54.0,,,,0.0
+Gregoire  Defrel,23149,3315,524,187528,Striker,Right Attacking Midfielder,NaN,26.0,62.0,80.0,34.0,23.0,25.0,80.0,7.0,62.0,,18.0,21.0,31.0,50.0,39.0,69.0,47.0,,,,11.0
+Vlad Iulian Chiriche?,83575,3315,524,187528,Right Centre Back,NaN,NaN,50.0,10.0,96.0,58.0,77.0,89.0,,44.0,1.0,,81.0,88.0,78.0,26.0,6.0,,19.0,,,,0.0
+Kaan Ayhan,134373,3315,524,187528,Right Centre Back,Left Centre Back,NaN,64.0,46.0,91.0,66.0,81.0,94.0,,91.0,17.0,,63.0,72.0,57.0,23.0,47.0,,3.0,,,,53.0
+Jeremy Toljan,149389,3315,524,187528,Right Back,NaN,NaN,54.0,65.0,65.0,47.0,57.0,66.0,,43.0,64.0,48.0,70.0,55.0,51.0,11.0,16.0,14.0,16.0,,,,0.0
+Domenico Berardi,209400,3315,524,187528,Right Attacking Midfielder,Right Wing Forward,Right Winger,51.0,80.0,42.0,20.0,29.0,32.0,66.0,66.0,94.0,63.0,44.0,44.0,41.0,77.0,84.0,85.0,95.0,,,,88.0
+Jeremie Boga,227756,3315,524,187528,Left Attacking Midfielder,Striker,NaN,30.0,100.0,52.0,31.0,8.0,8.0,45.0,28.0,89.0,20.0,44.0,48.0,35.0,81.0,7.0,95.0,70.0,,,,36.0
+Luká Haraslín,262365,3315,524,187528,NaN,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Georgios Kyriakopoulos,272673,3315,524,187528,Left Back,Left Attacking Midfielder,NaN,41.0,87.0,58.0,44.0,53.0,61.0,14.0,65.0,64.0,76.0,64.0,64.0,53.0,74.0,14.0,20.0,73.0,,,,48.0
+Maxime López,280115,3315,524,187528,Left Defensive Midfielder,Defensive Midfielder,NaN,32.0,68.0,97.0,61.0,23.0,25.0,14.0,98.0,39.0,38.0,71.0,64.0,58.0,38.0,49.0,,46.0,,,,9.0
+Rogério Oliveira da Silva,403449,3315,524,187528,Left Back,NaN,NaN,27.0,79.0,62.0,66.0,54.0,62.0,9.0,63.0,69.0,57.0,86.0,80.0,67.0,80.0,13.0,,81.0,,,,58.0
+Mert Müldür,425915,3315,524,187528,Right Back,NaN,NaN,16.0,82.0,29.0,68.0,58.0,66.0,,68.0,54.0,43.0,54.0,63.0,56.0,31.0,13.0,16.0,27.0,,,,0.0
+Giacomo Raspadori,481332,3315,524,187528,Attacking Midfielder,Left Wing Forward,Left Winger,9.0,44.0,45.0,21.0,15.0,15.0,80.0,19.0,58.0,9.0,18.0,19.0,17.0,68.0,88.0,70.0,51.0,,,,77.0
+Hamed Junior Traoré,518165,3315,524,187528,Left Attacking Midfielder,Left Centre Midfielder,Left Winger,20.0,95.0,45.0,27.0,26.0,28.0,70.0,48.0,75.0,23.0,30.0,38.0,30.0,72.0,91.0,69.0,69.0,,,,61.0
+Brian Safo Oddei,596320,3315,524,187528,Right Attacking Midfielder,Right Winger,NaN,,,,,,,,,,,,,,,,,,,,,
+Davide Frattesi,423151,3315,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,37.0,82.0,63.0,47.0,52.0,59.0,59.0,45.0,61.0,1.0,74.0,72.0,70.0,48.0,45.0,17.0,85.0,,,,0.0
+Giacomo Satalino,419489,3315,524,187528,Goalkeeper,NaN,NaN,,,,,,,,,,,,,,,,,,,,,
+Abdou Harroui,450972,3315,524,187528,Right Defensive Midfielder,Right Centre Midfielder,NaN,,,,,,,,,,,,,,,,,,,,,
+Matheus Henrique De Souza,370335,3315,524,187528,Left Centre Midfielder,Left Defensive Midfielder,NaN,26.0,53.0,92.0,30.0,29.0,32.0,,76.0,48.0,,25.0,36.0,24.0,80.0,16.0,,53.0,,,,54.0
